@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ecommon/ecommon.iml" filepath="$PROJECT_DIR$/ecommon/ecommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/evilbonefun.iml" filepath="$PROJECT_DIR$/evilbonefun.iml" />
+    </modules>
+  </component>
+</project>
