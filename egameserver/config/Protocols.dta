@@ -1,0 +1,1 @@
+[OtherProtocol]Class = com.hsj.egameserver.protocol.OtherProtocolMinVersion = 0MaxVersion = 10000[DefaultProtocol]Class = com.hsj.egameserver.protocol.DefaultProtocolMinVersion = 0MaxVersion = 10000

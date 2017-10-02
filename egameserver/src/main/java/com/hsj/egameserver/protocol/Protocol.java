@@ -60,22 +60,19 @@ public abstract class Protocol {
 
 
     public static void load() throws ClassNotFoundException {
-
         protocols.clear();
         Parser protocolConfig = new Parser();
         try {
-            protocolConfig.parse("config/Protocols.dta");
+            protocolConfig.parse("egameserver/config/Protocols.dta");
             Iterator<ParsedItem> iter = protocolConfig.getItemListIterator();
             while (iter.hasNext()) {
                 ParsedItem item = iter.next();
                 Class<?> protocolName = Class.forName(item.getMemberValue("Class"));
                 protocols.add(protocolName);
             }
-
         } catch (IOException e) {
             e.printStackTrace();
         }
-
     }
 
     public abstract String decryptServer(byte data[]);

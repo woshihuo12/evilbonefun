@@ -1,5 +1,7 @@
 package com.hsj.egameserver.protocol;
 
+import com.hsj.ecommon.StringBuilderCache;
+
 import java.net.InetAddress;
 import java.net.UnknownHostException;
 import java.util.regex.Matcher;
@@ -7,7 +9,7 @@ import java.util.regex.Matcher;
 public class ProtocolTest {
 
     public ProtocolTest() throws UnknownHostException {
-        //enc();
+        enc();
         dec();
     }
 
@@ -123,7 +125,7 @@ public class ProtocolTest {
         int b = r ^ 9999 ^ 2000;
         System.out.println(b);
 
-        //new ProtocolTest();
+        new ProtocolTest();
 
 
     }
@@ -170,11 +172,11 @@ public class ProtocolTest {
         if (raw == null) {
             return null;
         }
-        final StringBuilder hex = new StringBuilder(2 * raw.length);
+        final StringBuilder hex = StringBuilderCache.Acquire();
         for (final byte b : raw) {
             hex.append(HEXES.charAt((b & 0xF0) >> 4))
                     .append(HEXES.charAt((b & 0x0F)));
         }
-        return hex.toString();
+        return StringBuilderCache.GetStringAndRelease(hex);
     }
 }
