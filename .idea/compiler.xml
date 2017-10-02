@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ecommon" />
+        <module name="egameserver" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ecommon" target="1.8" />
+      <module name="egameserver" target="1.8" />
       <module name="evilbonefun" target="1.8" />
     </bytecodeTargetLevel>
   </component>

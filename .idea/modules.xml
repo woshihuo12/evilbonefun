@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ecommon/ecommon.iml" filepath="$PROJECT_DIR$/ecommon/ecommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/egameserver/egameserver.iml" filepath="$PROJECT_DIR$/egameserver/egameserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/evilbonefun.iml" filepath="$PROJECT_DIR$/evilbonefun.iml" />
     </modules>
   </component>

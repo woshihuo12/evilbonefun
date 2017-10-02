@@ -7,9 +7,10 @@
     <groupId>hsj</groupId>
     <artifactId>evilbonefun</artifactId>
     <packaging>pom</packaging>
-    <version>M1</version>
+    <version>0.0.1.M1</version>
     <modules>
         <module>ecommon</module>
+        <module>egameserver</module>
     </modules>
 
     <dependencies>
