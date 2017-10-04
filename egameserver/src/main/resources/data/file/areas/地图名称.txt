@@ -1,0 +1,131 @@
+1 balkariya   巴罗 T2
+
+2 barsha     巴鲁 T3
+
+3 beargrid   巴古 T5
+
+4 deckadun      顿
+
+5 deckaran      蓝
+
+6 dimitron      米
+
+7 genuslabor    洞
+
+8 greatewhitehorn  冰峰谷
+
+9 laglamia      拉迷  
+
+10 lostrealmcastle   失落
+
+11 marboten    麦翠斯      
+
+12 paros  天城
+
+13 queiz 库一
+
+14 searost  西罗撕特地成
+
+15 shilon   下龙
+
+16 turan  f依兰
+
+[中型火箭]
+Type = 766
+
+[核子飞弹]
+Type = 767
+
+羊   ID  161
+袜怪 ID  304
+雪人 ID  305
+猴子 ID  315
+
+2381   10534    试练岛
+
+[Aisian Bandor-1]                   #仓库
+ID = 1
+X = 913
+Y = 10636
+Z = 70
+Rotation = 4.7123 #面下 
+Type = 139
+
+[Veterinary-12]  #考古学者别路里安
+ID = 1
+X = 1497
+Y = 10984
+Z = 0
+Rotation = 3.1415 #面左
+Type = 607
+
+[Machine Dealer-5]
+ID = 5
+X = 6907
+Y = 5041
+Z = 0
+Rotation = 0.0 #面右
+Type = 91   #机械商人  门口
+BuyRate = 100	# Value in %
+SellRate = 30	# Value in %
+Shop = areas/laglamia/shop/npc5.dta
+
+[Archeologist-1]
+ID = 1
+X = 7190
+Y = 5096
+Z = 0
+Rotation = 1.5707  #面上
+Type = 257    #史学家贝里恩
+
+
+[红色骷髅]
+Type = 1110
+
+[蓝色骷髅]
+Type = 1111
+
+[黄色骷髅]
+Type = 1112
+
+[绿色骷髅]
+Type = 1113
+
+[月饼]
+Type = 1084
+
+[永恒粽子]
+Type = 963
+
+[小月饼]
+ID = 297
+MainType = 20
+Effect = 20000
+Price = 50000
+SizeX = 1
+SizeY = 1
+Class = potion.AllPotion
+
+
+[月饼]
+ID = 1084
+MainType = 20
+Effect = 10000
+Price = 7000
+SizeX = 1
+SizeY = 1
+Class = potion.AllPotion
+
+[月饼]
+Type = 1084
+
+[小月饼]
+Type = 297
+
+
+
+
+
+
+
+

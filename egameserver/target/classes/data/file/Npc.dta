@@ -1,0 +1,389 @@
+##################
+###### NPCS ######
+##################
+
+[Aidia Mixing Merchant]
+ID = 330
+Hp = 100
+Class = Trader
+
+#[Castlesiege NPC]
+#ID = 136
+#Hp = 100
+#Class = Trader
+
+[Aisian Bandor]
+ID = 139
+Hp = 100
+Class = Warehouse
+
+[Archeologist]
+ID = 257
+Hp = 100
+Class = Trader
+
+[Assistant]
+ID = 95
+Hp = 100
+Class = Merchant
+
+[派罗斯杂货商人]
+ID = 238
+Hp = 100
+Class = Merchant
+
+[派罗斯弹丸商人]
+ID = 240
+Hp = 100
+Class = Merchant
+
+[Barmaid]
+ID = 92
+Hp = 100
+Class = Merchant
+
+[Blacksmith] ##
+ID = 90
+Hp = 100
+Class = Merchant
+
+[Bunny Girl 1]
+ID = 322
+Hp = 100
+Class = Merchant
+
+[Doctor]                #医生
+ID = 93
+Hp = 100
+Class = Merchant
+
+[Gem Gambler]
+ID = 167
+Hp = 100
+Class = Trader
+
+[Gem Shopkeeper A]
+ID = 166
+Hp = 100
+Class = Trader
+
+[Gem Shopkeeper B]
+ID = 293
+Hp = 100
+Class = Trader
+
+[Guard Captain]
+ID = 57
+Hp = 100
+Class = StatsRedistributor
+
+[Guard Master]
+ID = 117
+Hp = 100
+Class = Trader
+
+[Host]
+ID = 169
+Hp = 100
+Class = Trader
+
+[Machine Dealer] ##
+ID = 91
+Hp = 100
+Class = Merchant
+
+[Machine Shop Owner]
+ID = 51
+Hp = 100
+Class = Trader
+
+[Magic Shopkeeper] ##
+ID = 94
+Hp = 100
+Class = Merchant
+
+[Staff Merchant]
+ID = 75
+Hp = 100
+Class = Merchant
+
+[Potion Merchant]
+Type = 53
+Hp = 100
+Class = Merchant
+
+[A Gorgeous Girl]
+ID = 320
+Hp = 100
+Class = Merchant
+
+[Veterinary]
+ID = 189
+Hp = 100
+Class = Veterinary
+
+[Magican] ##
+ID = 140
+Hp = 100
+Class = Merchant
+
+[Paros Magician]
+ID = 141
+Hp = 100
+Class = Merchant
+
+[x_0 Trader]
+ID = 96
+Hp = 100
+Class = Merchant
+
+[Human Seller]
+ID = 65
+Hp = 100
+Class = Merchant
+
+[Human Bargirl]
+ID = 66
+Hp = 100
+Class = Merchant
+
+[Bulkan Blacksmith]
+ID = 71
+Hp = 100
+Class = Merchant
+
+[Kalipton Seller 1]
+ID = 73
+Hp = 100
+Class = Merchant
+
+[Kalipton Seller 2]
+ID = 75
+Hp = 100
+Class = Merchant
+
+[Merchant Searost]
+ID = 64
+Hp = 100
+Class = Merchant
+
+[TeamBattle Manager]
+ID = 336
+Hp = 100
+Class = NpcPlaceHolder
+
+[Shilon Keeper]
+ID = 136
+Hp = 999999999
+Class = NpcPlaceHolder
+
+[Tragates]
+ID = 175
+Hp = 999999999
+Class = NpcPlaceHolder
+
+[Hairia]
+ID = 176
+Hp = 999999999
+Class = NpcPlaceHolder
+
+[Battle Manager]
+ID = 211
+Hp = 999999999
+Class = NpcPlaceHolder
+
+[冰封守门人]
+ID = 319
+Hp = 999999999
+Class = NpcPlaceHolder
+
+[Egg Seller]
+ID = 188
+Hp = 999999999
+Class = EggSeller
+
+[Pet Researcher]
+ID = 67
+Hp = 999999999
+Class = NpcPlaceHolder
+
+[Assembling Merchant]
+ID = 191
+Hp = 999999999
+Class = AssemblingMerchant
+
+[Drill Instructor]
+ID = 190
+Hp = 999999999
+Class = DrillInstructor
+
+[Dekardi GMaster]
+ID = 303
+Hp = 999999999
+Class = NpcPlaceHolder
+
+[Platinum maker]
+ID = 76
+Hp = 999999999
+Class = NpcPlaceHolder
+
+[Potion Merchant 2]
+ID = 53
+Hp = 999999999
+Class = Merchant
+
+[Master Smith]
+ID = 52
+Hp = 999999999
+Class = Merchant
+
+[Armor Merchant]
+ID = 70
+Hp = 999999999
+Class = Merchant
+
+[Magician Shop]
+ID = 94
+Hp = 999999999
+Class = Merchant
+
+[强化商人]
+ID = 426
+Hp = 999999999
+Class = NpcPlaceHolder
+
+[公会]
+iD = 490
+Hp = 999999999
+Class = NpcPlaceHolder
+
+[公会管理员]
+iD = 480
+Hp = 999999999
+Class = NpcPlaceHolder
+
+[人类特派员]
+iD = 384
+Hp = 999999999
+Class = NpcPlaceHolder
+
+[考古学者别路里安]
+iD = 607
+Hp = 999999999
+Class = NpcPlaceHolder
+
+[大学者福莱特特尼斯]
+iD = 604
+Hp = 999999999
+Class = NpcPlaceHolder
+
+
+[马克达克首领]
+iD = 645
+Hp = 999999999
+Class = NpcPlaceHolder
+
+[收藏家凯里斯坦]
+iD = 605
+Hp = 999999999
+Class = NpcPlaceHolder
+
+[中日韩大战NPC]
+iD = 606
+Hp = 999999999
+Class = NpcPlaceHolder
+
+[信仰传播者]
+iD = 614
+Hp = 999999999
+Class = NpcPlaceHolder
+
+[贸易考察者]
+iD = 615
+Hp = 999999999
+Class = NpcPlaceHolder
+
+[安德兰守护]
+iD = 617
+Hp = 999999999
+Class = NpcPlaceHolder
+
+[堂德玛弹药商人]
+iD = 639
+Hp = 999999999
+Class = NpcPlaceHolder
+
+[堂德玛魔法商人]
+iD = 640
+Hp = 999999999
+Class = NpcPlaceHolder
+
+[堂德玛药剂商人]
+iD = 641
+Hp = 999999999
+Class = NpcPlaceHolder
+
+[安格玛弹药商人]
+iD = 642
+Hp = 999999999
+Class = NpcPlaceHolder
+
+[安格玛魔法商人]
+iD = 643
+Hp = 999999999
+Class = NpcPlaceHolder
+
+[安格玛药水商人]
+iD = 644
+Hp = 999999999
+Class = NpcPlaceHolder
+
+[魔法商人]
+iD = 648
+Hp = 999999999
+Class = NpcPlaceHolder
+
+[怪物攻击控制器]
+iD = 177
+Hp = 999999999
+Class = NpcPlaceHolder
+
+[怪物防御控制器]
+iD = 178
+Hp = 999999999
+Class = NpcPlaceHolder
+
+[求]
+iD = 173
+Hp = 999999999
+Class = NpcPlaceHolder
+
+[代售商品女郎]
+iD = 441
+Hp = 999999999
+Class = NpcPlaceHolder
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

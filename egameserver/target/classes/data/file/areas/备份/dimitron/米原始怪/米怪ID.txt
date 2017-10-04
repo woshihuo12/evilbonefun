@@ -1,0 +1,368 @@
+[Spawn 1205]#小蛇
+ID = 1205
+X = 10568
+Y = 11845
+Z = 142
+Radius = 50
+RespawnTime = 600
+Type = 437
+
+[Spawn 1206]#小蛇
+ID = 1206
+X = 10561
+Y = 11764
+Z = 142
+Radius = 50
+RespawnTime = 600
+Type = 436
+
+[Spawn 1207]#小蛇
+ID = 1207
+X = 10581
+Y = 11679
+Z = 142
+Radius = 50
+RespawnTime = 600
+Type = 442
+
+[Spawn 1208]#小蛇
+ID = 1208
+X = 10567
+Y = 11602
+Z = 142
+Radius = 50
+RespawnTime = 600
+Type = 443
+
+[Spawn 1209]#小蛇
+ID = 1209
+X = 10569
+Y = 11535
+Z = 142
+Radius = 50
+RespawnTime = 600
+Type = 437
+
+[Spawn 1210]#小蛇
+ID = 1210
+X = 10575
+Y = 11428
+Z = 142
+Radius = 50
+RespawnTime = 600
+Type = 436
+
+[Spawn 1211]#小蛇
+ID = 1211
+X = 10571
+Y = 11323
+Z = 142
+Radius = 50
+RespawnTime = 600
+Type = 442
+
+[Spawn 1212]#小蛇
+ID = 1212
+X = 10579
+Y = 11247
+Z = 142
+Radius = 50
+RespawnTime = 600
+Type = 443
+
+[Spawn 1213]#小蛇
+ID = 1213
+X = 10574
+Y = 11165
+Z = 142
+Radius = 50
+RespawnTime = 600
+Type = 437
+
+[Spawn 1214]#小蛇
+ID = 1214
+X = 10694
+Y = 11155
+Z = 142
+Radius = 50
+RespawnTime = 600
+Type = 436
+
+[Spawn 1215]#小蛇
+ID = 1215
+X = 10799
+Y = 11292
+Z = 142
+Radius = 50
+RespawnTime = 600
+Type = 442
+
+[Spawn 1216]#小蛇
+ID = 1216
+X = 10806
+Y = 11429
+Z = 142
+Radius = 50
+RespawnTime = 600
+Type = 443
+
+[Spawn 1217]#小蛇
+ID = 1217
+X = 10814
+Y = 11554
+Z = 142
+Radius = 50
+RespawnTime = 600
+Type = 437
+
+[Spawn 1218]#小蛇
+ID = 1218
+X = 10817
+Y = 11698
+Z = 142
+Radius = 50
+RespawnTime = 600
+Type = 436
+
+[Spawn 1219]#小蛇
+ID = 1219
+X = 10914
+Y = 11841
+Z = 142
+Radius = 50
+RespawnTime = 600
+Type = 442
+
+[Spawn 1220]#小蛇
+ID = 1220
+X = 10957
+Y = 11696
+Z = 142
+Radius = 50
+RespawnTime = 600
+Type = 443
+
+[Spawn 1221]#小蛇
+ID = 1221
+X = 11926
+Y = 11477
+Z = 142
+Radius = 50
+RespawnTime = 600
+Type = 437
+
+[Spawn 1222]
+ID = 1222
+X = 10928
+Y = 11305
+Z = 142
+Radius = 50
+RespawnTime = 600
+Type = 436
+
+[Spawn 1223]#小蛇
+ID = 1223
+X = 11027
+Y = 11182
+Z = 142
+Radius = 50
+RespawnTime = 600
+Type = 442
+
+[Spawn 1224]#小蛇
+ID = 1224
+X = 11187
+Y = 11172
+Z = 142
+Radius = 50
+RespawnTime = 600
+Type = 443
+
+[Spawn 1225]#小蛇
+ID = 1225
+X = 11274
+Y = 11217
+Z = 142
+Radius = 50
+RespawnTime = 600
+Type = 437
+
+[Spawn 1226]#小蛇
+ID = 1226
+X = 11284
+Y = 11315
+Z = 142
+Radius = 50
+RespawnTime = 600
+Type = 436
+
+[Spawn 1227]#小蛇
+ID = 1227
+X = 11240
+Y = 11449
+Z = 142
+Radius = 50
+RespawnTime = 600
+Type = 442
+
+[Spawn 1228]#小蛇
+ID = 1228
+X = 11330
+Y = 11604
+Z = 142
+Radius = 50
+RespawnTime = 600
+Type = 443
+
+[Spawn 1229]#小蛇
+ID = 1229
+X = 11319
+Y = 11790
+Z = 142
+Radius = 50
+RespawnTime = 600
+Type = 437
+
+[Spawn 1230]#小蛇
+ID = 1230
+X = 11200
+Y = 11852
+Z = 142
+Radius = 50
+RespawnTime = 600
+Type = 436
+
+[Spawn 1231]#小蛇
+ID = 1231
+X = 11061
+Y = 11692
+Z = 142
+Radius = 50
+RespawnTime = 600
+Type = 442
+
+[Spawn 1232]#小蛇
+ID = 1232
+X = 10923
+Y = 11731
+Z = 142
+Radius = 50
+RespawnTime = 600
+Type = 443
+
+[Spawn 1233]#小蛇
+ID = 1233
+X = 10919
+Y = 11580
+Z = 142
+Radius = 50
+RespawnTime = 600
+Type = 437
+
+[Spawn 1234]#小蛇
+ID = 1234
+X = 10890
+Y = 11411
+Z = 142
+Radius = 50
+RespawnTime = 600
+Type = 436
+
+[Spawn 1235]#小蛇
+ID = 1235
+X = 10833
+Y = 11257
+Z = 142
+Radius = 50
+RespawnTime = 600
+Type = 442
+
+[Spawn 1236]#小蛇
+ID = 1236
+X = 11029
+Y = 11277
+Z = 142
+Radius = 50
+RespawnTime = 600
+Type = 443
+
+[Spawn 1237]#小蛇
+ID = 1237
+X = 11098
+Y = 11297
+Z = 142
+Radius = 50
+RespawnTime = 600
+Type = 437
+
+[Spawn 1238]#小蛇
+ID = 1238
+X = 11188
+Y = 11227
+Z = 142
+Radius = 50
+RespawnTime = 600
+Type = 436
+
+[Spawn 1239]#小蛇
+ID = 1239
+X = 10975
+Y = 11218
+Z = 142
+Radius = 50
+RespawnTime = 600
+Type = 442
+
+[Spawn 1240]#小蛇
+ID = 1240
+X = 10635
+Y = 11218
+Z = 142
+Radius = 50
+RespawnTime = 600
+Type = 443
+
+[Spawn 1241]#小蛇
+ID = 1241
+X = 10798
+Y = 11282
+Z = 142
+Radius = 50
+RespawnTime = 600
+Type = 437
+
+[Spawn 1242]#小蛇
+ID = 1242
+X = 10875
+Y = 11456
+Z = 142
+Radius = 50
+RespawnTime = 600
+Type = 442
+
+[Spawn 1243]#小蛇
+ID = 1243
+X = 11076
+Y = 11603
+Z = 142
+Radius = 50
+RespawnTime = 600
+Type = 443
+
+[Spawn 1244]    #小蛇
+ID = 1244
+X = 11273
+Y = 11661
+Z = 142
+Radius = 50
+RespawnTime = 600
+Type = 437
+
+[Spawn 1245]        #######皇后
+ID = 1245
+X = 11347
+Y = 11510
+Z = 142
+Radius = 50
+RespawnTime = 7200
+Type = 438

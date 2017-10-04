@@ -1,0 +1,499 @@
+[Level 1]
+ID = 1
+Exp = 80
+lime = 80
+
+[Level 2]
+ID = 2
+Exp = 301
+lime = 330
+
+[Level 3]
+ID = 3
+Exp = 309
+lime = 339
+
+[Level 4]
+ID = 4
+Exp = 336
+lime = 366
+
+[Level 5]
+ID = 5
+Exp = 400
+lime = 430
+
+[Level 6]
+ID = 6
+Exp = 525
+lime = 555
+
+[Level 7]
+ID = 7
+Exp = 741
+lime = 771
+
+[Level 8]
+ID = 8
+Exp = 1084
+lime = 1114
+
+[Level 9]
+ID = 9
+Exp = 1596
+lime = 1626
+
+[Level 10]
+ID = 10
+Exp = 2325
+lime = 2355
+
+[Level 11]
+ID = 11
+Exp = 3325
+lime = 3355
+
+[Level 12]
+ID = 12
+Exp = 4656
+lime = 4686
+
+[Level 13]
+ID = 13
+Exp = 8112
+lime = 6414
+
+[Level 14]
+ID = 14
+Exp = 12506
+lime = 8611
+
+[Level 15]
+ID = 15
+Exp = 17994
+lime = 11355
+
+[Level 16]
+ID = 16
+Exp = 24744
+lime = 14730
+
+[Level 17]
+ID = 17
+Exp = 32936
+lime = 18826
+
+[Level 18]
+ID = 18
+Exp = 42762
+lime = 23739
+
+[Level 19]
+ID = 19
+Exp = 54426
+lime = 29571
+
+[Level 20]
+ID = 20
+Exp = 68144
+lime = 36430
+
+[Level 21]
+ID = 21
+Exp = 84144
+lime = 44430
+
+[Level 22]
+ID = 22
+Exp = 102666
+lime = 53691
+
+[Level 23]
+ID = 23
+Exp = 123962
+lime = 64339
+
+[Level 24]
+ID = 24
+Exp = 148296
+lime = 76506
+
+[Level 25]
+ID = 25
+Exp = 189768
+lime = 90330
+
+[Level 26]
+ID = 26
+Exp = 236643
+lime = 105955
+
+[Level 27]
+ID = 27
+Exp = 289371
+lime = 123531
+
+[Level 28]
+ID = 28
+Exp = 348420
+lime = 143214
+
+[Level 29]
+ID = 29
+Exp = 414276
+lime = 165166
+
+[Level 30]
+ID = 30
+Exp = 487443
+lime = 189555
+
+[Level 31]
+ID = 31
+Exp = 568443
+lime = 216555
+
+[Level 32]
+ID = 32
+Exp = 657816
+lime = 246346
+
+[Level 33]
+ID = 33
+Exp = 756120
+lime = 279114
+
+[Level 34]
+ID = 34
+Exp = 863931
+lime = 315051
+
+[Level 35]
+ID = 35
+Exp = 981843
+lime = 354355
+
+[Level 36]
+ID = 36
+Exp = 1110468
+lime = 397230
+
+[Level 37]
+ID = 37
+Exp = 1297092
+lime = 443886
+
+[Level 38]
+ID = 38
+Exp = 1499704
+lime = 494539
+
+[Level 39]
+ID = 39
+Exp = 1719192
+lime = 849411
+
+[Level 40]
+ID = 40
+Exp = 1956468
+lime = 608730
+
+[Level 41]
+ID = 41
+Exp = 2212468
+lime = 672730
+
+[Level42]
+ID = 42
+Exp = 2488152
+lime = 741651
+
+[Level 43]
+ID = 43
+Exp = 2784504
+lime = 815739
+
+[Level 44]
+ID = 44
+Exp = 3102532
+lime = 895246
+
+[Level 45]
+ID = 45
+Exp = 3443268
+lime = 980430
+
+[Level 46]
+ID = 46
+Exp = 3807768
+lime = 1071555
+
+[Level 47]
+ID = 47
+Exp = 4197112
+lime = 1168891
+
+[Level 48]
+ID = 48
+Exp = 4612404
+lime = 1272714
+
+[Level 49]
+ID = 49
+Exp = 5165364
+lime = 1383306
+
+[Level 50]
+ID = 50
+Exp = 5753609
+lime = 1500955
+
+[Level 51]
+ID = 51
+Exp = 6378609
+lime = 1625955
+
+[Level 52]
+ID = 52
+Exp = 7041864
+lime = 1758606
+
+[Level 53]
+ID = 53
+Exp = 7744904
+lime = 1899214
+
+[Level 54]
+ID = 54
+Exp = 8489289
+lime = 2048091
+
+[Level 55]
+ID = 55
+Exp = 9276609
+lime = 2205555
+
+[Level 56]
+ID = 56
+Exp = 10108484
+lime = 2371930
+
+[Level 57]
+ID = 57
+Exp = 10986564
+lime = 2547546
+
+[Level 58]
+ID = 58
+Exp = 11912529
+lime = 2732739
+
+[Level 59]
+ID = 59
+Exp = 12888089
+lime = 2927851
+
+[Level 60]
+ID = 60
+Exp = 13914984
+lime = 3133230
+
+[Level 61]
+ID = 61
+Exp = 15210984
+lime = 3349230
+
+[Level 62]
+ID = 62
+Exp = 16572870
+lime = 3576211
+
+[Level 63]
+ID = 63
+Exp = 18002838
+lime = 3814539
+
+[Level 64]
+ID = 64
+Exp = 19503120
+lime = 4064586
+
+[Level 65]
+ID = 65
+Exp = 21075984
+lime = 4326730
+
+[Level 66]
+ID = 66
+Exp = 22723734
+lime = 4601355
+
+[Level 67]
+ID = 67
+Exp = 24448710
+lime = 4888851
+
+[Level 68]
+ID = 68
+Exp = 26253288
+lime = 5189614
+
+[Level 69]
+ID = 69
+Exp = 28139880
+lime = 5504046
+
+[Level 70]
+ID = 70
+Exp = 30110934
+lime = 5832555
+
+[Level 71]
+ID = 71
+Exp = 32168934
+lime = 6175555
+
+[Level 72]
+ID = 72
+Exp = 34316400
+lime = 6533466
+
+[Level 73]
+ID = 73
+Exp = 36929136
+lime = 6906714
+
+[Level 74]
+ID = 74
+Exp = 39652255
+lime = 7295731
+
+[Level 75]
+ID = 75
+Exp = 42488823
+lime = 7700955
+
+[Level 76]
+ID = 76
+Exp = 45441948
+lime = 8122830
+
+[Level 77]
+ID = 77
+Exp = 48514780
+lime = 8561806
+
+[Level 78]
+ID = 78
+Exp = 51710511
+lime = 9018339
+
+[Level 79]
+ID = 79
+Exp = 55032375
+lime = 9492891
+
+[Level 80]
+ID = 80
+Exp = 1000000000
+lime = 0
+
+[Level 81]
+ID = 81
+Exp = 1100000000
+lime = 0
+
+[Level 82]
+ID = 82
+Exp = 1200000000
+lime = 0
+
+[Level 83]
+ID = 83
+Exp = 1300000000
+lime = 0
+
+[Level 84]
+ID = 84
+Exp = 1400000000
+lime = 0
+
+[Level 85]
+ID = 85
+Exp = 1500000000
+lime = 0
+
+[Level 86]
+ID = 86
+Exp = 1600000000
+lime = 0
+
+[Level 87]
+ID = 87
+Exp = 1700000000
+lime = 0
+
+[Level 88]
+ID = 88
+Exp = 1800000000
+lime = 0
+
+[Level 89]
+ID = 89
+Exp = 1900000000
+lime = 0
+
+[Level 90]
+ID = 90
+Exp = 1900000000
+lime = 0
+
+[Level 91]
+ID = 91
+Exp = 1900000000
+lime = 0
+
+[Level 92]
+ID = 92
+Exp = 1900000000
+lime = 0
+
+[Level 93]
+ID = 93
+Exp = 1900000000
+lime = 0
+
+[Level 94]
+ID = 94
+Exp = 1900000000
+lime = 0
+
+[Level 95]
+ID = 95
+Exp = 1900000000
+lime = 0
+
+[Level 96]
+ID = 96
+Exp = 1900000000
+lime = 0
+
+[Level 97]
+ID = 97
+Exp = 1900000000
+lime = 0
+
+[Level 98]
+ID = 98
+Exp = 1900000000
+lime = 0
+
+[Level 99]
+ID = 99
+Exp = 1900000000
+lime = 0
+
+[Level 100]
+ID = 100
+Exp = 1900000000
+lime = 0

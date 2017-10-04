@@ -1,0 +1,44 @@
+[Aisian Bandor-1]                   #仓库
+ID = 1
+X = 720
+Y = 550
+Z = 0
+Rotation = 4.7123
+Type = 139
+
+[Kalipton Seller 1-2]                      #魔法店
+ID = 2
+X = 700
+Y = 550
+Z = 0
+Rotation = 4.7123
+Type = 73  #凯利顿装备商人
+BuyRate = 120	# Value in %
+SellRate = 30	# Value in %
+Shop = areas/genuslabor/shop/npc2.dta
+
+[Kalipton Seller 1-3]                      #药店
+ID = 3
+X = 680
+Y = 550
+Z = 0
+Rotation = 4.7123
+Type = 66  #人类酒店大姐
+BuyRate = 120	# Value in %
+SellRate = 30	# Value in %
+Shop = areas/genuslabor/shop/npc4.dta
+
+[Aisian Bandor-30]                   #人类特派员
+ID = 30
+X = 740
+Y = 550
+Z = 0
+Rotation = 4.7123
+Type = 384
+
+
+
+
+
+
+

@@ -1,0 +1,115 @@
+[Veterinary-1]  #兽医师
+ID = 1
+X = 10960
+Y = 6620
+Z = 0
+Rotation = 3.1415
+Type = 189  
+
+[Aisian Bandor-2] #艾香班德勒仓库
+ID = 2
+X = 10960
+Y = 6640
+Z = 0
+Rotation = 3.1415
+Type = 139
+
+[A Gorgeous Girl-3] #摩登女郎药店
+ID = 3
+X = 10960
+Y = 6660
+Z = 0
+Rotation = 3.1415
+Type = 320
+BuyRate = 120	# Value in %
+SellRate = 30	# Value in %
+Shop = areas/dimitron/shop/npc3.dta
+
+[Robe Shopkeeper-4] #凯利顿装备商人条子
+ID = 4
+X = 10960
+Y = 6680
+Z = 0
+Rotation = 3.1415
+Type = 73
+BuyRate = 120	# Value in %
+SellRate = 30	# Value in %
+Shop = areas/dimitron/shop/npc2.dta
+
+[A Gorgeous Girl-6] #摩登女郎药店
+ID = 6
+X = 9920
+Y = 11650
+Z = 0
+Rotation = 3.1415
+Type = 320
+BuyRate = 120	# Value in %
+SellRate = 30	# Value in %
+Shop = areas/dimitron/shop/npc3.dta
+
+[Robe Shopkeeper-7] #凯利顿装备商人条子
+ID = 7
+X = 9950
+Y = 11650
+Z = 0
+Rotation = 3.1415
+Type = 73
+BuyRate = 120	# Value in %
+SellRate = 30	# Value in %
+Shop = areas/dimitron/shop/npc2.dta
+
+[A Gorgeous Girl-9] #摩登女郎药店
+ID = 9
+X = 5400
+Y = 9800
+Z = 0
+Rotation = 3.1415
+Type = 320
+BuyRate = 120	# Value in %
+SellRate = 30	# Value in %
+Shop = areas/dimitron/shop/npc3.dta
+
+[Robe Shopkeeper-10] #凯利顿装备商人条子
+ID = 10
+X = 5400
+Y = 9770
+Z = 0
+Rotation = 3.1415
+Type = 73
+BuyRate = 120	# Value in %
+SellRate = 30	# Value in %
+Shop = areas/dimitron/shop/npc2.dta
+
+[Veterinary-12]  #考古学者别路里安
+ID = 1
+X = 10960
+Y = 6600
+Z = 0
+Rotation = 3.1415
+Type = 607
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,13 @@
+[Red Book 1-4-27]
+Type = 802
+[Normal Book 5-28]  #∆’Õ®5
+Type = 803
+
+[Red Book 5-29] #∫Ï5
+Type = 804
+
+[Normal Book 6-30] #∆’Õ®6
+Type = 805
+
+[Red Book 6-31] ∫Ï6
+Type = 806

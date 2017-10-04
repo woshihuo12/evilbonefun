@@ -1,0 +1,81 @@
+1 balkariya   巴罗 T2
+
+2 barsha     巴鲁 T3
+
+3 beargrid   巴古 T5
+
+4 deckadun      顿
+
+5 deckaran      蓝
+
+6 dimitron      米
+
+7 genuslabor    洞
+
+8 greatewhitehorn  冰峰谷
+
+9 laglamia      拉迷  
+
+10 lostrealmcastle   失落
+
+11 marboten          
+
+12 paros  天城
+
+13 queiz 库一
+
+14 searost  西罗撕特地成
+
+15 shilon   下龙
+
+16 turan  f依兰
+
+
+羊   ID  161
+袜怪 ID  304
+雪人 ID  305
+猴子 ID  315
+
+2381   10534    试练岛
+
+[Aisian Bandor-1]                   #仓库
+ID = 1
+X = 913
+Y = 10636
+Z = 70
+Rotation = 4.7123 #面下 
+Type = 139
+
+[Veterinary-12]  #考古学者别路里安
+ID = 1
+X = 1497
+Y = 10984
+Z = 0
+Rotation = 3.1415 #面左
+Type = 607
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

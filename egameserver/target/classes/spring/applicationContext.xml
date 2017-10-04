@@ -13,7 +13,7 @@
         <property name="ignoreResourceNotFound" value="true"></property>
         <property name="locations">
             <list>
-                <!--<value>classpath:applicationContext.xml</value>-->
+                <!--<value>classpath:data/file/*.dta</value>-->
             </list>
         </property>
     </bean>

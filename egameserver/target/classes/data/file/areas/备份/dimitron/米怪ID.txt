@@ -1,0 +1,30 @@
+ID 398  巨斧沙怪
+ID 391  铁地鸢
+ID 412  法布资
+ID 415  恶灵巨人
+
+ID 369  召唤绝冬夜魔
+
+[Veterinary-12]  #考古学者别路里安
+ID = 1
+X = 10960
+Y = 6600
+Z = 0
+Rotation = 3.1415
+Type = 607
+
+[Veterinary-13]  #大学者福莱特特尼斯
+ID = 13
+X = 10960
+Y = 6580
+Z = 0
+Rotation = 3.1415
+Type = 604
+
+[Veterinary-12]  #考古学者别路里安
+ID = 1
+X = 10960
+Y = 6600
+Z = 0
+Rotation = 3.1415
+Type = 607

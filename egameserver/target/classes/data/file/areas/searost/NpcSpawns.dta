@@ -1,0 +1,41 @@
+[Merchant-1]
+ID = 1
+X = 50
+Y = 160
+Z = 315
+Rotation = 0.0  #ÃæÓÒ
+Type = 64
+BuyRate = 130	# Value in %
+SellRate = 20	# Value in %
+Shop = areas/searost/shop/npc1.dta
+
+
+[Merchant-2]
+ID = 2
+X = 1330
+Y = 4561
+Z = 0
+Rotation = 3.1415 #Ãæ×ó 
+Type = 64
+BuyRate = 130	# Value in %
+SellRate = 20	# Value in %
+Shop = areas/searost/shop/npc1.dta
+
+
+[Merchant-3]
+ID = 3
+X = 2350
+Y = 4050
+Z = 0
+Rotation = 3.1415 #Ãæ×ó
+Type = 64
+BuyRate = 130	# Value in %
+SellRate = 20	# Value in %
+Shop = areas/searost/shop/npc2.dta
+
+
+
+
+
+
+

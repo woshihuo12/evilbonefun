@@ -11,6 +11,7 @@ import com.hsj.ecommon.ParsedItem;
 import com.hsj.ecommon.Parser;
 import com.hsj.egameserver.server.ClassFactory;
 import com.hsj.egameserver.server.Client;
+import com.hsj.egameserver.server.Reference;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -63,14 +64,14 @@ public abstract class Protocol {
         protocols.clear();
         Parser protocolConfig = new Parser();
         try {
-            protocolConfig.parse("egameserver/config/Protocols.dta");
+            protocolConfig.parse(Reference.getConfigDataResource("Protocols.dta"));
             Iterator<ParsedItem> iter = protocolConfig.getItemListIterator();
             while (iter.hasNext()) {
                 ParsedItem item = iter.next();
                 Class<?> protocolName = Class.forName(item.getMemberValue("Class"));
                 protocols.add(protocolName);
             }
-        } catch (IOException e) {
+        } catch (Exception e) {
             e.printStackTrace();
         }
     }

@@ -14,7 +14,11 @@ import java.sql.SQLException;
 public class Database {
 
     // reunion database
-    public Connection dinamicConn = null;
+    private Connection dinamicConn = null;
+
+    public Connection getDinamicConn() {
+        return dinamicConn;
+    }
 
     @Autowired
     private DataSource dataSource;

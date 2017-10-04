@@ -1,0 +1,35 @@
+[Spawn ]
+ID = 
+X = 
+Y = 
+Z = 103
+Radius = 150
+RespawnTime = 60
+Type = 360
+
+[Spawn ]
+ID = 
+X = 
+Y = 
+Z = 103
+Radius = 150
+RespawnTime = 60
+Type = 361
+
+[Spawn ]
+ID = 
+X = 
+Y = 
+Z = 103
+Radius = 150
+RespawnTime = 60
+Type = 361
+
+[Spawn ]
+ID = 
+X = 
+Y = 
+Z = 103
+Radius = 150
+RespawnTime = 60
+Type = 360

@@ -1,0 +1,89 @@
+[Spawn 590]
+ID = 590
+X = 3690
+Y = 8293
+Z = 226
+Radius = 350
+RespawnTime = 201
+Type = 390
+
+[Spawn 591]
+ID = 591
+X = 3690
+Y = 8293
+Z = 226
+Radius = 350
+RespawnTime = 201
+Type = 390
+
+[Spawn 592]
+ID = 592
+X = 3690
+Y = 8293
+Z = 226
+Radius = 350
+RespawnTime = 201
+Type = 390
+
+[Spawn 593]
+ID = 593
+X = 3690
+Y = 8293
+Z = 226
+Radius = 350
+RespawnTime = 201
+Type = 390
+
+[Spawn 594]
+ID = 594
+X = 3690
+Y = 8293
+Z = 226
+Radius = 350
+RespawnTime = 201
+Type = 390
+
+[Spawn 595]
+ID = 595
+X = 3690
+Y = 8293
+Z = 226
+Radius = 350
+RespawnTime = 201
+Type = 390
+
+[Spawn 596]
+ID = 596
+X = 3690
+Y = 8293
+Z = 226
+Radius = 350
+RespawnTime = 201
+Type = 390
+
+[Spawn 597]
+ID = 597
+X = 3690
+Y = 8293
+Z = 226
+Radius = 350
+RespawnTime = 360
+Type = 391
+
+[Spawn 598]
+ID = 598
+X = 3690
+Y = 8293
+Z = 226
+Radius = 350
+RespawnTime = 360
+Type = 391
+
+[Spawn 599]
+ID = 599
+X = 3690
+Y = 8293
+Z = 226
+Radius = 350
+RespawnTime = 360
+Type = 391

@@ -1,0 +1,78 @@
+[Wand Charger 1-1]
+Type = 776
+
+[Wand Charger 2-2]
+Type = 777
+
+[Wand Charger 3-3]
+Type = 778
+
+[Wand Charger 4-4]
+Type = 779
+
+[Accumulated Damage 1-5]
+Type = 780
+
+[Accumulated Damage 3-6]
+Type = 781
+
+[Accumulated Damage 5-7]
+Type = 782
+
+[Paralysis 1-8]
+Type = 783
+
+[Paralysis 3-9]
+Type = 784
+
+[Paralysis 5-10]
+Type = 785
+
+[Confusion 1-11]
+Type = 786
+
+[Confusion 3-12]
+Type = 787
+
+[Confusion 5-13]
+Type = 788
+
+[Blackhole 1-14]
+Type = 789
+
+[Blackhole 3-15]
+Type = 790
+
+[Blackhole 5-16]
+Type = 791
+
+[Cold 2-17]
+Type = 792
+
+[Cold 4-18]
+Type = 793
+
+[Cold 6-19]
+Type = 794
+
+[Petrifaction 2-20]
+Type = 795
+
+[Petrifaction 4-21]
+Type = 796
+
+[Petrifaction 6-22]
+Type = 797
+
+[Protection 4-23]
+Type = 798
+
+[Protection 5-24]
+Type = 799
+
+[Protection 6-25]
+Type = 800
+
+[Normal Book 1-4-26]
+Type = 801
+

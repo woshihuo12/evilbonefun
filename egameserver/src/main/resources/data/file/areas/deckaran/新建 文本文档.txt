@@ -1,0 +1,35 @@
+[Spawn 1008]  
+ID = 1008
+X = 6500
+Y = 9400
+Z = 0
+Radius = 0
+RespawnTime = 30   
+Type = 218
+
+[Spawn 1009]  
+ID = 1009
+X = 6500
+Y = 9300
+Z = 0
+Radius = 0
+RespawnTime = 30   
+Type = 218
+
+[Spawn 1010]  
+ID = 1010
+X = 6400
+Y = 9400
+Z = 0
+Radius = 0
+RespawnTime = 30   
+Type = 218
+
+[Spawn 1011]  
+ID = 1011
+X = 6400
+Y = 9300
+Z = 0
+Radius = 0
+RespawnTime = 30   
+Type = 218

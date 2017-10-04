@@ -1,0 +1,164 @@
+[Spawn 1000]
+ID = 1000
+X = 6082
+Y = 6988
+Z = 336
+Radius = 1000
+RespawnTime = 600   #飞行
+Type = 249
+
+[Spawn 1001]
+ID = 1001
+X = 3812
+Y = 6834
+Z = 332
+Radius = 1000
+RespawnTime = 600   #飞行
+Type = 249
+
+[Spawn 1002]
+ID = 1002
+X = 2464
+Y = 6908
+Z = 335
+Radius = 1000
+RespawnTime = 600   #飞行
+Type = 249
+
+[Spawn 1003]
+ID = 1003
+X = 1268
+Y = 6928
+Z = 332
+Radius = 1000
+RespawnTime = 600   #飞行
+Type = 249
+
+[Spawn 1004]
+ID = 1004
+X = 1474
+Y = 5062
+Z = 335
+Radius = 1000
+RespawnTime = 600   #飞行
+Type = 249
+
+[Spawn 1005]
+ID = 1005
+X = 2359
+Y = 4630
+Z = 336
+Radius = 1000
+RespawnTime = 600   #飞行
+Type = 249
+
+[Spawn 1006]
+ID = 1006
+X = 3507
+Y = 5147
+Z = 332
+Radius = 1000
+RespawnTime = 600   #飞行
+Type = 249
+
+[Spawn 1007]
+ID = 1007
+X = 4514
+Y = 4302
+Z = 332
+Radius = 1000
+RespawnTime = 600   #飞行
+Type = 249
+
+[Spawn 1008]
+ID = 1008
+X = 7244
+Y = 4670
+Z = 332
+Radius = 1000
+RespawnTime = 600   #飞行
+Type = 249
+
+[Spawn 1009]
+ID = 1009
+X = 7373
+Y = 8816
+Z = 332
+Radius = 1000
+RespawnTime = 600   #飞行
+Type = 249
+
+[Spawn 1010]
+ID = 1010
+X = 6547
+Y = 9568
+Z = 335
+Radius = 1000
+RespawnTime = 600   #飞行
+Type = 249
+
+[Spawn 1011]
+ID = 1011
+X = 5872
+Y = 9971
+Z = 332
+Radius = 1000
+RespawnTime = 600   #飞行
+Type = 249
+
+[Spawn 1012]
+ID = 1012
+X = 5783
+Y = 8515
+Z = 332
+Radius = 1000
+RespawnTime = 600   #飞行
+Type = 249
+
+[Spawn 1013]
+ID = 1013
+X = 1500
+Y = 11000
+Z = 333
+Radius = 500
+RespawnTime = 600   #飞行
+Type = 249
+
+[Spawn 1020]
+ID = 1020
+X = 6200
+Y = 4600
+Z = 374
+Radius = 50
+RespawnTime = 10800   #红龙
+Type = 224
+
+[Spawn 1021]
+ID = 1021
+X = 3121
+Y = 6024
+Z = 336
+Radius = 2500
+RespawnTime = 7200   #天空
+Type = 223
+
+[Spawn 1022]
+ID = 1022
+X = 6730
+Y = 6549
+Z = 335
+Radius = 2500
+RespawnTime = 7200   #大地
+Type = 222
+
+
+
+
+
+
+
+
+
+
+
+

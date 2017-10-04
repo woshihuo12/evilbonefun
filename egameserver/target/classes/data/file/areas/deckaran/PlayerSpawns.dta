@@ -1,0 +1,20 @@
+[Default waitroom]         #ÐÝÏ¢ÊÒ
+ID = 1
+X = 7870
+Y = 1700
+Width = 50
+Height = 50
+
+[Default 1 F]               #Ò»²ã
+ID = 2
+X = 445
+Y = 2709
+Width = 50
+Height = 50
+
+[Default 2 F]               #¶þ²ã
+ID = 3
+X = 635
+Y = 5526
+Width = 50
+Height = 50

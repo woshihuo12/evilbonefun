@@ -1,0 +1,326 @@
+[Archeologist-1]
+ID = 1
+X = 7190
+Y = 5096
+Z = 0
+Rotation = 1.5707  #面上
+Type = 257    #史学家贝里恩
+
+[Magician Shop-2]
+ID = 2
+X = 7145
+Y = 5410
+Z = 0
+Rotation = 3.1415  #面左
+Type = 94      #魔法商人移动门口那
+BuyRate = 100	# Value in %
+SellRate = 30	# Value in %
+Shop = areas/laglamia/shop/npc2.dta
+
+[Assistant-4]
+ID = 4
+X = 6841
+Y = 5349
+Z = 0
+Rotation = 4.7123  #面下
+Type = 95        #旅行商人中间药水
+BuyRate = 95	# Value in %
+SellRate = 30	# Value in %
+Shop = areas/laglamia/shop/npc4.dta
+
+[Machine Dealer-5]
+ID = 5
+X = 6907
+Y = 5041
+Z = 0
+Rotation = 0.0 #面右
+Type = 91   #机械商人  门口
+BuyRate = 100	# Value in %
+SellRate = 30	# Value in %
+Shop = areas/laglamia/shop/npc5.dta
+
+[Blacksmith-6]
+ID = 6
+X = 6774
+Y = 5126
+Z = 0
+Rotation = 1.5707
+Type = 90   #打铁匠 
+BuyRate = 100	# Value in %
+SellRate = 30	# Value in %
+Shop = areas/laglamia/shop/npc6.dta
+
+[Blacksmith-7]
+ID = 7
+X = 6759
+Y = 5126
+Z = 0
+Rotation = 1.5707
+Type = 90   #打铁匠
+BuyRate = 100	# Value in %
+SellRate = 30	# Value in %
+Shop = areas/laglamia/shop/npc7.dta
+
+[Magician Shop-8]
+ID = 8
+X = 6744
+Y = 5129
+Z = 0
+Rotation = 1.5707
+Type = 94
+BuyRate = 100	# Value in %
+SellRate = 30	# Value in %
+Shop = areas/laglamia/shop/npc8.dta
+
+[Machine Dealer-9]
+ID = 9
+X = 6729
+Y = 5129
+Z = 0
+Rotation = 1.5707
+Type = 91
+BuyRate = 100	# Value in %
+SellRate = 30	# Value in %
+Shop = areas/laglamia/shop/npc9.dta
+
+[Machine Dealer-10]
+ID = 10
+X = 6629
+Y = 5126
+Z = 0
+Rotation = 1.5707
+Type = 91
+BuyRate = 100	# Value in %
+SellRate = 30	# Value in %
+Shop = areas/laglamia/shop/npc10.dta
+
+[Machine Dealer-11]
+ID = 11
+X = 6608
+Y = 5126
+Z = 0
+Rotation = 1.5707
+Type = 91
+BuyRate = 100	# Value in %
+SellRate = 30	# Value in %
+Shop = areas/laglamia/shop/npc11.dta
+
+[Veterinary-12]
+ID = 12
+X = 6372
+Y = 5044
+Z = 0
+Rotation = 1.5707
+Type = 189    #兽医师
+
+[Magician Shop-13]
+ID = 13
+X = 6500
+Y = 5126
+Z = 0
+Rotation = 1.5707
+Type = 94
+BuyRate = 100	# Value in %
+SellRate = 30	# Value in %
+Shop = areas/laglamia/shop/npc13.dta
+
+[Magician Shop-14]
+ID = 14
+X = 6485
+Y = 5126
+Z = 0
+Rotation = 1.5707
+Type = 94
+BuyRate = 100	# Value in %
+SellRate = 30	# Value in %
+Shop = areas/laglamia/shop/npc14.dta
+
+[Aisian Bandor-15]
+ID = 15
+X = 6198
+Y = 5090
+Z = 0
+Rotation = 0.0
+Type = 139    #仓库
+
+[Guard Captain-16]
+ID = 16
+X = 6195
+Y = 5300
+Z = 0
+Rotation = 0.0
+Type = 57   #警备队长洗点
+
+[Guard Master-17]
+ID = 17
+X = 6195
+Y = 5315
+Z = 0
+Rotation = 0.0
+Type = 117  #警备所长换装备
+
+[Gem Shopkeeper-19]
+ID = 19
+X = 6195
+Y = 5250
+Z = 0
+Rotation = 0.0
+Type = 293   #凯德林宝石兑换
+
+[Gem Gambler-20]
+ID = 20
+X = 6195
+Y = 5201
+Z = 0
+Rotation = 0.0
+Type = 167  #赌博大叔
+
+[Gem Shopkeeper-21]
+ID = 21
+X = 6195
+Y = 5235
+Z = 0
+Rotation = 0.0
+Type = 166   #凯德林宝石筹码兑换
+
+[Platinum maker-22]
+ID = 22
+X = 6270
+Y = 5400
+Z = 0
+Rotation = 4.7123
+Type = 330   #白金制作解说员
+
+[Magician Shop-23]
+ID = 23
+X = 6195
+Y = 5215
+Z = 0
+Rotation = 0.0
+Type = 94    #白袍魔法商人  
+BuyRate = 100	# Value in %
+SellRate = 30	# Value in %
+Shop = areas/laglamia/shop/npc23.dta
+
+[Doctor-24]
+ID = 24
+X = 6358
+Y = 5397
+Z = 0
+Rotation = 4.7123
+Type = 93   #医生叔叔 
+BuyRate = 90	# Value in %
+SellRate = 30	# Value in %
+Shop = areas/laglamia/shop/npc4.dta
+
+[Barmaid-25]
+ID = 25
+X = 6725
+Y = 5275
+Z = 0
+Rotation = 4.7123
+Type = 92    #酒店老板娘球场
+BuyRate = 95	# Value in %
+SellRate = 30	# Value in %
+Shop = areas/laglamia/shop/npc29.dta
+
+[Assistant-26]
+ID = 26
+X = 10275
+Y = 5200
+Z = 0
+Rotation = 0.0
+Type = 95   #旅行商人 求生岛
+BuyRate = 120	# Value in %
+SellRate = 30	# Value in %
+Shop = areas/laglamia/shop/npc4.dta
+
+[Assistant-27]
+ID = 27
+X = 6830
+Y = 6803
+Z = 0
+Rotation = 0.0
+Type = 95  #旅行商人
+BuyRate = 95	# Value in %
+SellRate = 30	# Value in %
+Shop = areas/laglamia/shop/npc4.dta
+
+[Doctor-28]
+ID = 28
+X = 8112
+Y = 6615
+Z = 0
+Rotation = 0.0
+Type = 93  
+BuyRate = 70	# Value in %
+SellRate = 30	# Value in %
+Shop = areas/laglamia/shop/npc4.dta
+
+[强化商人-42]
+ID = 42
+X = 6310
+Y = 5400
+Z = 0
+Rotation = -1.5
+Type = 426
+
+[Egg Seller-29]
+ID = 29
+X = 6308
+Y = 5078
+Z = 0
+Rotation = 1.5707
+Type = 188  #宠物蛋
+
+[Drill Instructor-30]
+ID = 30
+X = 6340
+Y = 5093
+Z = 0
+Rotation = 1.5707
+Type = 190  #训练教练龙升级
+
+[Assembling Merchant-31]
+ID = 31
+X = 6259
+Y = 5044
+Z = 0
+Rotation = 3.1414
+Type = 191  #组合商人龙零件
+
+[Barmaid-35]
+ID = 35
+X = 6700
+Y = 5275
+Z = 0
+Rotation = 4.7123
+Type = 92    #酒店老板娘球场
+BuyRate = 95	# Value in %
+SellRate = 30	# Value in %
+Shop = areas/laglamia/shop/npc35.dta
+
+[Barmaid-36]
+ID = 36
+X = 6675
+Y = 5275
+Z = 0
+Rotation = 4.7123
+Type = 92    #酒店老板娘球场
+BuyRate = 95	# Value in %
+SellRate = 30	# Value in %
+Shop = areas/laglamia/shop/npc36.dta
+
+[Barmaid-37]
+ID = 37
+X = 6650
+Y = 5275
+Z = 0
+Rotation = 4.7123
+Type = 92    #酒店老板娘球场
+BuyRate = 95	# Value in %
+SellRate = 30	# Value in %
+Shop = areas/laglamia/shop/npc37.dta
+
+
+

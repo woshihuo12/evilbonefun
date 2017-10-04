@@ -1,0 +1,95 @@
+[拉米广场]
+ID = 4
+Ip = 192.168.1.103
+Port = 4005
+Location = Local
+
+[失落城堡]
+ID = 0
+Ip = 192.168.1.103
+Port = 4001
+Location = Local
+
+[夏龙]
+ID = 3
+Ip = 192.168.1.103
+Port = 4004
+Location = Local
+
+[希罗斯特地城]
+ID = 5
+Ip = 192.168.1.103
+Port = 4002
+Location = Local
+
+[天空之城]
+ID = 6
+Ip = 192.168.1.103
+Port = 4003
+Location = Local
+
+[戴卡顿地城]
+ID = 2
+Ip = 192.168.1.103
+Port = 4006
+Location = Local
+
+[戴卡伦地城]
+ID = 1
+Ip = 192.168.1.103
+Port = 4007
+Location = Local
+
+[冰雪极地]
+ID = 7
+Ip = 192.168.1.103
+Port = 4008
+Location = Local
+
+[冰晶洞窟]
+ID = 8
+Ip = 192.168.1.103
+Port = 4009
+Location = Local
+
+[米特伦]
+ID = 9
+Ip = 192.168.1.103
+Port = 4010
+Location = Local
+
+[伊兰城]
+ID = 13
+Ip = 192.168.1.103
+Port = 4011
+Location = Local
+
+[巴罗城]
+ID = 14
+Ip = 192.168.1.103
+Port = 4012
+Location = Local
+
+[巴鲁城]
+ID = 15
+Ip = 192.168.1.103
+Port = 4013
+Location = Local
+
+[库伊城]
+ID = 16
+Ip = 192.168.1.103
+Port = 4014
+Location = Local
+
+[巴古城]
+ID = 17
+Ip = 192.168.1.103
+Port = 4015
+Location = Local
+
+[Marboten]
+ID = 18
+Ip = 192.168.1.103
+Port = 4016
+Location = Local

@@ -1,0 +1,19632 @@
+[Drop 1]
+ID=1
+Mob=77
+Item=55
+Rate=0.5
+
+
+[Drop 2]
+ID=2
+Mob=77
+Item=161
+Rate=0.5
+
+
+[Drop 3]
+ID=3
+Mob=77
+Item=156
+Rate=0.5
+
+
+[Drop 4]
+ID=4
+Mob=77
+Item=152
+Rate=0.5
+
+
+[Drop 5]
+ID=5
+Mob=77
+Item=192
+Rate=0.5
+
+
+[Drop 6]
+ID=6
+Mob=77
+Item=439
+Rate=0.5
+
+
+[Drop 7]
+ID=7
+Mob=77
+Item=344
+Rate=0.5
+
+
+[Drop 8]
+ID=8
+Mob=77
+Item=461
+Rate=0.5
+
+
+[Drop 9]
+ID=9
+Mob=77
+Item=325
+Rate=0.5
+
+
+[Drop 10]
+ID=10
+Mob=77
+Item=188
+Rate=0.5
+
+
+[Drop 11]
+ID=11
+Mob=78
+Item=468
+Rate=0.5
+
+
+[Drop 12]
+ID=12
+Mob=78
+Item=193
+Rate=0.5
+
+
+[Drop 13]
+ID=13
+Mob=78
+Item=189
+Rate=0.5
+
+
+[Drop 14]
+ID=14
+Mob=78
+Item=465
+Rate=0.5
+
+
+[Drop 15]
+ID=15
+Mob=78
+Item=161
+Rate=0.5
+
+
+[Drop 16]
+ID=16
+Mob=78
+Item=156
+Rate=0.5
+
+
+[Drop 17]
+ID=17
+Mob=78
+Item=462
+Rate=0.5
+
+
+[Drop 18]
+ID=18
+Mob=78
+Item=188
+Rate=0.5
+
+
+[Drop 19]
+ID=19
+Mob=78
+Item=325
+Rate=0.5
+
+
+[Drop 20]
+ID=20
+Mob=78
+Item=288
+Rate=0.5
+
+
+[Drop 21]
+ID=21
+Mob=89
+Item=160
+Rate=0.5
+
+
+[Drop 22]
+ID=22
+Mob=89
+Item=345
+Rate=0.5
+
+
+[Drop 23]
+ID=23
+Mob=89
+Item=157
+Rate=0.5
+
+
+[Drop 24]
+ID=24
+Mob=89
+Item=327
+Rate=0.5
+
+
+[Drop 25]
+ID=25
+Mob=89
+Item=465
+Rate=0.5
+
+
+[Drop 26]
+ID=26
+Mob=89
+Item=150
+Rate=0.5
+
+
+[Drop 27]
+ID=27
+Mob=89
+Item=289
+Rate=0.5
+
+
+[Drop 28]
+ID=28
+Mob=85
+Item=467
+Rate=0.5
+
+
+[Drop 29]
+ID=29
+Mob=85
+Item=338
+Rate=0.5
+
+
+[Drop 30]
+ID=30
+Mob=85
+Item=416
+Rate=0.5
+
+
+[Drop 31]
+ID=31
+Mob=85
+Item=328
+Rate=0.5
+
+
+[Drop 32]
+ID=32
+Mob=85
+Item=195
+Rate=0.5
+
+
+[Drop 33]
+ID=33
+Mob=85
+Item=322
+Rate=0.5
+
+
+[Drop 34]
+ID=34
+Mob=85
+Item=317
+Rate=0.5
+
+
+[Drop 35]
+ID=35
+Mob=85
+Item=312
+Rate=0.5
+
+
+[Drop 36]
+ID=36
+Mob=85
+Item=368
+Rate=0.5
+
+
+[Drop 37]
+ID=37
+Mob=80
+Item=545
+Rate=0.5
+
+
+[Drop 38]
+ID=38
+Mob=80
+Item=339
+Rate=0.5
+
+
+[Drop 39]
+ID=39
+Mob=80
+Item=334
+Rate=0.5
+
+
+[Drop 40]
+ID=40
+Mob=80
+Item=329
+Rate=0.5
+
+
+[Drop 41]
+ID=41
+Mob=80
+Item=197
+Rate=0.5
+
+
+[Drop 42]
+ID=42
+Mob=80
+Item=361
+Rate=0.5
+
+
+[Drop 43]
+ID=43
+Mob=80
+Item=318
+Rate=0.5
+
+
+[Drop 44]
+ID=44
+Mob=80
+Item=313
+Rate=0.5
+
+
+[Drop 45]
+ID=45
+Mob=80
+Item=417
+Rate=0.5
+
+
+[Drop 46]
+ID=46
+Mob=80
+Item=369
+Rate=0.5
+
+
+[Drop 47]
+ID=47
+Mob=79
+Item=339
+Rate=0.5
+
+
+[Drop 48]
+ID=48
+Mob=79
+Item=334
+Rate=0.5
+
+
+[Drop 49]
+ID=49
+Mob=79
+Item=329
+Rate=0.5
+
+
+[Drop 50]
+ID=50
+Mob=79
+Item=197
+Rate=0.5
+
+
+[Drop 51]
+ID=51
+Mob=79
+Item=177
+Rate=0.5
+
+
+[Drop 52]
+ID=52
+Mob=79
+Item=198
+Rate=0.5
+
+
+[Drop 53]
+ID=53
+Mob=79
+Item=284
+Rate=0.5
+
+
+[Drop 54]
+ID=54
+Mob=79
+Item=287
+Rate=0.5
+
+
+[Drop 55]
+ID=55
+Mob=79
+Item=545
+Rate=0.5
+
+
+[Drop 56]
+ID=56
+Mob=79
+Item=347
+Rate=0.5
+
+
+[Drop 57]
+ID=57
+Mob=81
+Item=180
+Rate=0.5
+
+
+[Drop 58]
+ID=58
+Mob=81
+Item=546
+Rate=0.5
+
+
+[Drop 59]
+ID=59
+Mob=81
+Item=358
+Rate=0.5
+
+
+[Drop 60]
+ID=60
+Mob=81
+Item=353
+Rate=0.5
+
+
+[Drop 61]
+ID=61
+Mob=81
+Item=905
+Rate=0.5
+
+
+[Drop 62]
+ID=62
+Mob=81
+Item=340
+Rate=0.5
+
+
+[Drop 63]
+ID=63
+Mob=81
+Item=335
+Rate=0.5
+
+
+[Drop 64]
+ID=64
+Mob=81
+Item=178
+Rate=0.5
+
+
+[Drop 65]
+ID=65
+Mob=81
+Item=375
+Rate=0.5
+
+
+[Drop 66]
+ID=66
+Mob=81
+Item=370
+Rate=0.5
+
+
+[Drop 67]
+ID=67
+Mob=83
+Item=359
+Rate=0.5
+
+
+[Drop 68]
+ID=68
+Mob=83
+Item=354
+Rate=0.5
+
+
+[Drop 69]
+ID=69
+Mob=83
+Item=349
+Rate=0.5
+
+
+[Drop 70]
+ID=70
+Mob=83
+Item=200
+Rate=0.5
+
+
+[Drop 71]
+ID=71
+Mob=83
+Item=341
+Rate=0.5
+
+
+[Drop 72]
+ID=72
+Mob=83
+Item=336
+Rate=0.5
+
+
+[Drop 73]
+ID=73
+Mob=83
+Item=331
+Rate=0.5
+
+
+[Drop 74]
+ID=74
+Mob=83
+Item=363
+Rate=0.5
+
+
+[Drop 75]
+ID=75
+Mob=83
+Item=320
+Rate=0.5
+
+
+[Drop 76]
+ID=76
+Mob=83
+Item=547
+Rate=0.5
+
+
+[Drop 77]
+ID=77
+Mob=82
+Item=258
+Rate=0.3
+
+
+[Drop 78]
+ID=78
+Mob=82
+Item=409
+Rate=0.3
+
+
+[Drop 79]
+ID=79
+Mob=82
+Item=253
+Rate=0.3
+
+
+[Drop 80]
+ID=80
+Mob=82
+Item=371
+Rate=0.3
+
+
+[Drop 81]
+ID=81
+Mob=82
+Item=376
+Rate=0.3
+
+
+[Drop 82]
+ID=82
+Mob=82
+Item=419
+Rate=0.3
+
+
+[Drop 83]
+ID=83
+Mob=82
+Item=294
+Rate=0.3
+
+
+[Drop 84]
+ID=84
+Mob=82
+Item=315
+Rate=0.3
+
+
+[Drop 85]
+ID=85
+Mob=82
+Item=320
+Rate=0.3
+
+
+[Drop 86]
+ID=86
+Mob=82
+Item=363
+Rate=0.3
+
+
+[Drop 87]
+ID=87
+Mob=58
+Item=284
+Rate=0.7
+
+
+[Drop 88]
+ID=88
+Mob=58
+Item=287
+Rate=0.7
+
+
+[Drop 89]
+ID=89
+Mob=58
+Item=544
+Rate=0.7
+
+
+[Drop 90]
+ID=90
+Mob=58
+Item=180
+Rate=0.7
+
+
+[Drop 91]
+ID=91
+Mob=58
+Item=198
+Rate=0.7
+
+
+[Drop 92]
+ID=92
+Mob=60
+Item=178
+Rate=0.3
+
+
+[Drop 93]
+ID=93
+Mob=60
+Item=285
+Rate=0.3
+
+
+[Drop 94]
+ID=94
+Mob=60
+Item=305
+Rate=0.3
+
+
+[Drop 95]
+ID=95
+Mob=60
+Item=176
+Rate=0.3
+
+
+[Drop 96]
+ID=96
+Mob=60
+Item=330
+Rate=0.3
+
+
+[Drop 97]
+ID=97
+Mob=60
+Item=353
+Rate=0.3
+
+
+[Drop 98]
+ID=98
+Mob=60
+Item=340
+Rate=0.3
+
+
+[Drop 99]
+ID=99
+Mob=60
+Item=418
+Rate=0.3
+
+
+[Drop 100]
+ID=100
+Mob=60
+Item=284
+Rate=0.3
+
+
+[Drop 101]
+ID=101
+Mob=60
+Item=287
+Rate=0.3
+
+
+[Drop 102]
+ID=102
+Mob=62
+Item=371
+Rate=0.2
+
+
+[Drop 103]
+ID=103
+Mob=62
+Item=376
+Rate=0.2
+
+
+[Drop 104]
+ID=104
+Mob=62
+Item=381
+Rate=0.2
+
+
+[Drop 105]
+ID=105
+Mob=62
+Item=429
+Rate=0.2
+
+
+[Drop 106]
+ID=106
+Mob=62
+Item=315
+Rate=0.2
+
+
+[Drop 107]
+ID=107
+Mob=62
+Item=320
+Rate=0.2
+
+
+[Drop 108]
+ID=108
+Mob=62
+Item=363
+Rate=0.2
+
+
+[Drop 109]
+ID=109
+Mob=62
+Item=414
+Rate=0.2
+
+
+[Drop 110]
+ID=110
+Mob=62
+Item=200
+Rate=0.2
+
+
+[Drop 111]
+ID=111
+Mob=62
+Item=255
+Rate=0.2
+
+
+[Drop 112]
+ID=112
+Mob=121
+Item=316
+Rate=0.13
+
+
+[Drop 113]
+ID=113
+Mob=121
+Item=321
+Rate=0.13
+
+
+[Drop 114]
+ID=114
+Mob=121
+Item=364
+Rate=0.13
+
+
+[Drop 115]
+ID=115
+Mob=121
+Item=415
+Rate=0.13
+
+
+[Drop 116]
+ID=116
+Mob=121
+Item=372
+Rate=0.13
+
+
+[Drop 117]
+ID=117
+Mob=121
+Item=377
+Rate=0.13
+
+
+[Drop 118]
+ID=118
+Mob=121
+Item=382
+Rate=0.13
+
+
+[Drop 119]
+ID=119
+Mob=121
+Item=430
+Rate=0.13
+
+
+[Drop 120]
+ID=120
+Mob=121
+Item=292
+Rate=0.13
+
+
+[Drop 121]
+ID=121
+Mob=121
+Item=407
+Rate=0.13
+
+
+[Drop 122]
+ID=122
+Mob=63
+Item=331
+Rate=0.2
+
+
+[Drop 123]
+ID=123
+Mob=63
+Item=336
+Rate=0.2
+
+
+[Drop 124]
+ID=124
+Mob=63
+Item=341
+Rate=0.2
+
+
+[Drop 125]
+ID=125
+Mob=63
+Item=419
+Rate=0.2
+
+
+[Drop 126]
+ID=126
+Mob=63
+Item=349
+Rate=0.2
+
+
+[Drop 127]
+ID=127
+Mob=63
+Item=354
+Rate=0.2
+
+
+[Drop 128]
+ID=128
+Mob=63
+Item=359
+Rate=0.2
+
+
+[Drop 129]
+ID=129
+Mob=63
+Item=424
+Rate=0.2
+
+
+[Drop 130]
+ID=130
+Mob=63
+Item=293
+Rate=0.2
+
+
+[Drop 131]
+ID=131
+Mob=63
+Item=306
+Rate=0.2
+
+
+[Drop 132]
+ID=132
+Mob=122
+Item=257
+Rate=0.171
+
+
+[Drop 133]
+ID=133
+Mob=122
+Item=292
+Rate=0.171
+
+
+[Drop 134]
+ID=134
+Mob=122
+Item=408
+Rate=0.171
+
+
+[Drop 135]
+ID=135
+Mob=122
+Item=548
+Rate=0.171
+
+
+[Drop 136]
+ID=136
+Mob=122
+Item=332
+Rate=0.171
+
+
+[Drop 137]
+ID=137
+Mob=122
+Item=337
+Rate=0.171
+
+
+[Drop 138]
+ID=138
+Mob=122
+Item=342
+Rate=0.171
+
+
+[Drop 139]
+ID=139
+Mob=122
+Item=420
+Rate=0.171
+
+
+[Drop 140]
+ID=140
+Mob=122
+Item=252
+Rate=0.171
+
+
+[Drop 141]
+ID=141
+Mob=122
+Item=251
+Rate=0.171
+
+
+[Drop 142]
+ID=142
+Mob=123
+Item=257
+Rate=0.1
+
+
+[Drop 143]
+ID=143
+Mob=123
+Item=294
+Rate=0.1
+
+
+[Drop 144]
+ID=144
+Mob=123
+Item=425
+Rate=0.1
+
+
+[Drop 145]
+ID=145
+Mob=123
+Item=252
+Rate=0.1
+
+
+[Drop 146]
+ID=146
+Mob=124
+Item=316
+Rate=0.2
+
+
+[Drop 147]
+ID=147
+Mob=124
+Item=321
+Rate=0.2
+
+
+[Drop 148]
+ID=148
+Mob=124
+Item=364
+Rate=0.2
+
+
+[Drop 149]
+ID=149
+Mob=124
+Item=415
+Rate=0.2
+
+
+[Drop 150]
+ID=150
+Mob=124
+Item=372
+Rate=0.2
+
+
+[Drop 151]
+ID=151
+Mob=124
+Item=377
+Rate=0.2
+
+
+[Drop 152]
+ID=152
+Mob=124
+Item=382
+Rate=0.2
+
+
+[Drop 153]
+ID=153
+Mob=124
+Item=430
+Rate=0.2
+
+
+[Drop 154]
+ID=154
+Mob=124
+Item=234
+Rate=0.1
+
+
+[Drop 155]
+ID=155
+Mob=124
+Item=239
+Rate=0.1
+
+
+[Drop 156]
+ID=156
+Mob=127
+Item=253
+Rate=0.13
+
+
+[Drop 157]
+ID=157
+Mob=127
+Item=860
+Rate=0.13
+
+
+[Drop 158]
+ID=158
+Mob=127
+Item=409
+Rate=0.13
+
+
+[Drop 159]
+ID=159
+Mob=127
+Item=907
+Rate=0.13
+
+
+[Drop 160]
+ID=160
+Mob=127
+Item=350
+Rate=0.13
+
+
+[Drop 161]
+ID=161
+Mob=127
+Item=355
+Rate=0.13
+
+
+[Drop 162]
+ID=162
+Mob=127
+Item=360
+Rate=0.13
+
+
+[Drop 163]
+ID=163
+Mob=127
+Item=425
+Rate=0.13
+
+
+[Drop 164]
+ID=164
+Mob=127
+Item=258
+Rate=0.13
+
+
+[Drop 165]
+ID=165
+Mob=128
+Item=475
+Rate=0.2
+
+
+[Drop 166]
+ID=166
+Mob=128
+Item=476
+Rate=0.2
+
+
+[Drop 167]
+ID=167
+Mob=128
+Item=477
+Rate=0.2
+
+
+[Drop 168]
+ID=168
+Mob=128
+Item=712
+Rate=0.2
+
+
+[Drop 169]
+ID=169
+Mob=128
+Item=484
+Rate=0.2
+
+
+[Drop 170]
+ID=170
+Mob=128
+Item=485
+Rate=0.2
+
+
+[Drop 171]
+ID=171
+Mob=128
+Item=486
+Rate=0.2
+
+
+[Drop 172]
+ID=172
+Mob=128
+Item=715
+Rate=0.2
+
+
+[Drop 173]
+ID=173
+Mob=128
+Item=295
+Rate=0.2
+
+
+[Drop 174]
+ID=174
+Mob=126
+Item=860
+Rate=0.131
+
+
+[Drop 175]
+ID=175
+Mob=126
+Item=410
+Rate=0.131
+
+
+[Drop 176]
+ID=176
+Mob=126
+Item=478
+Rate=0.131
+
+
+[Drop 177]
+ID=177
+Mob=126
+Item=479
+Rate=0.131
+
+
+[Drop 178]
+ID=178
+Mob=126
+Item=480
+Rate=0.131
+
+
+[Drop 179]
+ID=179
+Mob=126
+Item=713
+Rate=0.131
+
+
+[Drop 180]
+ID=180
+Mob=126
+Item=295
+Rate=0.131
+
+
+[Drop 181]
+ID=181
+Mob=130
+Item=860
+Rate=0.5
+
+
+[Drop 182]
+ID=182
+Mob=130
+Item=410
+Rate=0.5
+
+
+[Drop 183]
+ID=183
+Mob=130
+Item=481
+Rate=0.5
+
+
+[Drop 184]
+ID=184
+Mob=130
+Item=482
+Rate=0.5
+
+
+[Drop 185]
+ID=185
+Mob=130
+Item=483
+Rate=0.5
+
+
+[Drop 186]
+ID=186
+Mob=130
+Item=714
+Rate=0.5
+
+
+[Drop 187]
+ID=187
+Mob=130
+Item=259
+Rate=0.5
+
+
+[Drop 188]
+ID=188
+Mob=132
+Item=498
+Rate=0.3
+
+
+[Drop 189]
+ID=189
+Mob=132
+Item=499
+Rate=0.3
+
+
+[Drop 190]
+ID=190
+Mob=132
+Item=500
+Rate=0.3
+
+
+[Drop 191]
+ID=191
+Mob=132
+Item=507
+Rate=0.3
+
+
+[Drop 192]
+ID=192
+Mob=132
+Item=508
+Rate=0.3
+
+
+[Drop 193]
+ID=193
+Mob=132
+Item=509
+Rate=0.3
+
+
+[Drop 194]
+ID=194
+Mob=132
+Item=296
+Rate=0.3
+
+
+[Drop 195]
+ID=195
+Mob=133
+Item=504
+Rate=0.3
+
+
+[Drop 196]
+ID=196
+Mob=133
+Item=503
+Rate=0.3
+
+
+[Drop 197]
+ID=197
+Mob=133
+Item=472
+Rate=0.3
+
+
+[Drop 198]
+ID=198
+Mob=133
+Item=474
+Rate=0.3
+
+
+[Drop 199]
+ID=199
+Mob=133
+Item=471
+Rate=0.3
+
+
+[Drop 200]
+ID=200
+Mob=133
+Item=473
+Rate=0.3
+
+
+[Drop 201]
+ID=201
+Mob=133
+Item=929
+Rate=0.13
+
+
+[Drop 202]
+ID=202
+Mob=133
+Item=908
+Rate=0.13
+
+
+[Drop 203]
+ID=203
+Mob=122
+Item=407
+Rate=0.171
+
+
+[Drop 204]
+ID=204
+Mob=126
+Item=244
+Rate=0.1
+
+
+[Drop 205]
+ID=205
+Mob=126
+Item=249
+Rate=0.1
+
+
+[Drop 206]
+ID=206
+Mob=124
+Item=0
+Rate=0.1
+
+
+[Drop 207]
+ID=207
+Mob=285
+Item=0
+Rate=0.1
+
+
+[Drop 208]
+ID=208
+Mob=354
+Item=0
+Rate=0.1
+
+
+[Drop 209]
+ID=209
+Mob=362
+Item=0
+Rate=0.1
+
+
+[Drop 210]
+ID=210
+Mob=101
+Item=0
+Rate=0.1
+
+
+[Drop 211]
+ID=211
+Mob=25
+Item=0
+Rate=.1
+
+
+[Drop 212]
+ID=212
+Mob=97
+Item=0
+Rate=.1
+
+
+[Drop 213]
+ID=213
+Mob=98
+Item=0
+Rate=.1
+
+
+[Drop 214]
+ID=214
+Mob=130
+Item=478
+Rate=0.5
+
+
+[Drop 215]
+ID=215
+Mob=130
+Item=479
+Rate=0.5
+
+
+[Drop 216]
+ID=216
+Mob=130
+Item=480
+Rate=0.5
+
+
+[Drop 217]
+ID=217
+Mob=130
+Item=713
+Rate=0.5
+
+
+[Drop 218]
+ID=218
+Mob=130
+Item=254
+Rate=0.5
+
+
+[Drop 219]
+ID=219
+Mob=130
+Item=295
+Rate=0.5
+
+
+[Drop 220]
+ID=220
+Mob=133
+Item=501
+Rate=0.3
+
+
+[Drop 221]
+ID=221
+Mob=133
+Item=502
+Rate=0.3
+
+
+[Drop 222]
+ID=222
+Mob=133
+Item=503
+Rate=0.3
+
+
+[Drop 223]
+ID=223
+Mob=133
+Item=857
+Rate=0.13
+
+
+[Drop 224]
+ID=224
+Mob=133
+Item=504
+Rate=0.3
+
+
+[Drop 225]
+ID=225
+Mob=133
+Item=505
+Rate=0.3
+
+
+[Drop 226]
+ID=226
+Mob=133
+Item=506
+Rate=0.3
+
+
+[Drop 227]
+ID=227
+Mob=133
+Item=858
+Rate=0.13
+
+
+[Drop 228]
+ID=228
+Mob=102
+Item=0
+Rate=.05
+
+
+[Drop 229]
+ID=229
+Mob=300
+Item=0
+Rate=.02
+
+
+[Drop 230]
+ID=230
+Mob=299
+Item=0
+Rate=.02
+
+
+[Drop 231]
+ID=231
+Mob=247
+Item=0
+Rate=.02
+
+
+[Drop 232]
+ID=232
+Mob=224
+Item=0
+Rate=.05
+
+
+[Drop 233]
+ID=233
+Mob=356
+Item=0
+Rate=.5
+
+
+[Drop 234]
+ID=234
+Mob=81
+Item=0
+Rate=.01
+
+
+[Drop 235]
+ID=235
+Mob=86
+Item=61
+Rate=0.5
+
+
+[Drop 236]
+ID=236
+Mob=86
+Item=510
+Rate=0.5
+
+
+[Drop 237]
+ID=237
+Mob=86
+Item=346
+Rate=0.5
+
+
+[Drop 238]
+ID=238
+Mob=86
+Item=351
+Rate=0.5
+
+
+[Drop 239]
+ID=239
+Mob=86
+Item=356
+Rate=0.5
+
+
+[Drop 240]
+ID=240
+Mob=86
+Item=421
+Rate=0.5
+
+
+[Drop 241]
+ID=241
+Mob=86
+Item=902
+Rate=0.5
+
+
+[Drop 242]
+ID=242
+Mob=86
+Item=213
+Rate=0.5
+
+
+[Drop 243]
+ID=243
+Mob=86
+Item=121
+Rate=0.5
+
+
+[Drop 244]
+ID=244
+Mob=86
+Item=196
+Rate=0.5
+
+
+[Drop 245]
+ID=245
+Mob=87
+Item=212
+Rate=0.5
+
+
+[Drop 246]
+ID=246
+Mob=87
+Item=181
+Rate=0.5
+
+
+[Drop 247]
+ID=247
+Mob=87
+Item=463
+Rate=0.5
+
+
+[Drop 248]
+ID=248
+Mob=87
+Item=466
+Rate=0.5
+
+
+[Drop 249]
+ID=249
+Mob=87
+Item=162
+Rate=0.5
+
+
+[Drop 250]
+ID=250
+Mob=87
+Item=368
+Rate=0.5
+
+
+[Drop 251]
+ID=251
+Mob=87
+Item=373
+Rate=0.5
+
+
+[Drop 252]
+ID=252
+Mob=87
+Item=378
+Rate=0.5
+
+
+[Drop 253]
+ID=253
+Mob=87
+Item=426
+Rate=0.5
+
+
+[Drop 254]
+ID=254
+Mob=87
+Item=195
+Rate=0.5
+
+
+[Drop 255]
+ID=255
+Mob=87
+Item=312
+Rate=0.5
+
+
+[Drop 256]
+ID=256
+Mob=87
+Item=317
+Rate=0.5
+
+
+[Drop 257]
+ID=257
+Mob=87
+Item=322
+Rate=0.5
+
+
+[Drop 258]
+ID=258
+Mob=87
+Item=411
+Rate=0.5
+
+
+[Drop 259]
+ID=259
+Mob=87
+Item=328
+Rate=0.5
+
+
+[Drop 260]
+ID=260
+Mob=87
+Item=333
+Rate=0.5
+
+
+[Drop 261]
+ID=261
+Mob=87
+Item=338
+Rate=0.5
+
+
+[Drop 262]
+ID=262
+Mob=87
+Item=416
+Rate=0.5
+
+
+[Drop 263]
+ID=263
+Mob=89
+Item=192
+Rate=0.5
+
+
+[Drop 264]
+ID=264
+Mob=89
+Item=916
+Rate=0.5
+
+
+[Drop 265]
+ID=265
+Mob=89
+Item=152
+Rate=0.5
+
+
+[Drop 266]
+ID=266
+Mob=89
+Item=156
+Rate=0.5
+
+
+[Drop 267]
+ID=267
+Mob=89
+Item=161
+Rate=0.5
+
+
+[Drop 268]
+ID=268
+Mob=89
+Item=439
+Rate=0.5
+
+
+[Drop 269]
+ID=269
+Mob=89
+Item=55
+Rate=0.5
+
+
+[Drop 270]
+ID=270
+Mob=89
+Item=189
+Rate=0.5
+
+
+[Drop 271]
+ID=271
+Mob=89
+Item=462
+Rate=0.5
+
+
+[Drop 272]
+ID=272
+Mob=89
+Item=193
+Rate=0.5
+
+
+[Drop 273]
+ID=273
+Mob=58
+Item=179
+Rate=0.7
+
+
+[Drop 274]
+ID=274
+Mob=58
+Item=182
+Rate=0.7
+
+
+[Drop 275]
+ID=275
+Mob=58
+Item=347
+Rate=0.7
+
+
+[Drop 276]
+ID=276
+Mob=58
+Item=352
+Rate=0.7
+
+
+[Drop 277]
+ID=277
+Mob=58
+Item=357
+Rate=0.7
+
+
+[Drop 278]
+ID=278
+Mob=58
+Item=286
+Rate=0.7
+
+
+[Drop 279]
+ID=279
+Mob=58
+Item=369
+Rate=0.7
+
+
+[Drop 280]
+ID=280
+Mob=58
+Item=374
+Rate=0.7
+
+
+[Drop 281]
+ID=281
+Mob=58
+Item=379
+Rate=0.7
+
+
+[Drop 282]
+ID=282
+Mob=58
+Item=427
+Rate=0.7
+
+
+[Drop 283]
+ID=283
+Mob=58
+Item=313
+Rate=0.7
+
+
+[Drop 284]
+ID=284
+Mob=58
+Item=318
+Rate=0.7
+
+
+[Drop 285]
+ID=285
+Mob=58
+Item=361
+Rate=0.7
+
+
+[Drop 286]
+ID=286
+Mob=58
+Item=412
+Rate=0.7
+
+
+[Drop 287]
+ID=287
+Mob=58
+Item=197
+Rate=0.7
+
+
+[Drop 288]
+ID=288
+Mob=58
+Item=329
+Rate=0.7
+
+
+[Drop 289]
+ID=289
+Mob=58
+Item=334
+Rate=0.7
+
+
+[Drop 290]
+ID=290
+Mob=58
+Item=339
+Rate=0.7
+
+
+[Drop 291]
+ID=291
+Mob=58
+Item=417
+Rate=0.7
+
+
+[Drop 292]
+ID=292
+Mob=58
+Item=176
+Rate=0.7
+
+
+[Drop 293]
+ID=293
+Mob=58
+Item=903
+Rate=0.7
+
+
+[Drop 294]
+ID=294
+Mob=61
+Item=287
+Rate=0.3
+
+
+[Drop 295]
+ID=295
+Mob=61
+Item=545
+Rate=0.3
+
+
+[Drop 296]
+ID=296
+Mob=61
+Item=284
+Rate=0.3
+
+
+[Drop 297]
+ID=297
+Mob=61
+Item=177
+Rate=0.3
+
+
+[Drop 298]
+ID=298
+Mob=61
+Item=198
+Rate=0.3
+
+
+[Drop 299]
+ID=299
+Mob=61
+Item=180
+Rate=0.3
+
+
+[Drop 300]
+ID=300
+Mob=61
+Item=370
+Rate=0.3
+
+
+[Drop 301]
+ID=301
+Mob=61
+Item=375
+Rate=0.3
+
+
+[Drop 302]
+ID=302
+Mob=61
+Item=380
+Rate=0.3
+
+
+[Drop 303]
+ID=303
+Mob=61
+Item=428
+Rate=0.3
+
+
+[Drop 304]
+ID=304
+Mob=61
+Item=314
+Rate=0.3
+
+
+[Drop 305]
+ID=305
+Mob=61
+Item=319
+Rate=0.3
+
+
+[Drop 306]
+ID=306
+Mob=61
+Item=362
+Rate=0.3
+
+
+[Drop 307]
+ID=307
+Mob=61
+Item=413
+Rate=0.3
+
+
+[Drop 308]
+ID=308
+Mob=60
+Item=178
+Rate=0.3
+
+
+[Drop 309]
+ID=309
+Mob=60
+Item=546
+Rate=0.3
+
+
+[Drop 310]
+ID=310
+Mob=60
+Item=348
+Rate=0.3
+
+
+[Drop 311]
+ID=311
+Mob=60
+Item=353
+Rate=0.3
+
+
+[Drop 312]
+ID=312
+Mob=60
+Item=358
+Rate=0.3
+
+
+[Drop 313]
+ID=313
+Mob=60
+Item=423
+Rate=0.3
+
+
+[Drop 314]
+ID=314
+Mob=60
+Item=904
+Rate=0.3
+
+
+[Drop 315]
+ID=315
+Mob=60
+Item=199
+Rate=0.3
+
+
+[Drop 316]
+ID=316
+Mob=59
+Item=255
+Rate=0.3
+
+
+[Drop 317]
+ID=317
+Mob=59
+Item=306
+Rate=0.3
+
+
+[Drop 318]
+ID=318
+Mob=59
+Item=547
+Rate=0.3
+
+
+[Drop 319]
+ID=319
+Mob=59
+Item=250
+Rate=0.3
+
+
+[Drop 320]
+ID=320
+Mob=59
+Item=293
+Rate=0.3
+
+
+[Drop 321]
+ID=321
+Mob=59
+Item=371
+Rate=0.3
+
+
+[Drop 322]
+ID=322
+Mob=59
+Item=376
+Rate=0.3
+
+
+[Drop 323]
+ID=323
+Mob=59
+Item=381
+Rate=0.3
+
+
+[Drop 324]
+ID=324
+Mob=59
+Item=429
+Rate=0.3
+
+
+[Drop 325]
+ID=325
+Mob=59
+Item=315
+Rate=0.3
+
+
+[Drop 326]
+ID=326
+Mob=59
+Item=320
+Rate=0.3
+
+
+[Drop 327]
+ID=327
+Mob=59
+Item=363
+Rate=0.3
+
+
+[Drop 328]
+ID=328
+Mob=59
+Item=414
+Rate=0.3
+
+
+[Drop 329]
+ID=329
+Mob=62
+Item=331
+Rate=0.2
+
+
+[Drop 330]
+ID=330
+Mob=62
+Item=336
+Rate=0.2
+
+
+[Drop 331]
+ID=331
+Mob=62
+Item=341
+Rate=0.2
+
+
+[Drop 332]
+ID=332
+Mob=62
+Item=419
+Rate=0.2
+
+
+[Drop 333]
+ID=333
+Mob=62
+Item=349
+Rate=0.2
+
+
+[Drop 334]
+ID=334
+Mob=62
+Item=354
+Rate=0.2
+
+
+[Drop 335]
+ID=335
+Mob=62
+Item=359
+Rate=0.2
+
+
+[Drop 336]
+ID=336
+Mob=62
+Item=424
+Rate=0.2
+
+
+[Drop 337]
+ID=337
+Mob=62
+Item=905
+Rate=0.2
+
+
+[Drop 338]
+ID=338
+Mob=132
+Item=474
+Rate=0.3
+
+
+[Drop 339]
+ID=339
+Mob=132
+Item=471
+Rate=0.3
+
+
+[Drop 340]
+ID=340
+Mob=132
+Item=472
+Rate=0.3
+
+
+[Drop 341]
+ID=341
+Mob=132
+Item=473
+Rate=0.3
+
+
+[Drop 342]
+ID=342
+Mob=132
+Item=929
+Rate=0.3
+
+
+[Drop 343]
+ID=343
+Mob=97
+Item=145
+Rate=0.2
+
+
+[Drop 344]
+ID=344
+Mob=97
+Item=142
+Rate=0.2
+
+
+[Drop 345]
+ID=345
+Mob=97
+Item=146
+Rate=0.2
+
+
+[Drop 346]
+ID=346
+Mob=23
+Item=146
+Rate=0.2
+
+
+[Drop 347]
+ID=347
+Mob=23
+Item=145
+Rate=0.2
+
+
+[Drop 348]
+ID=348
+Mob=23
+Item=142
+Rate=0.2
+
+
+[Drop 349]
+ID=349
+Mob=23
+Item=209
+Rate=0.2
+
+
+[Drop 350]
+ID=350
+Mob=25
+Item=209
+Rate=0.2
+
+
+[Drop 351]
+ID=351
+Mob=25
+Item=142
+Rate=0.2
+
+
+[Drop 352]
+ID=352
+Mob=25
+Item=145
+Rate=0.2
+
+
+[Drop 353]
+ID=353
+Mob=25
+Item=146
+Rate=0.2
+
+
+[Drop 354]
+ID=354
+Mob=24
+Item=142
+Rate=0.2
+
+
+[Drop 355]
+ID=355
+Mob=24
+Item=145
+Rate=0.2
+
+
+[Drop 356]
+ID=356
+Mob=24
+Item=146
+Rate=0.2
+
+
+[Drop 357]
+ID=357
+Mob=24
+Item=209
+Rate=0.2
+
+
+[Drop 358]
+ID=358
+Mob=98
+Item=210
+Rate=0.5
+
+
+[Drop 359]
+ID=359
+Mob=98
+Item=140
+Rate=0.5
+
+
+[Drop 360]
+ID=360
+Mob=98
+Item=146
+Rate=0.5
+
+
+[Drop 361]
+ID=361
+Mob=98
+Item=143
+Rate=0.5
+
+
+[Drop 362]
+ID=362
+Mob=99
+Item=143
+Rate=0.2
+
+
+[Drop 363]
+ID=363
+Mob=99
+Item=140
+Rate=0.2
+
+
+[Drop 364]
+ID=364
+Mob=99
+Item=146
+Rate=0.2
+
+
+[Drop 365]
+ID=365
+Mob=99
+Item=210
+Rate=0.2
+
+
+[Drop 366]
+ID=366
+Mob=100
+Item=210
+Rate=0.2
+
+
+[Drop 367]
+ID=367
+Mob=100
+Item=143
+Rate=0.2
+
+
+[Drop 368]
+ID=368
+Mob=100
+Item=140
+Rate=0.2
+
+
+[Drop 369]
+ID=369
+Mob=100
+Item=146
+Rate=0.2
+
+
+[Drop 370]
+ID=370
+Mob=101
+Item=140
+Rate=0.2
+
+
+[Drop 371]
+ID=371
+Mob=101
+Item=143
+Rate=0.2
+
+
+[Drop 372]
+ID=372
+Mob=101
+Item=146
+Rate=0.2
+
+
+[Drop 373]
+ID=373
+Mob=101
+Item=210
+Rate=0.2
+
+
+[Drop 374]
+ID=374
+Mob=102
+Item=211
+Rate=0.2
+
+
+[Drop 375]
+ID=375
+Mob=102
+Item=147
+Rate=0.2
+
+
+[Drop 376]
+ID=376
+Mob=102
+Item=133
+Rate=0.2
+
+
+[Drop 377]
+ID=377
+Mob=102
+Item=144
+Rate=0.2
+
+
+[Drop 378]
+ID=378
+Mob=26
+Item=140
+Rate=0.3
+
+
+[Drop 379]
+ID=379
+Mob=26
+Item=146
+Rate=0.3
+
+
+[Drop 380]
+ID=380
+Mob=26
+Item=210
+Rate=0.3
+
+
+[Drop 381]
+ID=381
+Mob=37
+Item=133
+Rate=0.3
+
+
+[Drop 382]
+ID=382
+Mob=37
+Item=147
+Rate=0.3
+
+
+[Drop 383]
+ID=383
+Mob=37
+Item=144
+Rate=0.3
+
+
+[Drop 384]
+ID=384
+Mob=37
+Item=211
+Rate=0.3
+
+
+[Drop 385]
+ID=385
+Mob=39
+Item=210
+Rate=0.3
+
+
+[Drop 386]
+ID=386
+Mob=39
+Item=140
+Rate=0.3
+
+
+[Drop 387]
+ID=387
+Mob=39
+Item=146
+Rate=0.3
+
+
+[Drop 388]
+ID=388
+Mob=39
+Item=143
+Rate=0.3
+
+
+[Drop 389]
+ID=389
+Mob=41
+Item=133
+Rate=0.5
+
+
+[Drop 390]
+ID=390
+Mob=41
+Item=144
+Rate=0.5
+
+
+[Drop 391]
+ID=391
+Mob=41
+Item=147
+Rate=0.5
+
+
+[Drop 392]
+ID=392
+Mob=41
+Item=211
+Rate=0.5
+
+
+[Drop 393]
+ID=393
+Mob=48
+Item=211
+Rate=0.5
+
+
+[Drop 394]
+ID=394
+Mob=48
+Item=133
+Rate=0.5
+
+
+[Drop 395]
+ID=395
+Mob=48
+Item=147
+Rate=0.5
+
+
+[Drop 396]
+ID=396
+Mob=48
+Item=144
+Rate=0.5
+
+
+[Drop 397]
+ID=397
+Mob=106
+Item=288
+Rate=0.6
+
+
+[Drop 398]
+ID=398
+Mob=106
+Item=289
+Rate=0.6
+
+
+[Drop 399]
+ID=399
+Mob=106
+Item=290
+Rate=0.6
+
+
+[Drop 400]
+ID=400
+Mob=106
+Item=291
+Rate=0.6
+
+
+[Drop 401]
+ID=401
+Mob=105
+Item=288
+Rate=0.6
+
+
+[Drop 402]
+ID=402
+Mob=105
+Item=289
+Rate=0.6
+
+
+[Drop 403]
+ID=403
+Mob=105
+Item=290
+Rate=0.6
+
+
+[Drop 404]
+ID=404
+Mob=105
+Item=291
+Rate=0.6
+
+
+[Drop 405]
+ID=405
+Mob=104
+Item=288
+Rate=0.5
+
+
+[Drop 406]
+ID=406
+Mob=104
+Item=289
+Rate=0.5
+
+
+[Drop 407]
+ID=407
+Mob=104
+Item=290
+Rate=0.5
+
+
+[Drop 408]
+ID=408
+Mob=104
+Item=291
+Rate=0.5
+
+
+[Drop 409]
+ID=409
+Mob=261
+Item=792
+Rate=0.1
+
+
+[Drop 410]
+ID=410
+Mob=261
+Item=795
+Rate=0.1
+
+
+[Drop 411]
+ID=411
+Mob=261
+Item=780
+Rate=0.1
+
+
+[Drop 412]
+ID=412
+Mob=261
+Item=776
+Rate=0.1
+
+
+[Drop 413]
+ID=413
+Mob=261
+Item=768
+Rate=0.1
+
+
+[Drop 414]
+ID=414
+Mob=261
+Item=802
+Rate=0.1
+
+
+[Drop 415]
+ID=415
+Mob=202
+Item=769
+Rate=0.05
+
+
+[Drop 416]
+ID=416
+Mob=202
+Item=740
+Rate=0.05
+
+
+[Drop 417]
+ID=417
+Mob=202
+Item=768
+Rate=0.05
+
+
+[Drop 418]
+ID=418
+Mob=258
+Item=802
+Rate=0.2
+
+
+[Drop 419]
+ID=419
+Mob=258
+Item=789
+Rate=0.2
+
+
+[Drop 420]
+ID=420
+Mob=258
+Item=786
+Rate=0.2
+
+
+[Drop 421]
+ID=421
+Mob=258
+Item=776
+Rate=0.2
+
+
+[Drop 422]
+ID=422
+Mob=258
+Item=768
+Rate=0.2
+
+
+[Drop 423]
+ID=423
+Mob=259
+Item=776
+Rate=0.2
+
+
+[Drop 424]
+ID=424
+Mob=259
+Item=769
+Rate=0.2
+
+
+[Drop 425]
+ID=425
+Mob=259
+Item=780
+Rate=0.2
+
+
+[Drop 426]
+ID=426
+Mob=259
+Item=783
+Rate=0.2
+
+
+[Drop 427]
+ID=427
+Mob=259
+Item=786
+Rate=0.2
+
+
+[Drop 428]
+ID=428
+Mob=259
+Item=802
+Rate=0.2
+
+
+[Drop 429]
+ID=429
+Mob=261
+Item=740
+Rate=0.1
+
+
+[Drop 430]
+ID=430
+Mob=261
+Item=741
+Rate=0.1
+
+
+[Drop 431]
+ID=431
+Mob=258
+Item=741
+Rate=0.2
+
+
+[Drop 432]
+ID=432
+Mob=258
+Item=742
+Rate=0.2
+
+
+[Drop 433]
+ID=433
+Mob=202
+Item=770
+Rate=0.05
+
+
+[Drop 434]
+ID=434
+Mob=261
+Item=724
+Rate=0.1
+
+
+[Drop 435]
+ID=435
+Mob=261
+Item=743
+Rate=0.1
+
+
+[Drop 436]
+ID=436
+Mob=195
+Item=741
+Rate=0.05
+
+
+[Drop 437]
+ID=437
+Mob=195
+Item=742
+Rate=0.05
+
+
+[Drop 438]
+ID=438
+Mob=195
+Item=770
+Rate=0.011
+
+
+[Drop 439]
+ID=439
+Mob=195
+Item=771
+Rate=0.05
+
+
+[Drop 440]
+ID=440
+Mob=197
+Item=741
+Rate=0.13
+
+
+[Drop 441]
+ID=441
+Mob=197
+Item=742
+Rate=0.13
+
+
+[Drop 442]
+ID=442
+Mob=197
+Item=770
+Rate=0.13
+
+
+[Drop 443]
+ID=443
+Mob=197
+Item=771
+Rate=0.13
+
+
+[Drop 444]
+ID=444
+Mob=197
+Item=777
+Rate=0.13
+
+
+[Drop 445]
+ID=445
+Mob=197
+Item=792
+Rate=0.13
+
+
+[Drop 446]
+ID=446
+Mob=197
+Item=795
+Rate=0.13
+
+
+[Drop 447]
+ID=447
+Mob=205
+Item=741
+Rate=0.01
+
+
+[Drop 448]
+ID=448
+Mob=205
+Item=742
+Rate=0.05
+
+
+[Drop 449]
+ID=449
+Mob=205
+Item=770
+Rate=0.05
+
+
+[Drop 450]
+ID=450
+Mob=205
+Item=771
+Rate=0.05
+
+
+[Drop 451]
+ID=451
+Mob=206
+Item=741
+Rate=0.2
+
+
+[Drop 452]
+ID=452
+Mob=206
+Item=742
+Rate=0.2
+
+
+[Drop 453]
+ID=453
+Mob=206
+Item=770
+Rate=0.2
+
+
+[Drop 454]
+ID=454
+Mob=206
+Item=771
+Rate=0.2
+
+
+[Drop 455]
+ID=455
+Mob=206
+Item=777
+Rate=0.2
+
+
+[Drop 456]
+ID=456
+Mob=206
+Item=792
+Rate=0.2
+
+
+[Drop 457]
+ID=457
+Mob=206
+Item=795
+Rate=0.2
+
+
+[Drop 458]
+ID=458
+Mob=260
+Item=741
+Rate=0.05
+
+
+[Drop 459]
+ID=459
+Mob=260
+Item=742
+Rate=0.05
+
+
+[Drop 460]
+ID=460
+Mob=260
+Item=777
+Rate=0.05
+
+
+[Drop 461]
+ID=461
+Mob=260
+Item=792
+Rate=0.05
+
+
+[Drop 462]
+ID=462
+Mob=260
+Item=795
+Rate=0.05
+
+
+[Drop 463]
+ID=463
+Mob=262
+Item=741
+Rate=0.2
+
+
+[Drop 464]
+ID=464
+Mob=262
+Item=742
+Rate=0.2
+
+
+[Drop 465]
+ID=465
+Mob=262
+Item=777
+Rate=0.2
+
+
+[Drop 466]
+ID=466
+Mob=262
+Item=792
+Rate=0.2
+
+
+[Drop 467]
+ID=467
+Mob=262
+Item=795
+Rate=0.2
+
+
+[Drop 468]
+ID=468
+Mob=263
+Item=741
+Rate=0.1
+
+
+[Drop 469]
+ID=469
+Mob=263
+Item=742
+Rate=0.1
+
+
+[Drop 470]
+ID=470
+Mob=263
+Item=777
+Rate=0.1
+
+
+[Drop 471]
+ID=471
+Mob=263
+Item=792
+Rate=0.1
+
+
+[Drop 472]
+ID=472
+Mob=263
+Item=795
+Rate=0.1
+
+
+[Drop 473]
+ID=473
+Mob=278
+Item=741
+Rate=0.11
+
+
+[Drop 474]
+ID=474
+Mob=278
+Item=742
+Rate=0.11
+
+
+[Drop 475]
+ID=475
+Mob=278
+Item=770
+Rate=0.13
+
+
+[Drop 476]
+ID=476
+Mob=278
+Item=771
+Rate=0.13
+
+
+[Drop 477]
+ID=477
+Mob=278
+Item=777
+Rate=0.13
+
+
+[Drop 478]
+ID=478
+Mob=278
+Item=792
+Rate=0.13
+
+
+[Drop 479]
+ID=479
+Mob=278
+Item=795
+Rate=0.13
+
+
+[Drop 480]
+ID=480
+Mob=279
+Item=741
+Rate=0.12
+
+
+[Drop 481]
+ID=481
+Mob=279
+Item=742
+Rate=0.12
+
+
+[Drop 482]
+ID=482
+Mob=279
+Item=777
+Rate=0.12
+
+
+[Drop 483]
+ID=483
+Mob=279
+Item=792
+Rate=0.12
+
+
+[Drop 484]
+ID=484
+Mob=279
+Item=795
+Rate=0.12
+
+
+[Drop 485]
+ID=485
+Mob=195
+Item=740
+Rate=0.05
+
+
+[Drop 486]
+ID=486
+Mob=195
+Item=768
+Rate=0.05
+
+
+[Drop 487]
+ID=487
+Mob=195
+Item=769
+Rate=0.05
+
+
+[Drop 488]
+ID=488
+Mob=195
+Item=801
+Rate=0.01
+
+
+[Drop 489]
+ID=489
+Mob=195
+Item=802
+Rate=0.01
+
+
+[Drop 490]
+ID=490
+Mob=197
+Item=740
+Rate=0.13
+
+
+[Drop 491]
+ID=491
+Mob=197
+Item=768
+Rate=0.13
+
+
+[Drop 492]
+ID=492
+Mob=197
+Item=769
+Rate=0.13
+
+
+[Drop 493]
+ID=493
+Mob=197
+Item=776
+Rate=0.13
+
+
+[Drop 494]
+ID=494
+Mob=197
+Item=780
+Rate=0.13
+
+
+[Drop 495]
+ID=495
+Mob=197
+Item=783
+Rate=0.13
+
+
+[Drop 496]
+ID=496
+Mob=197
+Item=786
+Rate=0.13
+
+
+[Drop 497]
+ID=497
+Mob=197
+Item=786
+Rate=0.13
+
+
+[Drop 498]
+ID=498
+Mob=197
+Item=789
+Rate=0.13
+
+
+[Drop 499]
+ID=499
+Mob=197
+Item=801
+Rate=0.13
+
+
+[Drop 500]
+ID=500
+Mob=197
+Item=802
+Rate=0.13
+
+
+[Drop 501]
+ID=501
+Mob=205
+Item=740
+Rate=0.01
+
+
+[Drop 502]
+ID=502
+Mob=205
+Item=768
+Rate=0.05
+
+
+[Drop 503]
+ID=503
+Mob=205
+Item=769
+Rate=0.05
+
+
+[Drop 504]
+ID=504
+Mob=205
+Item=801
+Rate=0.05
+
+
+[Drop 505]
+ID=505
+Mob=205
+Item=802
+Rate=0.05
+
+
+[Drop 506]
+ID=506
+Mob=206
+Item=740
+Rate=0.2
+
+
+[Drop 507]
+ID=507
+Mob=206
+Item=768
+Rate=0.2
+
+
+[Drop 508]
+ID=508
+Mob=206
+Item=769
+Rate=0.2
+
+
+[Drop 509]
+ID=509
+Mob=206
+Item=776
+Rate=0.2
+
+
+[Drop 510]
+ID=510
+Mob=206
+Item=780
+Rate=0.2
+
+
+[Drop 511]
+ID=511
+Mob=206
+Item=780
+Rate=0.2
+
+
+[Drop 512]
+ID=512
+Mob=206
+Item=783
+Rate=0.2
+
+
+[Drop 513]
+ID=513
+Mob=206
+Item=786
+Rate=0.2
+
+
+[Drop 514]
+ID=514
+Mob=206
+Item=789
+Rate=0.2
+
+
+[Drop 515]
+ID=515
+Mob=206
+Item=801
+Rate=0.2
+
+
+[Drop 516]
+ID=516
+Mob=206
+Item=802
+Rate=0.2
+
+
+[Drop 517]
+ID=517
+Mob=258
+Item=769
+Rate=0.2
+
+
+[Drop 518]
+ID=518
+Mob=258
+Item=801
+Rate=0.2
+
+
+[Drop 519]
+ID=519
+Mob=260
+Item=740
+Rate=0.05
+
+
+[Drop 520]
+ID=520
+Mob=260
+Item=768
+Rate=0.05
+
+
+[Drop 521]
+ID=521
+Mob=260
+Item=769
+Rate=0.05
+
+
+[Drop 522]
+ID=522
+Mob=260
+Item=776
+Rate=0.05
+
+
+[Drop 523]
+ID=523
+Mob=260
+Item=780
+Rate=0.05
+
+
+[Drop 524]
+ID=524
+Mob=260
+Item=783
+Rate=0.05
+
+
+[Drop 525]
+ID=525
+Mob=260
+Item=786
+Rate=0.05
+
+
+[Drop 526]
+ID=526
+Mob=260
+Item=789
+Rate=0.05
+
+
+[Drop 527]
+ID=527
+Mob=260
+Item=802
+Rate=0.05
+
+
+[Drop 528]
+ID=528
+Mob=260
+Item=801
+Rate=0.05
+
+
+[Drop 529]
+ID=529
+Mob=262
+Item=740
+Rate=0.2
+
+
+[Drop 530]
+ID=530
+Mob=262
+Item=768
+Rate=0.2
+
+
+[Drop 531]
+ID=531
+Mob=262
+Item=769
+Rate=0.2
+
+
+[Drop 532]
+ID=532
+Mob=262
+Item=776
+Rate=0.2
+
+
+[Drop 533]
+ID=533
+Mob=262
+Item=780
+Rate=0.2
+
+
+[Drop 534]
+ID=534
+Mob=262
+Item=783
+Rate=0.2
+
+
+[Drop 535]
+ID=535
+Mob=262
+Item=789
+Rate=0.2
+
+
+[Drop 536]
+ID=536
+Mob=262
+Item=802
+Rate=0.05
+
+
+[Drop 537]
+ID=537
+Mob=262
+Item=801
+Rate=0.05
+
+
+[Drop 538]
+ID=538
+Mob=263
+Item=740
+Rate=0.1
+
+
+[Drop 539]
+ID=539
+Mob=263
+Item=768
+Rate=0.1
+
+
+[Drop 540]
+ID=540
+Mob=263
+Item=769
+Rate=0.1
+
+
+[Drop 541]
+ID=541
+Mob=263
+Item=776
+Rate=0.1
+
+
+[Drop 542]
+ID=542
+Mob=263
+Item=780
+Rate=0.1
+
+
+[Drop 543]
+ID=543
+Mob=263
+Item=783
+Rate=0.1
+
+
+[Drop 544]
+ID=544
+Mob=263
+Item=786
+Rate=0.1
+
+
+[Drop 545]
+ID=545
+Mob=263
+Item=789
+Rate=0.1
+
+
+[Drop 546]
+ID=546
+Mob=263
+Item=802
+Rate=0.1
+
+
+[Drop 547]
+ID=547
+Mob=263
+Item=801
+Rate=0.1
+
+
+[Drop 548]
+ID=548
+Mob=278
+Item=740
+Rate=0.11
+
+
+[Drop 549]
+ID=549
+Mob=278
+Item=768
+Rate=0.13
+
+
+[Drop 550]
+ID=550
+Mob=278
+Item=769
+Rate=0.13
+
+
+[Drop 551]
+ID=551
+Mob=278
+Item=780
+Rate=0.13
+
+
+[Drop 552]
+ID=552
+Mob=278
+Item=783
+Rate=0.13
+
+
+[Drop 553]
+ID=553
+Mob=278
+Item=789
+Rate=0.13
+
+
+[Drop 554]
+ID=554
+Mob=278
+Item=801
+Rate=0.13
+
+
+[Drop 555]
+ID=555
+Mob=278
+Item=802
+Rate=0.13
+
+
+[Drop 556]
+ID=556
+Mob=279
+Item=740
+Rate=0.12
+
+
+[Drop 557]
+ID=557
+Mob=279
+Item=769
+Rate=0.12
+
+
+[Drop 558]
+ID=558
+Mob=279
+Item=776
+Rate=0.12
+
+
+[Drop 559]
+ID=559
+Mob=279
+Item=780
+Rate=0.12
+
+
+[Drop 560]
+ID=560
+Mob=279
+Item=783
+Rate=0.12
+
+
+[Drop 561]
+ID=561
+Mob=279
+Item=786
+Rate=0.12
+
+
+[Drop 562]
+ID=562
+Mob=279
+Item=802
+Rate=0.12
+
+
+[Drop 563]
+ID=563
+Mob=279
+Item=801
+Rate=0.12
+
+
+[Drop 564]
+ID=564
+Mob=195
+Item=724
+Rate=0.05
+
+
+[Drop 565]
+ID=565
+Mob=195
+Item=743
+Rate=0.05
+
+
+[Drop 566]
+ID=566
+Mob=195
+Item=744
+Rate=0.05
+
+
+[Drop 567]
+ID=567
+Mob=197
+Item=724
+Rate=0.13
+
+
+[Drop 568]
+ID=568
+Mob=197
+Item=743
+Rate=0.13
+
+
+[Drop 569]
+ID=569
+Mob=197
+Item=787
+Rate=0.13
+
+
+[Drop 570]
+ID=570
+Mob=202
+Item=724
+Rate=0.05
+
+
+[Drop 571]
+ID=571
+Mob=202
+Item=743
+Rate=0.05
+
+
+[Drop 572]
+ID=572
+Mob=205
+Item=724
+Rate=0.01
+
+
+[Drop 573]
+ID=573
+Mob=205
+Item=743
+Rate=0.05
+
+
+[Drop 574]
+ID=574
+Mob=205
+Item=744
+Rate=0.05
+
+
+[Drop 575]
+ID=575
+Mob=206
+Item=724
+Rate=0.2
+
+
+[Drop 576]
+ID=576
+Mob=206
+Item=743
+Rate=0.2
+
+
+[Drop 577]
+ID=577
+Mob=206
+Item=744
+Rate=0.2
+
+
+[Drop 578]
+ID=578
+Mob=206
+Item=778
+Rate=0.2
+
+
+[Drop 579]
+ID=579
+Mob=206
+Item=781
+Rate=0.2
+
+
+[Drop 580]
+ID=580
+Mob=206
+Item=787
+Rate=0.2
+
+
+[Drop 581]
+ID=581
+Mob=258
+Item=724
+Rate=0.2
+
+
+[Drop 582]
+ID=582
+Mob=258
+Item=743
+Rate=0.2
+
+
+[Drop 583]
+ID=583
+Mob=259
+Item=724
+Rate=0.2
+
+
+[Drop 584]
+ID=584
+Mob=259
+Item=743
+Rate=0.2
+
+
+[Drop 585]
+ID=585
+Mob=260
+Item=724
+Rate=0.05
+
+
+[Drop 586]
+ID=586
+Mob=260
+Item=743
+Rate=0.05
+
+
+[Drop 587]
+ID=587
+Mob=262
+Item=724
+Rate=0.2
+
+
+[Drop 588]
+ID=588
+Mob=262
+Item=743
+Rate=0.2
+
+
+[Drop 589]
+ID=589
+Mob=263
+Item=724
+Rate=0.1
+
+
+[Drop 590]
+ID=590
+Mob=263
+Item=743
+Rate=0.1
+
+
+[Drop 591]
+ID=591
+Mob=278
+Item=743
+Rate=0.11
+
+
+[Drop 592]
+ID=592
+Mob=278
+Item=744
+Rate=0.11
+
+
+[Drop 593]
+ID=593
+Mob=278
+Item=781
+Rate=0.13
+
+
+[Drop 594]
+ID=594
+Mob=278
+Item=778
+Rate=0.13
+
+
+[Drop 595]
+ID=595
+Mob=278
+Item=787
+Rate=0.13
+
+
+[Drop 596]
+ID=596
+Mob=278
+Item=790
+Rate=0.13
+
+
+[Drop 597]
+ID=597
+Mob=279
+Item=724
+Rate=0.12
+
+
+[Drop 598]
+ID=598
+Mob=279
+Item=743
+Rate=0.12
+
+
+[Drop 599]
+ID=599
+Mob=279
+Item=744
+Rate=0.12
+
+
+[Drop 600]
+ID=600
+Mob=279
+Item=781
+Rate=0.12
+
+
+[Drop 601]
+ID=601
+Mob=279
+Item=787
+Rate=0.12
+
+
+[Drop 602]
+ID=602
+Mob=195
+Item=745
+Rate=0.011
+
+
+[Drop 603]
+ID=603
+Mob=206
+Item=745
+Rate=0.2
+
+
+[Drop 604]
+ID=604
+Mob=206
+Item=793
+Rate=0.2
+
+
+[Drop 605]
+ID=605
+Mob=206
+Item=796
+Rate=0.2
+
+
+[Drop 606]
+ID=606
+Mob=206
+Item=798
+Rate=0.2
+
+
+[Drop 607]
+ID=607
+Mob=278
+Item=745
+Rate=0.11
+
+
+[Drop 608]
+ID=608
+Mob=278
+Item=793
+Rate=0.13
+
+
+[Drop 609]
+ID=609
+Mob=278
+Item=796
+Rate=0.13
+
+
+[Drop 610]
+ID=610
+Mob=278
+Item=798
+Rate=0.13
+
+
+[Drop 611]
+ID=611
+Mob=279
+Item=745
+Rate=0.12
+
+
+[Drop 612]
+ID=612
+Mob=279
+Item=793
+Rate=0.12
+
+
+[Drop 613]
+ID=613
+Mob=195
+Item=739
+Rate=0.05
+
+
+[Drop 614]
+ID=614
+Mob=197
+Item=739
+Rate=0.13
+
+
+[Drop 615]
+ID=615
+Mob=205
+Item=739
+Rate=0.01
+
+
+[Drop 616]
+ID=616
+Mob=206
+Item=739
+Rate=0.2
+
+
+[Drop 617]
+ID=617
+Mob=258
+Item=739
+Rate=0.2
+
+
+[Drop 618]
+ID=618
+Mob=259
+Item=739
+Rate=0.2
+
+
+[Drop 619]
+ID=619
+Mob=260
+Item=739
+Rate=0.05
+
+
+[Drop 620]
+ID=620
+Mob=261
+Item=739
+Rate=0.1
+
+
+[Drop 621]
+ID=621
+Mob=262
+Item=739
+Rate=0.2
+
+
+[Drop 622]
+ID=622
+Mob=263
+Item=739
+Rate=0.1
+
+
+[Drop 623]
+ID=623
+Mob=279
+Item=739
+Rate=0.12
+
+
+[Drop 624]
+ID=624
+Mob=195
+Item=757
+Rate=0.01
+
+
+[Drop 625]
+ID=625
+Mob=197
+Item=757
+Rate=0.13
+
+
+[Drop 626]
+ID=626
+Mob=205
+Item=757
+Rate=0.05
+
+
+[Drop 627]
+ID=627
+Mob=206
+Item=757
+Rate=0.2
+
+
+[Drop 628]
+ID=628
+Mob=258
+Item=757
+Rate=0.2
+
+
+[Drop 629]
+ID=629
+Mob=259
+Item=757
+Rate=0.2
+
+
+[Drop 630]
+ID=630
+Mob=260
+Item=757
+Rate=0.05
+
+
+[Drop 631]
+ID=631
+Mob=261
+Item=757
+Rate=0.1
+
+
+[Drop 632]
+ID=632
+Mob=262
+Item=757
+Rate=0.2
+
+
+[Drop 633]
+ID=633
+Mob=263
+Item=757
+Rate=0.1
+
+
+[Drop 634]
+ID=634
+Mob=279
+Item=757
+Rate=0.12
+
+
+[Drop 635]
+ID=635
+Mob=279
+Item=757
+Rate=0.12
+
+
+[Drop 636]
+ID=636
+Mob=279
+Item=759
+Rate=0.12
+
+
+[Drop 637]
+ID=637
+Mob=279
+Item=761
+Rate=0.12
+
+
+[Drop 638]
+ID=638
+Mob=263
+Item=759
+Rate=0.1
+
+
+[Drop 639]
+ID=639
+Mob=263
+Item=761
+Rate=0.1
+
+
+[Drop 640]
+ID=640
+Mob=262
+Item=759
+Rate=0.2
+
+
+[Drop 641]
+ID=641
+Mob=262
+Item=761
+Rate=0.2
+
+
+[Drop 642]
+ID=642
+Mob=261
+Item=759
+Rate=0.1
+
+
+[Drop 643]
+ID=643
+Mob=261
+Item=761
+Rate=0.1
+
+
+[Drop 644]
+ID=644
+Mob=260
+Item=759
+Rate=0.05
+
+
+[Drop 645]
+ID=645
+Mob=260
+Item=761
+Rate=0.05
+
+
+[Drop 646]
+ID=646
+Mob=259
+Item=759
+Rate=0.2
+
+
+[Drop 647]
+ID=647
+Mob=259
+Item=761
+Rate=0.2
+
+
+[Drop 648]
+ID=648
+Mob=258
+Item=759
+Rate=0.2
+
+
+[Drop 649]
+ID=649
+Mob=258
+Item=761
+Rate=0.2
+
+
+[Drop 650]
+ID=650
+Mob=206
+Item=759
+Rate=0.2
+
+
+[Drop 651]
+ID=651
+Mob=206
+Item=760
+Rate=0.2
+
+
+[Drop 652]
+ID=652
+Mob=206
+Item=761
+Rate=0.2
+
+
+[Drop 653]
+ID=653
+Mob=206
+Item=762
+Rate=0.2
+
+
+[Drop 654]
+ID=654
+Mob=205
+Item=759
+Rate=0.05
+
+
+[Drop 655]
+ID=655
+Mob=205
+Item=761
+Rate=0.05
+
+
+[Drop 656]
+ID=656
+Mob=197
+Item=759
+Rate=0.13
+
+
+[Drop 657]
+ID=657
+Mob=197
+Item=761
+Rate=0.13
+
+
+[Drop 658]
+ID=658
+Mob=195
+Item=759
+Rate=0.01
+
+
+[Drop 659]
+ID=659
+Mob=195
+Item=761
+Rate=0.01
+
+
+[Drop 660]
+ID=660
+Mob=195
+Item=725
+Rate=0.05
+
+
+[Drop 661]
+ID=661
+Mob=197
+Item=725
+Rate=0.13
+
+
+[Drop 662]
+ID=662
+Mob=202
+Item=725
+Rate=0.05
+
+
+[Drop 663]
+ID=663
+Mob=205
+Item=725
+Rate=0.01
+
+
+[Drop 664]
+ID=664
+Mob=205
+Item=725
+Rate=0.01
+
+
+[Drop 665]
+ID=665
+Mob=206
+Item=725
+Rate=0.2
+
+
+[Drop 666]
+ID=666
+Mob=258
+Item=725
+Rate=0.2
+
+
+[Drop 667]
+ID=667
+Mob=259
+Item=725
+Rate=0.2
+
+
+[Drop 668]
+ID=668
+Mob=260
+Item=725
+Rate=0.05
+
+
+[Drop 669]
+ID=669
+Mob=261
+Item=725
+Rate=0.1
+
+
+[Drop 670]
+ID=670
+Mob=262
+Item=725
+Rate=0.2
+
+
+[Drop 671]
+ID=671
+Mob=263
+Item=725
+Rate=0.1
+
+
+[Drop 672]
+ID=672
+Mob=278
+Item=746
+Rate=0.11
+
+
+[Drop 673]
+ID=673
+Mob=278
+Item=747
+Rate=0.11
+
+
+[Drop 674]
+ID=674
+Mob=278
+Item=803
+Rate=0.13
+
+
+[Drop 675]
+ID=675
+Mob=278
+Item=804
+Rate=0.13
+
+
+[Drop 676]
+ID=676
+Mob=279
+Item=725
+Rate=0.12
+
+
+[Drop 677]
+ID=677
+Mob=279
+Item=746
+Rate=0.12
+
+
+[Drop 678]
+ID=678
+Mob=278
+Item=782
+Rate=0.13
+
+
+[Drop 679]
+ID=679
+Mob=278
+Item=785
+Rate=0.13
+
+
+[Drop 680]
+ID=680
+Mob=278
+Item=788
+Rate=0.13
+
+
+[Drop 681]
+ID=681
+Mob=278
+Item=791
+Rate=0.13
+
+
+[Drop 682]
+ID=682
+Mob=278
+Item=799
+Rate=0.13
+
+
+[Drop 683]
+ID=683
+Mob=354
+Item=0
+Rate=0.1
+
+
+[Drop 684]
+ID=684
+Mob=278
+Item=726
+Rate=0.12
+
+
+[Drop 685]
+ID=685
+Mob=278
+Item=727
+Rate=0.12
+
+
+[Drop 686]
+ID=686
+Mob=278
+Item=0
+Rate=0.1
+
+
+[Drop 687]
+ID=687
+Mob=294
+Item=634
+Rate=0.25
+
+
+[Drop 688]
+ID=688
+Mob=294
+Item=635
+Rate=0.25
+
+
+[Drop 689]
+ID=689
+Mob=294
+Item=636
+Rate=0.25
+
+
+[Drop 690]
+ID=690
+Mob=294
+Item=880
+Rate=0.25
+
+
+[Drop 691]
+ID=691
+Mob=294
+Item=624
+Rate=0.25
+
+
+[Drop 692]
+ID=692
+Mob=294
+Item=625
+Rate=0.25
+
+
+[Drop 693]
+ID=693
+Mob=294
+Item=626
+Rate=0.25
+
+
+[Drop 694]
+ID=694
+Mob=294
+Item=877
+Rate=0.25
+
+
+[Drop 695]
+ID=695
+Mob=294
+Item=628
+Rate=0.25
+
+
+[Drop 696]
+ID=696
+Mob=294
+Item=629
+Rate=0.25
+
+
+[Drop 697]
+ID=697
+Mob=294
+Item=630
+Rate=0.25
+
+
+[Drop 698]
+ID=698
+Mob=294
+Item=878
+Rate=0.25
+
+
+[Drop 699]
+ID=699
+Mob=294
+Item=631
+Rate=0.25
+
+
+[Drop 700]
+ID=700
+Mob=294
+Item=632
+Rate=0.25
+
+
+[Drop 701]
+ID=701
+Mob=294
+Item=633
+Rate=0.25
+
+
+[Drop 702]
+ID=702
+Mob=294
+Item=879
+Rate=0.25
+
+
+[Drop 703]
+ID=703
+Mob=294
+Item=890
+Rate=0.25
+
+
+[Drop 704]
+ID=704
+Mob=294
+Item=891
+Rate=0.25
+
+
+[Drop 705]
+ID=705
+Mob=294
+Item=892
+Rate=0.25
+
+
+[Drop 706]
+ID=706
+Mob=294
+Item=899
+Rate=0.25
+
+
+[Drop 707]
+ID=707
+Mob=294
+Item=1185
+Rate=0.25
+
+
+[Drop 708]
+ID=708
+Mob=294
+Item=1189
+Rate=0.25
+
+
+[Drop 709]
+ID=709
+Mob=294
+Item=881
+Rate=0.25
+
+
+[Drop 710]
+ID=710
+Mob=294
+Item=882
+Rate=0.25
+
+
+[Drop 711]
+ID=711
+Mob=294
+Item=883
+Rate=0.25
+
+
+[Drop 712]
+ID=712
+Mob=294
+Item=896
+Rate=0.25
+
+
+[Drop 713]
+ID=713
+Mob=294
+Item=1182
+Rate=0.25
+
+
+[Drop 714]
+ID=714
+Mob=294
+Item=1186
+Rate=0.25
+
+
+[Drop 715]
+ID=715
+Mob=294
+Item=884
+Rate=0.25
+
+
+[Drop 716]
+ID=716
+Mob=294
+Item=885
+Rate=0.25
+
+
+[Drop 717]
+ID=717
+Mob=294
+Item=886
+Rate=0.25
+
+
+[Drop 718]
+ID=718
+Mob=294
+Item=897
+Rate=0.25
+
+
+[Drop 719]
+ID=719
+Mob=294
+Item=1187
+Rate=0.25
+
+
+[Drop 720]
+ID=720
+Mob=294
+Item=1183
+Rate=0.25
+
+
+[Drop 721]
+ID=721
+Mob=294
+Item=887
+Rate=0.25
+
+
+[Drop 722]
+ID=722
+Mob=294
+Item=888
+Rate=0.25
+
+
+[Drop 723]
+ID=723
+Mob=294
+Item=889
+Rate=0.25
+
+
+[Drop 724]
+ID=724
+Mob=294
+Item=898
+Rate=0.25
+
+
+[Drop 725]
+ID=725
+Mob=294
+Item=1184
+Rate=0.25
+
+
+[Drop 726]
+ID=726
+Mob=294
+Item=1188
+Rate=0.25
+
+
+[Drop 727]
+ID=727
+Mob=297
+Item=634
+Rate=0.25
+
+
+[Drop 728]
+ID=728
+Mob=297
+Item=635
+Rate=0.25
+
+
+[Drop 729]
+ID=729
+Mob=297
+Item=636
+Rate=0.25
+
+
+[Drop 730]
+ID=730
+Mob=297
+Item=880
+Rate=0.25
+
+
+[Drop 731]
+ID=731
+Mob=297
+Item=1177
+Rate=0.25
+
+
+[Drop 732]
+ID=732
+Mob=297
+Item=1181
+Rate=0.25
+
+
+[Drop 733]
+ID=733
+Mob=297
+Item=624
+Rate=0.25
+
+
+[Drop 734]
+ID=734
+Mob=297
+Item=625
+Rate=0.25
+
+
+[Drop 735]
+ID=735
+Mob=297
+Item=626
+Rate=0.25
+
+
+[Drop 736]
+ID=736
+Mob=297
+Item=877
+Rate=0.25
+
+
+[Drop 737]
+ID=737
+Mob=297
+Item=1174
+Rate=0.25
+
+
+[Drop 738]
+ID=738
+Mob=297
+Item=1178
+Rate=0.25
+
+
+[Drop 739]
+ID=739
+Mob=302
+Item=628
+Rate=0.25
+
+
+[Drop 740]
+ID=740
+Mob=302
+Item=629
+Rate=0.25
+
+
+[Drop 741]
+ID=741
+Mob=302
+Item=630
+Rate=0.25
+
+
+[Drop 742]
+ID=742
+Mob=302
+Item=878
+Rate=0.25
+
+
+[Drop 743]
+ID=743
+Mob=302
+Item=1175
+Rate=0.25
+
+
+[Drop 744]
+ID=744
+Mob=302
+Item=1179
+Rate=0.25
+
+
+[Drop 745]
+ID=745
+Mob=302
+Item=631
+Rate=0.25
+
+
+[Drop 746]
+ID=746
+Mob=302
+Item=632
+Rate=0.25
+
+
+[Drop 747]
+ID=747
+Mob=302
+Item=633
+Rate=0.25
+
+
+[Drop 748]
+ID=748
+Mob=302
+Item=879
+Rate=0.25
+
+
+[Drop 749]
+ID=749
+Mob=302
+Item=1176
+Rate=0.25
+
+
+[Drop 750]
+ID=750
+Mob=302
+Item=1180
+Rate=0.25
+
+
+[Drop 751]
+ID=751
+Mob=206
+Item=696
+Rate=0.2
+
+
+[Drop 752]
+ID=752
+Mob=206
+Item=697
+Rate=0.2
+
+
+[Drop 753]
+ID=753
+Mob=206
+Item=698
+Rate=0.2
+
+
+[Drop 754]
+ID=754
+Mob=206
+Item=699
+Rate=0.2
+
+
+[Drop 755]
+ID=755
+Mob=206
+Item=700
+Rate=0.2
+
+
+[Drop 756]
+ID=756
+Mob=206
+Item=701
+Rate=0.2
+
+
+[Drop 757]
+ID=757
+Mob=206
+Item=702
+Rate=0.2
+
+
+[Drop 758]
+ID=758
+Mob=206
+Item=703
+Rate=0.2
+
+
+[Drop 759]
+ID=759
+Mob=206
+Item=704
+Rate=0.2
+
+
+[Drop 760]
+ID=760
+Mob=206
+Item=705
+Rate=0.2
+
+
+[Drop 761]
+ID=761
+Mob=206
+Item=706
+Rate=0.2
+
+
+[Drop 762]
+ID=762
+Mob=206
+Item=707
+Rate=0.2
+
+
+[Drop 763]
+ID=763
+Mob=206
+Item=708
+Rate=0.2
+
+
+[Drop 764]
+ID=764
+Mob=206
+Item=709
+Rate=0.2
+
+
+[Drop 765]
+ID=765
+Mob=206
+Item=710
+Rate=0.2
+
+
+[Drop 766]
+ID=766
+Mob=206
+Item=711
+Rate=0.2
+
+
+[Drop 767]
+ID=767
+Mob=206
+Item=913
+Rate=0.2
+
+
+[Drop 768]
+ID=768
+Mob=279
+Item=747
+Rate=0.12
+
+
+[Drop 769]
+ID=769
+Mob=279
+Item=803
+Rate=0.12
+
+
+[Drop 770]
+ID=770
+Mob=279
+Item=799
+Rate=0.12
+
+
+[Drop 771]
+ID=771
+Mob=279
+Item=791
+Rate=0.12
+
+
+[Drop 772]
+ID=772
+Mob=279
+Item=788
+Rate=0.12
+
+
+[Drop 773]
+ID=773
+Mob=279
+Item=785
+Rate=0.12
+
+
+[Drop 774]
+ID=774
+Mob=279
+Item=952
+Rate=0.12
+
+
+[Drop 775]
+ID=775
+Mob=279
+Item=953
+Rate=0.12
+
+
+[Drop 776]
+ID=776
+Mob=279
+Item=793
+Rate=0.12
+
+
+[Drop 777]
+ID=777
+Mob=279
+Item=796
+Rate=0.12
+
+
+[Drop 778]
+ID=778
+Mob=279
+Item=798
+Rate=0.12
+
+
+[Drop 779]
+ID=779
+Mob=279
+Item=696
+Rate=0.1
+
+
+[Drop 780]
+ID=780
+Mob=279
+Item=697
+Rate=0.1
+
+
+[Drop 781]
+ID=781
+Mob=279
+Item=698
+Rate=0.1
+
+
+[Drop 782]
+ID=782
+Mob=279
+Item=699
+Rate=0.1
+
+
+[Drop 783]
+ID=783
+Mob=279
+Item=700
+Rate=0.1
+
+
+[Drop 784]
+ID=784
+Mob=279
+Item=701
+Rate=0.1
+
+
+[Drop 785]
+ID=785
+Mob=279
+Item=702
+Rate=0.1
+
+
+[Drop 786]
+ID=786
+Mob=279
+Item=703
+Rate=0.1
+
+
+[Drop 787]
+ID=787
+Mob=279
+Item=704
+Rate=0.1
+
+
+[Drop 788]
+ID=788
+Mob=279
+Item=705
+Rate=0.1
+
+
+[Drop 789]
+ID=789
+Mob=279
+Item=706
+Rate=0.1
+
+
+[Drop 790]
+ID=790
+Mob=279
+Item=707
+Rate=0.1
+
+
+[Drop 791]
+ID=791
+Mob=279
+Item=708
+Rate=0.1
+
+
+[Drop 792]
+ID=792
+Mob=279
+Item=709
+Rate=0.1
+
+
+[Drop 793]
+ID=793
+Mob=279
+Item=710
+Rate=0.1
+
+
+[Drop 794]
+ID=794
+Mob=279
+Item=913
+Rate=0.12
+
+
+[Drop 795]
+ID=795
+Mob=279
+Item=912
+Rate=0.12
+
+
+[Drop 796]
+ID=796
+Mob=38
+Item=551
+Rate=0.7
+
+
+[Drop 797]
+ID=797
+Mob=38
+Item=552
+Rate=0.3
+
+
+[Drop 798]
+ID=798
+Mob=38
+Item=553
+Rate=0.2
+
+
+[Drop 799]
+ID=799
+Mob=475
+Item=0
+Rate=0.1
+
+
+[Drop 800]
+ID=800
+Mob=247
+Item=551
+Rate=0.1
+
+
+[Drop 801]
+ID=801
+Mob=247
+Item=552
+Rate=0.1
+
+
+[Drop 802]
+ID=802
+Mob=364
+Item=541
+Rate=0.2
+
+
+[Drop 803]
+ID=803
+Mob=364
+Item=534
+Rate=0.2
+
+
+[Drop 804]
+ID=804
+Mob=359
+Item=541
+Rate=0.2
+
+
+[Drop 805]
+ID=805
+Mob=359
+Item=534
+Rate=0.2
+
+
+[Drop 806]
+ID=806
+Mob=358
+Item=541
+Rate=0.2
+
+
+[Drop 807]
+ID=807
+Mob=358
+Item=534
+Rate=0.2
+
+
+[Drop 808]
+ID=808
+Mob=357
+Item=541
+Rate=0.2
+
+
+[Drop 809]
+ID=809
+Mob=357
+Item=534
+Rate=0.2
+
+
+[Drop 810]
+ID=810
+Mob=356
+Item=1065
+Rate=0.05
+
+
+[Drop 811]
+ID=811
+Mob=356
+Item=1067
+Rate=0.2
+
+
+[Drop 812]
+ID=812
+Mob=355
+Item=1067
+Rate=0.2
+
+
+[Drop 813]
+ID=813
+Mob=353
+Item=1063
+Rate=0.05
+
+
+[Drop 814]
+ID=814
+Mob=353
+Item=1062
+Rate=0.05
+
+
+[Drop 815]
+ID=815
+Mob=354
+Item=1067
+Rate=0.2
+
+
+[Drop 816]
+ID=816
+Mob=353
+Item=1067
+Rate=0.2
+
+
+[Drop 817]
+ID=817
+Mob=352
+Item=1067
+Rate=0.5
+
+
+[Drop 818]
+ID=818
+Mob=397
+Item=890
+Rate=0.19
+
+
+[Drop 819]
+ID=819
+Mob=397
+Item=891
+Rate=0.19
+
+
+[Drop 820]
+ID=820
+Mob=397
+Item=892
+Rate=0.19
+
+
+[Drop 821]
+ID=821
+Mob=397
+Item=899
+Rate=0.19
+
+
+[Drop 822]
+ID=822
+Mob=397
+Item=1185
+Rate=0.01
+
+
+[Drop 823]
+ID=823
+Mob=397
+Item=1189
+Rate=0.01
+
+
+[Drop 824]
+ID=824
+Mob=391
+Item=884
+Rate=0.11
+
+
+[Drop 825]
+ID=825
+Mob=391
+Item=885
+Rate=0.11
+
+
+[Drop 826]
+ID=826
+Mob=391
+Item=886
+Rate=0.11
+
+
+[Drop 827]
+ID=827
+Mob=391
+Item=897
+Rate=0.11
+
+
+[Drop 828]
+ID=828
+Mob=391
+Item=1183
+Rate=0.05
+
+
+[Drop 829]
+ID=829
+Mob=391
+Item=1187
+Rate=0.05
+
+
+[Drop 830]
+ID=830
+Mob=474
+Item=0
+Rate=0.1
+
+
+[Drop 831]
+ID=831
+Mob=360
+Item=0
+Rate=0.02
+
+
+[Drop 832]
+ID=832
+Mob=363
+Item=0
+Rate=0.02
+
+
+[Drop 833]
+ID=833
+Mob=281
+Item=1966
+Rate=0.8
+
+
+[Drop 834]
+ID=834
+Mob=545
+Item=551
+Rate=0.8
+
+
+[Drop 835]
+ID=835
+Mob=545
+Item=552
+Rate=0.7
+
+
+[Drop 836]
+ID=836
+Mob=545
+Item=553
+Rate=0.5
+
+
+[Drop 837]
+ID=837
+Mob=545
+Item=1014
+Rate=0.5
+
+
+[Drop 838]
+ID=838
+Mob=544
+Item=1966
+Rate=0.01
+
+
+[Drop 839]
+ID=839
+Mob=544
+Item=1067
+Rate=0.01
+
+
+[Drop 840]
+ID=840
+Mob=544
+Item=1967
+Rate=0.01
+
+
+[Drop 841]
+ID=841
+Mob=539
+Item=1067
+Rate=0.01
+
+
+[Drop 842]
+ID=842
+Mob=539
+Item=1967
+Rate=0.01
+
+
+[Drop 843]
+ID=843
+Mob=540
+Item=1067
+Rate=0.01
+
+
+[Drop 844]
+ID=844
+Mob=540
+Item=1967
+Rate=0.01
+
+
+[Drop 845]
+ID=845
+Mob=541
+Item=1067
+Rate=0.01
+
+
+[Drop 846]
+ID=846
+Mob=541
+Item=1967
+Rate=0.01
+
+
+[Drop 847]
+ID=847
+Mob=541
+Item=1192
+Rate=0.01
+
+
+[Drop 848]
+ID=848
+Mob=541
+Item=1196
+Rate=0.01
+
+
+[Drop 849]
+ID=849
+Mob=541
+Item=1200
+Rate=0.01
+
+
+[Drop 850]
+ID=850
+Mob=541
+Item=1204
+Rate=0.01
+
+
+[Drop 851]
+ID=851
+Mob=541
+Item=1208
+Rate=0.01
+
+
+[Drop 852]
+ID=852
+Mob=541
+Item=1212
+Rate=0.01
+
+
+[Drop 853]
+ID=853
+Mob=541
+Item=1216
+Rate=0.01
+
+
+[Drop 854]
+ID=854
+Mob=541
+Item=1220
+Rate=0.01
+
+
+[Drop 855]
+ID=855
+Mob=541
+Item=1224
+Rate=0.01
+
+
+[Drop 856]
+ID=856
+Mob=541
+Item=1228
+Rate=0.01
+
+
+[Drop 857]
+ID=857
+Mob=540
+Item=1191
+Rate=0.01
+
+
+[Drop 858]
+ID=858
+Mob=540
+Item=1195
+Rate=0.01
+
+
+[Drop 859]
+ID=859
+Mob=540
+Item=1199
+Rate=0.01
+
+
+[Drop 860]
+ID=860
+Mob=540
+Item=1203
+Rate=0.01
+
+
+[Drop 861]
+ID=861
+Mob=540
+Item=1207
+Rate=0.01
+
+
+[Drop 862]
+ID=862
+Mob=540
+Item=1211
+Rate=0.01
+
+
+[Drop 863]
+ID=863
+Mob=540
+Item=1215
+Rate=0.01
+
+
+[Drop 864]
+ID=864
+Mob=540
+Item=1219
+Rate=0.01
+
+
+[Drop 865]
+ID=865
+Mob=540
+Item=1223
+Rate=0.01
+
+
+[Drop 866]
+ID=866
+Mob=540
+Item=1227
+Rate=0.01
+
+
+[Drop 867]
+ID=867
+Mob=539
+Item=1193
+Rate=0.01
+
+
+[Drop 868]
+ID=868
+Mob=539
+Item=1197
+Rate=0.01
+
+
+[Drop 869]
+ID=869
+Mob=539
+Item=1201
+Rate=0.01
+
+
+[Drop 870]
+ID=870
+Mob=539
+Item=1205
+Rate=0.01
+
+
+[Drop 871]
+ID=871
+Mob=539
+Item=1209
+Rate=0.01
+
+
+[Drop 872]
+ID=872
+Mob=539
+Item=1213
+Rate=0.01
+
+
+[Drop 873]
+ID=873
+Mob=539
+Item=1217
+Rate=0.01
+
+
+[Drop 874]
+ID=874
+Mob=539
+Item=1221
+Rate=0.01
+
+
+[Drop 875]
+ID=875
+Mob=539
+Item=1225
+Rate=0.01
+
+
+[Drop 876]
+ID=876
+Mob=539
+Item=1229
+Rate=0.01
+
+
+[Drop 877]
+ID=877
+Mob=540
+Item=1014
+Rate=0.1
+
+
+[Drop 878]
+ID=878
+Mob=541
+Item=1014
+Rate=0.1
+
+
+[Drop 879]
+ID=879
+Mob=543
+Item=1014
+Rate=0.1
+
+
+[Drop 880]
+ID=880
+Mob=544
+Item=1014
+Rate=0.1
+
+
+[Drop 881]
+ID=881
+Mob=543
+Item=221
+Rate=0.1
+
+
+[Drop 882]
+ID=882
+Mob=102
+Item=55
+Rate=0.2
+
+
+[Drop 883]
+ID=883
+Mob=102
+Item=189
+Rate=0.2
+
+
+[Drop 884]
+ID=884
+Mob=102
+Item=462
+Rate=0.2
+
+
+[Drop 885]
+ID=885
+Mob=102
+Item=150
+Rate=0.2
+
+
+[Drop 886]
+ID=886
+Mob=102
+Item=193
+Rate=0.2
+
+
+[Drop 887]
+ID=887
+Mob=102
+Item=311
+Rate=0.2
+
+
+[Drop 888]
+ID=888
+Mob=102
+Item=367
+Rate=0.2
+
+
+[Drop 889]
+ID=889
+Mob=102
+Item=465
+Rate=0.2
+
+
+[Drop 890]
+ID=890
+Mob=102
+Item=468
+Rate=0.2
+
+
+[Drop 891]
+ID=891
+Mob=102
+Item=157
+Rate=0.2
+
+
+[Drop 892]
+ID=892
+Mob=102
+Item=327
+Rate=0.2
+
+
+[Drop 893]
+ID=893
+Mob=102
+Item=345
+Rate=0.2
+
+
+[Drop 894]
+ID=894
+Mob=102
+Item=160
+Rate=0.2
+
+
+[Drop 895]
+ID=895
+Mob=102
+Item=460
+Rate=0.2
+
+
+[Drop 896]
+ID=896
+Mob=102
+Item=440
+Rate=0.2
+
+
+[Drop 897]
+ID=897
+Mob=102
+Item=60
+Rate=0.2
+
+
+[Drop 898]
+ID=898
+Mob=102
+Item=190
+Rate=0.2
+
+
+[Drop 899]
+ID=899
+Mob=102
+Item=194
+Rate=0.2
+
+
+[Drop 900]
+ID=900
+Mob=102
+Item=212
+Rate=0.2
+
+
+[Drop 901]
+ID=901
+Mob=102
+Item=181
+Rate=0.2
+
+
+[Drop 902]
+ID=902
+Mob=102
+Item=463
+Rate=0.2
+
+
+[Drop 903]
+ID=903
+Mob=102
+Item=466
+Rate=0.2
+
+
+[Drop 904]
+ID=904
+Mob=102
+Item=162
+Rate=0.2
+
+
+[Drop 905]
+ID=905
+Mob=102
+Item=522
+Rate=0.25
+
+
+[Drop 906]
+ID=906
+Mob=102
+Item=529
+Rate=0.3
+
+
+[Drop 907]
+ID=907
+Mob=102
+Item=536
+Rate=0.5
+
+
+[Drop 908]
+ID=908
+Mob=31
+Item=133
+Rate=0.3
+
+
+[Drop 909]
+ID=909
+Mob=31
+Item=147
+Rate=0.3
+
+
+[Drop 910]
+ID=910
+Mob=41
+Item=212
+Rate=0.5
+
+
+[Drop 911]
+ID=911
+Mob=41
+Item=181
+Rate=0.5
+
+
+[Drop 912]
+ID=912
+Mob=41
+Item=463
+Rate=0.5
+
+
+[Drop 913]
+ID=913
+Mob=41
+Item=466
+Rate=0.5
+
+
+[Drop 914]
+ID=914
+Mob=41
+Item=162
+Rate=0.5
+
+
+[Drop 915]
+ID=915
+Mob=41
+Item=368
+Rate=0.5
+
+
+[Drop 916]
+ID=916
+Mob=41
+Item=373
+Rate=0.5
+
+
+[Drop 917]
+ID=917
+Mob=41
+Item=378
+Rate=0.5
+
+
+[Drop 918]
+ID=918
+Mob=41
+Item=426
+Rate=0.5
+
+
+[Drop 919]
+ID=919
+Mob=41
+Item=195
+Rate=0.5
+
+
+[Drop 920]
+ID=920
+Mob=41
+Item=312
+Rate=0.5
+
+
+[Drop 921]
+ID=921
+Mob=41
+Item=317
+Rate=0.5
+
+
+[Drop 922]
+ID=922
+Mob=41
+Item=322
+Rate=0.5
+
+
+[Drop 923]
+ID=923
+Mob=41
+Item=411
+Rate=0.5
+
+
+[Drop 924]
+ID=924
+Mob=41
+Item=158
+Rate=0.5
+
+
+[Drop 925]
+ID=925
+Mob=41
+Item=328
+Rate=0.5
+
+
+[Drop 926]
+ID=926
+Mob=41
+Item=333
+Rate=0.5
+
+
+[Drop 927]
+ID=927
+Mob=41
+Item=338
+Rate=0.5
+
+
+[Drop 928]
+ID=928
+Mob=41
+Item=416
+Rate=0.5
+
+
+[Drop 929]
+ID=929
+Mob=41
+Item=61
+Rate=0.5
+
+
+[Drop 930]
+ID=930
+Mob=41
+Item=61
+Rate=0.5
+
+
+[Drop 931]
+ID=931
+Mob=41
+Item=510
+Rate=0.5
+
+
+[Drop 932]
+ID=932
+Mob=41
+Item=522
+Rate=0.5
+
+
+[Drop 933]
+ID=933
+Mob=41
+Item=529
+Rate=0.5
+
+
+[Drop 934]
+ID=934
+Mob=41
+Item=536
+Rate=0.5
+
+
+[Drop 935]
+ID=935
+Mob=48
+Item=522
+Rate=0.5
+
+
+[Drop 936]
+ID=936
+Mob=48
+Item=529
+Rate=0.5
+
+
+[Drop 937]
+ID=937
+Mob=48
+Item=536
+Rate=0.5
+
+
+[Drop 938]
+ID=938
+Mob=48
+Item=61
+Rate=0.5
+
+
+[Drop 939]
+ID=939
+Mob=48
+Item=510
+Rate=0.5
+
+
+[Drop 940]
+ID=940
+Mob=48
+Item=346
+Rate=0.5
+
+
+[Drop 941]
+ID=941
+Mob=48
+Item=351
+Rate=0.5
+
+
+[Drop 942]
+ID=942
+Mob=48
+Item=356
+Rate=0.5
+
+
+[Drop 943]
+ID=943
+Mob=48
+Item=421
+Rate=0.5
+
+
+[Drop 944]
+ID=944
+Mob=48
+Item=469
+Rate=0.5
+
+
+[Drop 945]
+ID=945
+Mob=48
+Item=902
+Rate=0.5
+
+
+[Drop 946]
+ID=946
+Mob=48
+Item=213
+Rate=0.5
+
+
+[Drop 947]
+ID=947
+Mob=48
+Item=151
+Rate=0.5
+
+
+[Drop 948]
+ID=948
+Mob=48
+Item=467
+Rate=0.5
+
+
+[Drop 949]
+ID=949
+Mob=48
+Item=121
+Rate=0.5
+
+
+[Drop 950]
+ID=950
+Mob=48
+Item=196
+Rate=0.5
+
+
+[Drop 951]
+ID=951
+Mob=104
+Item=212
+Rate=0.5
+
+
+[Drop 952]
+ID=952
+Mob=104
+Item=181
+Rate=0.5
+
+
+[Drop 953]
+ID=953
+Mob=104
+Item=463
+Rate=0.5
+
+
+[Drop 954]
+ID=954
+Mob=104
+Item=466
+Rate=0.5
+
+
+[Drop 955]
+ID=955
+Mob=104
+Item=162
+Rate=0.5
+
+
+[Drop 956]
+ID=956
+Mob=104
+Item=368
+Rate=0.5
+
+
+[Drop 957]
+ID=957
+Mob=104
+Item=373
+Rate=0.5
+
+
+[Drop 958]
+ID=958
+Mob=104
+Item=378
+Rate=0.5
+
+
+[Drop 959]
+ID=959
+Mob=104
+Item=426
+Rate=0.5
+
+
+[Drop 960]
+ID=960
+Mob=104
+Item=195
+Rate=0.5
+
+
+[Drop 961]
+ID=961
+Mob=104
+Item=312
+Rate=0.5
+
+
+[Drop 962]
+ID=962
+Mob=104
+Item=317
+Rate=0.5
+
+
+[Drop 963]
+ID=963
+Mob=104
+Item=322
+Rate=0.5
+
+
+[Drop 964]
+ID=964
+Mob=104
+Item=411
+Rate=0.5
+
+
+[Drop 965]
+ID=965
+Mob=104
+Item=522
+Rate=0.5
+
+
+[Drop 966]
+ID=966
+Mob=104
+Item=529
+Rate=0.5
+
+
+[Drop 967]
+ID=967
+Mob=104
+Item=536
+Rate=0.5
+
+
+[Drop 968]
+ID=968
+Mob=106
+Item=179
+Rate=0.5
+
+
+[Drop 969]
+ID=969
+Mob=106
+Item=182
+Rate=0.5
+
+
+[Drop 970]
+ID=970
+Mob=106
+Item=347
+Rate=0.5
+
+
+[Drop 971]
+ID=971
+Mob=106
+Item=352
+Rate=0.5
+
+
+[Drop 972]
+ID=972
+Mob=106
+Item=357
+Rate=0.5
+
+
+[Drop 973]
+ID=973
+Mob=106
+Item=422
+Rate=0.5
+
+
+[Drop 974]
+ID=974
+Mob=106
+Item=286
+Rate=0.5
+
+
+[Drop 975]
+ID=975
+Mob=106
+Item=544
+Rate=0.5
+
+
+[Drop 976]
+ID=976
+Mob=106
+Item=369
+Rate=0.5
+
+
+[Drop 977]
+ID=977
+Mob=106
+Item=374
+Rate=0.5
+
+
+[Drop 978]
+ID=978
+Mob=106
+Item=379
+Rate=0.5
+
+
+[Drop 979]
+ID=979
+Mob=106
+Item=427
+Rate=0.5
+
+
+[Drop 980]
+ID=980
+Mob=106
+Item=313
+Rate=0.5
+
+
+[Drop 981]
+ID=981
+Mob=106
+Item=318
+Rate=0.5
+
+
+[Drop 982]
+ID=982
+Mob=106
+Item=361
+Rate=0.5
+
+
+[Drop 983]
+ID=983
+Mob=106
+Item=412
+Rate=0.5
+
+
+[Drop 984]
+ID=984
+Mob=106
+Item=197
+Rate=0.5
+
+
+[Drop 985]
+ID=985
+Mob=106
+Item=329
+Rate=0.5
+
+
+[Drop 986]
+ID=986
+Mob=106
+Item=334
+Rate=0.5
+
+
+[Drop 987]
+ID=987
+Mob=106
+Item=339
+Rate=0.5
+
+
+[Drop 988]
+ID=988
+Mob=106
+Item=417
+Rate=0.5
+
+
+[Drop 989]
+ID=989
+Mob=106
+Item=176
+Rate=0.5
+
+
+[Drop 990]
+ID=990
+Mob=106
+Item=903
+Rate=0.5
+
+
+[Drop 991]
+ID=991
+Mob=106
+Item=287
+Rate=0.5
+
+
+[Drop 992]
+ID=992
+Mob=106
+Item=545
+Rate=0.5
+
+
+[Drop 993]
+ID=993
+Mob=106
+Item=284
+Rate=0.5
+
+
+[Drop 994]
+ID=994
+Mob=106
+Item=523
+Rate=0.5
+
+
+[Drop 995]
+ID=995
+Mob=106
+Item=530
+Rate=0.5
+
+
+[Drop 996]
+ID=996
+Mob=106
+Item=537
+Rate=0.5
+
+
+[Drop 997]
+ID=997
+Mob=106
+Item=121
+Rate=0.5
+
+
+[Drop 998]
+ID=998
+Mob=105
+Item=121
+Rate=0.5
+
+
+[Drop 999]
+ID=999
+Mob=105
+Item=196
+Rate=0.5
+
+
+[Drop 1000]
+ID=1000
+Mob=105
+Item=179
+Rate=0.5
+
+
+[Drop 1001]
+ID=1001
+Mob=105
+Item=182
+Rate=0.5
+
+
+[Drop 1002]
+ID=1002
+Mob=105
+Item=347
+Rate=0.5
+
+
+[Drop 1003]
+ID=1003
+Mob=105
+Item=352
+Rate=0.5
+
+
+[Drop 1004]
+ID=1004
+Mob=105
+Item=357
+Rate=0.5
+
+
+[Drop 1005]
+ID=1005
+Mob=105
+Item=422
+Rate=0.5
+
+
+[Drop 1006]
+ID=1006
+Mob=105
+Item=286
+Rate=0.5
+
+
+[Drop 1007]
+ID=1007
+Mob=105
+Item=544
+Rate=0.5
+
+
+[Drop 1008]
+ID=1008
+Mob=105
+Item=369
+Rate=0.5
+
+
+[Drop 1009]
+ID=1009
+Mob=105
+Item=374
+Rate=0.5
+
+
+[Drop 1010]
+ID=1010
+Mob=105
+Item=379
+Rate=0.5
+
+
+[Drop 1011]
+ID=1011
+Mob=105
+Item=427
+Rate=0.5
+
+
+[Drop 1012]
+ID=1012
+Mob=105
+Item=523
+Rate=0.5
+
+
+[Drop 1013]
+ID=1013
+Mob=105
+Item=530
+Rate=0.5
+
+
+[Drop 1014]
+ID=1014
+Mob=105
+Item=537
+Rate=0.5
+
+
+[Drop 1015]
+ID=1015
+Mob=40
+Item=522
+Rate=0.5
+
+
+[Drop 1016]
+ID=1016
+Mob=40
+Item=529
+Rate=0.5
+
+
+[Drop 1017]
+ID=1017
+Mob=40
+Item=536
+Rate=0.5
+
+
+[Drop 1018]
+ID=1018
+Mob=40
+Item=311
+Rate=0.5
+
+
+[Drop 1019]
+ID=1019
+Mob=40
+Item=367
+Rate=0.5
+
+
+[Drop 1020]
+ID=1020
+Mob=40
+Item=465
+Rate=0.5
+
+
+[Drop 1021]
+ID=1021
+Mob=40
+Item=468
+Rate=0.5
+
+
+[Drop 1022]
+ID=1022
+Mob=40
+Item=157
+Rate=0.5
+
+
+[Drop 1023]
+ID=1023
+Mob=40
+Item=327
+Rate=0.5
+
+
+[Drop 1024]
+ID=1024
+Mob=40
+Item=345
+Rate=0.5
+
+
+[Drop 1025]
+ID=1025
+Mob=40
+Item=160
+Rate=0.5
+
+
+[Drop 1026]
+ID=1026
+Mob=40
+Item=460
+Rate=0.5
+
+
+[Drop 1027]
+ID=1027
+Mob=40
+Item=440
+Rate=0.5
+
+
+[Drop 1028]
+ID=1028
+Mob=40
+Item=60
+Rate=0.5
+
+
+[Drop 1029]
+ID=1029
+Mob=40
+Item=190
+Rate=0.5
+
+
+[Drop 1030]
+ID=1030
+Mob=40
+Item=194
+Rate=0.5
+
+
+[Drop 1031]
+ID=1031
+Mob=40
+Item=212
+Rate=0.5
+
+
+[Drop 1032]
+ID=1032
+Mob=40
+Item=181
+Rate=0.5
+
+
+[Drop 1033]
+ID=1033
+Mob=40
+Item=463
+Rate=0.5
+
+
+[Drop 1034]
+ID=1034
+Mob=40
+Item=466
+Rate=0.5
+
+
+[Drop 1035]
+ID=1035
+Mob=40
+Item=162
+Rate=0.5
+
+
+[Drop 1036]
+ID=1036
+Mob=54
+Item=311
+Rate=0.5
+
+
+[Drop 1037]
+ID=1037
+Mob=54
+Item=367
+Rate=0.5
+
+
+[Drop 1038]
+ID=1038
+Mob=54
+Item=465
+Rate=0.5
+
+
+[Drop 1039]
+ID=1039
+Mob=54
+Item=468
+Rate=0.5
+
+
+[Drop 1040]
+ID=1040
+Mob=54
+Item=157
+Rate=0.5
+
+
+[Drop 1041]
+ID=1041
+Mob=54
+Item=327
+Rate=0.5
+
+
+[Drop 1042]
+ID=1042
+Mob=54
+Item=345
+Rate=0.5
+
+
+[Drop 1043]
+ID=1043
+Mob=54
+Item=160
+Rate=0.5
+
+
+[Drop 1044]
+ID=1044
+Mob=54
+Item=460
+Rate=0.5
+
+
+[Drop 1045]
+ID=1045
+Mob=54
+Item=440
+Rate=0.5
+
+
+[Drop 1046]
+ID=1046
+Mob=54
+Item=60
+Rate=0.5
+
+
+[Drop 1047]
+ID=1047
+Mob=54
+Item=190
+Rate=0.5
+
+
+[Drop 1048]
+ID=1048
+Mob=54
+Item=194
+Rate=0.5
+
+
+[Drop 1049]
+ID=1049
+Mob=54
+Item=522
+Rate=0.5
+
+
+[Drop 1050]
+ID=1050
+Mob=54
+Item=529
+Rate=0.5
+
+
+[Drop 1051]
+ID=1051
+Mob=54
+Item=536
+Rate=0.5
+
+
+[Drop 1052]
+ID=1052
+Mob=254
+Item=2075
+Rate=0.1
+
+
+[Drop 1053]
+ID=1053
+Mob=254
+Item=2078
+Rate=0.11
+
+
+[Drop 1054]
+ID=1054
+Mob=254
+Item=2081
+Rate=0.12
+
+
+[Drop 1055]
+ID=1055
+Mob=253
+Item=2106
+Rate=0.1
+
+
+[Drop 1056]
+ID=1056
+Mob=253
+Item=2107
+Rate=0.11
+
+
+[Drop 1057]
+ID=1057
+Mob=253
+Item=2108
+Rate=0.111
+
+
+[Drop 1058]
+ID=1058
+Mob=77
+Item=521
+Rate=0.5
+
+
+[Drop 1059]
+ID=1059
+Mob=77
+Item=528
+Rate=0.5
+
+
+[Drop 1060]
+ID=1060
+Mob=77
+Item=535
+Rate=0.5
+
+
+[Drop 1061]
+ID=1061
+Mob=78
+Item=521
+Rate=0.5
+
+
+[Drop 1062]
+ID=1062
+Mob=78
+Item=528
+Rate=0.5
+
+
+[Drop 1063]
+ID=1063
+Mob=78
+Item=535
+Rate=0.5
+
+
+[Drop 1064]
+ID=1064
+Mob=89
+Item=521
+Rate=0.5
+
+
+[Drop 1065]
+ID=1065
+Mob=89
+Item=528
+Rate=0.5
+
+
+[Drop 1066]
+ID=1066
+Mob=89
+Item=535
+Rate=0.5
+
+
+[Drop 1067]
+ID=1067
+Mob=87
+Item=522
+Rate=0.5
+
+
+[Drop 1068]
+ID=1068
+Mob=87
+Item=529
+Rate=0.5
+
+
+[Drop 1069]
+ID=1069
+Mob=87
+Item=536
+Rate=0.5
+
+
+[Drop 1070]
+ID=1070
+Mob=86
+Item=522
+Rate=0.5
+
+
+[Drop 1071]
+ID=1071
+Mob=86
+Item=529
+Rate=0.5
+
+
+[Drop 1072]
+ID=1072
+Mob=86
+Item=536
+Rate=0.5
+
+
+[Drop 1073]
+ID=1073
+Mob=85
+Item=522
+Rate=0.5
+
+
+[Drop 1074]
+ID=1074
+Mob=85
+Item=529
+Rate=0.5
+
+
+[Drop 1075]
+ID=1075
+Mob=85
+Item=536
+Rate=0.5
+
+
+[Drop 1076]
+ID=1076
+Mob=79
+Item=530
+Rate=0.5
+
+
+[Drop 1077]
+ID=1077
+Mob=79
+Item=523
+Rate=0.5
+
+
+[Drop 1078]
+ID=1078
+Mob=79
+Item=537
+Rate=0.5
+
+
+[Drop 1079]
+ID=1079
+Mob=80
+Item=523
+Rate=0.5
+
+
+[Drop 1080]
+ID=1080
+Mob=80
+Item=537
+Rate=0.5
+
+
+[Drop 1081]
+ID=1081
+Mob=80
+Item=530
+Rate=0.5
+
+
+[Drop 1082]
+ID=1082
+Mob=81
+Item=523
+Rate=0.5
+
+
+[Drop 1083]
+ID=1083
+Mob=81
+Item=530
+Rate=0.5
+
+
+[Drop 1084]
+ID=1084
+Mob=81
+Item=537
+Rate=0.5
+
+
+[Drop 1085]
+ID=1085
+Mob=83
+Item=538
+Rate=0.5
+
+
+[Drop 1086]
+ID=1086
+Mob=83
+Item=531
+Rate=0.5
+
+
+[Drop 1087]
+ID=1087
+Mob=83
+Item=524
+Rate=0.5
+
+
+[Drop 1088]
+ID=1088
+Mob=84
+Item=538
+Rate=0.5
+
+
+[Drop 1089]
+ID=1089
+Mob=84
+Item=531
+Rate=0.5
+
+
+[Drop 1090]
+ID=1090
+Mob=84
+Item=524
+Rate=0.5
+
+
+[Drop 1091]
+ID=1091
+Mob=82
+Item=525
+Rate=0.3
+
+
+[Drop 1092]
+ID=1092
+Mob=82
+Item=532
+Rate=0.3
+
+
+[Drop 1093]
+ID=1093
+Mob=82
+Item=539
+Rate=0.3
+
+
+[Drop 1094]
+ID=1094
+Mob=88
+Item=234
+Rate=0.11
+
+
+[Drop 1095]
+ID=1095
+Mob=88
+Item=239
+Rate=0.12
+
+
+[Drop 1096]
+ID=1096
+Mob=88
+Item=244
+Rate=0.123
+
+
+[Drop 1097]
+ID=1097
+Mob=88
+Item=249
+Rate=0.14
+
+
+[Drop 1098]
+ID=1098
+Mob=77
+Item=192
+Rate=0.5
+
+
+[Drop 1099]
+ID=1099
+Mob=77
+Item=459
+Rate=0.5
+
+
+[Drop 1100]
+ID=1100
+Mob=77
+Item=461
+Rate=0.5
+
+
+[Drop 1101]
+ID=1101
+Mob=77
+Item=916
+Rate=0.5
+
+
+[Drop 1102]
+ID=1102
+Mob=77
+Item=152
+Rate=0.5
+
+
+[Drop 1103]
+ID=1103
+Mob=77
+Item=156
+Rate=0.5
+
+
+[Drop 1104]
+ID=1104
+Mob=77
+Item=161
+Rate=0.5
+
+
+[Drop 1105]
+ID=1105
+Mob=77
+Item=439
+Rate=0.5
+
+
+[Drop 1106]
+ID=1106
+Mob=77
+Item=189
+Rate=0.5
+
+
+[Drop 1107]
+ID=1107
+Mob=78
+Item=189
+Rate=0.5
+
+
+[Drop 1108]
+ID=1108
+Mob=78
+Item=462
+Rate=0.5
+
+
+[Drop 1109]
+ID=1109
+Mob=78
+Item=150
+Rate=0.5
+
+
+[Drop 1110]
+ID=1110
+Mob=78
+Item=193
+Rate=0.5
+
+
+[Drop 1111]
+ID=1111
+Mob=86
+Item=469
+Rate=0.5
+
+
+[Drop 1112]
+ID=1112
+Mob=86
+Item=213
+Rate=0.5
+
+
+[Drop 1113]
+ID=1113
+Mob=86
+Item=151
+Rate=0.5
+
+
+[Drop 1114]
+ID=1114
+Mob=86
+Item=467
+Rate=0.5
+
+
+[Drop 1115]
+ID=1115
+Mob=85
+Item=469
+Rate=0.5
+
+
+[Drop 1116]
+ID=1116
+Mob=85
+Item=61
+Rate=0.5
+
+
+[Drop 1117]
+ID=1117
+Mob=85
+Item=510
+Rate=0.5
+
+
+[Drop 1118]
+ID=1118
+Mob=85
+Item=328
+Rate=0.5
+
+
+[Drop 1119]
+ID=1119
+Mob=85
+Item=416
+Rate=0.5
+
+
+[Drop 1120]
+ID=1120
+Mob=85
+Item=158
+Rate=0.5
+
+
+[Drop 1121]
+ID=1121
+Mob=84
+Item=250
+Rate=0.5
+
+
+[Drop 1122]
+ID=1122
+Mob=84
+Item=293
+Rate=0.5
+
+
+[Drop 1123]
+ID=1123
+Mob=84
+Item=371
+Rate=0.5
+
+
+[Drop 1124]
+ID=1124
+Mob=84
+Item=376
+Rate=0.5
+
+
+[Drop 1125]
+ID=1125
+Mob=84
+Item=381
+Rate=0.5
+
+
+[Drop 1126]
+ID=1126
+Mob=84
+Item=429
+Rate=0.5
+
+
+[Drop 1127]
+ID=1127
+Mob=84
+Item=315
+Rate=0.5
+
+
+[Drop 1128]
+ID=1128
+Mob=84
+Item=320
+Rate=0.5
+
+
+[Drop 1129]
+ID=1129
+Mob=84
+Item=200
+Rate=0.5
+
+
+[Drop 1130]
+ID=1130
+Mob=84
+Item=331
+Rate=0.5
+
+
+[Drop 1131]
+ID=1131
+Mob=84
+Item=905
+Rate=0.5
+
+
+[Drop 1132]
+ID=1132
+Mob=84
+Item=306
+Rate=0.5
+
+
+[Drop 1133]
+ID=1133
+Mob=84
+Item=547
+Rate=0.5
+
+
+[Drop 1134]
+ID=1134
+Mob=84
+Item=255
+Rate=0.5
+
+
+[Drop 1135]
+ID=1135
+Mob=83
+Item=251
+Rate=0.5
+
+
+[Drop 1136]
+ID=1136
+Mob=83
+Item=407
+Rate=0.5
+
+
+[Drop 1137]
+ID=1137
+Mob=83
+Item=548
+Rate=0.5
+
+
+[Drop 1138]
+ID=1138
+Mob=83
+Item=292
+Rate=0.5
+
+
+[Drop 1139]
+ID=1139
+Mob=83
+Item=252
+Rate=0.5
+
+
+[Drop 1140]
+ID=1140
+Mob=83
+Item=257
+Rate=0.5
+
+
+[Drop 1141]
+ID=1141
+Mob=83
+Item=408
+Rate=0.5
+
+
+[Drop 1142]
+ID=1142
+Mob=82
+Item=906
+Rate=0.3
+
+
+[Drop 1143]
+ID=1143
+Mob=82
+Item=294
+Rate=0.3
+
+
+[Drop 1144]
+ID=1144
+Mob=58
+Item=523
+Rate=0.7
+
+
+[Drop 1145]
+ID=1145
+Mob=58
+Item=530
+Rate=0.7
+
+
+[Drop 1146]
+ID=1146
+Mob=58
+Item=537
+Rate=0.7
+
+
+[Drop 1147]
+ID=1147
+Mob=62
+Item=524
+Rate=0.2
+
+
+[Drop 1148]
+ID=1148
+Mob=62
+Item=531
+Rate=0.2
+
+
+[Drop 1149]
+ID=1149
+Mob=62
+Item=538
+Rate=0.2
+
+
+[Drop 1150]
+ID=1150
+Mob=63
+Item=524
+Rate=0.2
+
+
+[Drop 1151]
+ID=1151
+Mob=63
+Item=531
+Rate=0.2
+
+
+[Drop 1152]
+ID=1152
+Mob=63
+Item=538
+Rate=0.2
+
+
+[Drop 1153]
+ID=1153
+Mob=61
+Item=523
+Rate=0.3
+
+
+[Drop 1154]
+ID=1154
+Mob=61
+Item=530
+Rate=0.3
+
+
+[Drop 1155]
+ID=1155
+Mob=61
+Item=537
+Rate=0.3
+
+
+[Drop 1156]
+ID=1156
+Mob=60
+Item=523
+Rate=0.3
+
+
+[Drop 1157]
+ID=1157
+Mob=60
+Item=530
+Rate=0.3
+
+
+[Drop 1158]
+ID=1158
+Mob=60
+Item=537
+Rate=0.3
+
+
+[Drop 1159]
+ID=1159
+Mob=59
+Item=524
+Rate=0.2
+
+
+[Drop 1160]
+ID=1160
+Mob=59
+Item=531
+Rate=0.3
+
+
+[Drop 1161]
+ID=1161
+Mob=59
+Item=538
+Rate=0.4
+
+
+[Drop 1162]
+ID=1162
+Mob=119
+Item=524
+Rate=0.1
+
+
+[Drop 1163]
+ID=1163
+Mob=119
+Item=531
+Rate=0.3
+
+
+[Drop 1164]
+ID=1164
+Mob=119
+Item=538
+Rate=0.4
+
+
+[Drop 1165]
+ID=1165
+Mob=120
+Item=524
+Rate=0.1
+
+
+[Drop 1166]
+ID=1166
+Mob=120
+Item=531
+Rate=0.2
+
+
+[Drop 1167]
+ID=1167
+Mob=120
+Item=538
+Rate=0.3
+
+
+[Drop 1168]
+ID=1168
+Mob=121
+Item=524
+Rate=0.1
+
+
+[Drop 1169]
+ID=1169
+Mob=121
+Item=531
+Rate=0.3
+
+
+[Drop 1170]
+ID=1170
+Mob=121
+Item=531
+Rate=0.2
+
+
+[Drop 1171]
+ID=1171
+Mob=122
+Item=524
+Rate=0.1
+
+
+[Drop 1172]
+ID=1172
+Mob=122
+Item=531
+Rate=0.2
+
+
+[Drop 1173]
+ID=1173
+Mob=122
+Item=538
+Rate=0.3
+
+
+[Drop 1174]
+ID=1174
+Mob=123
+Item=524
+Rate=0.11
+
+
+[Drop 1175]
+ID=1175
+Mob=123
+Item=531
+Rate=0.2
+
+
+[Drop 1176]
+ID=1176
+Mob=123
+Item=538
+Rate=0.3
+
+
+[Drop 1177]
+ID=1177
+Mob=475
+Item=2076
+Rate=0.03
+
+
+[Drop 1178]
+ID=1178
+Mob=475
+Item=2079
+Rate=0.031
+
+
+[Drop 1179]
+ID=1179
+Mob=475
+Item=2082
+Rate=0.033
+
+
+[Drop 1180]
+ID=1180
+Mob=474
+Item=2112
+Rate=0.13
+
+
+[Drop 1181]
+ID=1181
+Mob=474
+Item=2113
+Rate=0.11
+
+
+[Drop 1182]
+ID=1182
+Mob=474
+Item=2114
+Rate=0.113
+
+
+[Drop 1183]
+ID=1183
+Mob=478
+Item=1098
+Rate=0.1
+
+
+[Drop 1184]
+ID=1184
+Mob=478
+Item=1099
+Rate=0.11
+
+
+[Drop 1185]
+ID=1185
+Mob=124
+Item=524
+Rate=0.1
+
+
+[Drop 1186]
+ID=1186
+Mob=124
+Item=531
+Rate=0.15
+
+
+[Drop 1187]
+ID=1187
+Mob=124
+Item=538
+Rate=0.3
+
+
+[Drop 1188]
+ID=1188
+Mob=126
+Item=525
+Rate=0.1
+
+
+[Drop 1189]
+ID=1189
+Mob=126
+Item=532
+Rate=0.2
+
+
+[Drop 1190]
+ID=1190
+Mob=126
+Item=539
+Rate=0.3
+
+
+[Drop 1191]
+ID=1191
+Mob=128
+Item=525
+Rate=0.2
+
+
+[Drop 1192]
+ID=1192
+Mob=128
+Item=532
+Rate=0.22
+
+
+[Drop 1193]
+ID=1193
+Mob=128
+Item=539
+Rate=0.3
+
+
+[Drop 1194]
+ID=1194
+Mob=130
+Item=219
+Rate=0.5
+
+
+[Drop 1195]
+ID=1195
+Mob=130
+Item=525
+Rate=0.5
+
+
+[Drop 1196]
+ID=1196
+Mob=130
+Item=532
+Rate=0.5
+
+
+[Drop 1197]
+ID=1197
+Mob=130
+Item=539
+Rate=0.5
+
+
+[Drop 1198]
+ID=1198
+Mob=130
+Item=539
+Rate=0.5
+
+
+[Drop 1199]
+ID=1199
+Mob=130
+Item=539
+Rate=0.5
+
+
+[Drop 1200]
+ID=1200
+Mob=130
+Item=539
+Rate=0.5
+
+
+[Drop 1201]
+ID=1201
+Mob=132
+Item=219
+Rate=0.3
+
+
+[Drop 1202]
+ID=1202
+Mob=132
+Item=525
+Rate=0.3
+
+
+[Drop 1203]
+ID=1203
+Mob=132
+Item=532
+Rate=0.3
+
+
+[Drop 1204]
+ID=1204
+Mob=132
+Item=539
+Rate=0.3
+
+
+[Drop 1205]
+ID=1205
+Mob=132
+Item=539
+Rate=0.3
+
+
+[Drop 1206]
+ID=1206
+Mob=132
+Item=539
+Rate=0.3
+
+
+[Drop 1207]
+ID=1207
+Mob=127
+Item=524
+Rate=0.1
+
+
+[Drop 1208]
+ID=1208
+Mob=127
+Item=531
+Rate=0.2
+
+
+[Drop 1209]
+ID=1209
+Mob=127
+Item=538
+Rate=0.3
+
+
+[Drop 1210]
+ID=1210
+Mob=133
+Item=526
+Rate=0.33
+
+
+[Drop 1211]
+ID=1211
+Mob=133
+Item=533
+Rate=0.33
+
+
+[Drop 1212]
+ID=1212
+Mob=133
+Item=540
+Rate=0.33
+
+
+[Drop 1213]
+ID=1213
+Mob=119
+Item=256
+Rate=0.1
+
+
+[Drop 1214]
+ID=1214
+Mob=119
+Item=251
+Rate=0.1
+
+
+[Drop 1215]
+ID=1215
+Mob=646
+Item=1313
+Rate=0.01
+
+
+[Drop 1216]
+ID=1216
+Mob=646
+Item=1314
+Rate=0.01
+
+
+[Drop 1217]
+ID=1217
+Mob=646
+Item=1315
+Rate=0.01
+
+
+[Drop 1218]
+ID=1218
+Mob=646
+Item=1316
+Rate=0.01
+
+
+[Drop 1219]
+ID=1219
+Mob=646
+Item=1317
+Rate=0.01
+
+
+[Drop 1220]
+ID=1220
+Mob=646
+Item=724
+Rate=0.1
+
+
+[Drop 1221]
+ID=1221
+Mob=646
+Item=724
+Rate=0.1
+
+
+[Drop 1222]
+ID=1222
+Mob=646
+Item=724
+Rate=0.1
+
+
+[Drop 1223]
+ID=1223
+Mob=646
+Item=725
+Rate=0.1
+
+
+[Drop 1224]
+ID=1224
+Mob=646
+Item=725
+Rate=0.1
+
+
+[Drop 1225]
+ID=1225
+Mob=646
+Item=725
+Rate=0.1
+
+
+[Drop 1226]
+ID=1226
+Mob=646
+Item=726
+Rate=0.1
+
+
+[Drop 1227]
+ID=1227
+Mob=646
+Item=727
+Rate=0.1
+
+
+[Drop 1228]
+ID=1228
+Mob=646
+Item=745
+Rate=0.1
+
+
+[Drop 1229]
+ID=1229
+Mob=646
+Item=746
+Rate=0.1
+
+
+[Drop 1230]
+ID=1230
+Mob=646
+Item=746
+Rate=0.1
+
+
+[Drop 1231]
+ID=1231
+Mob=646
+Item=746
+Rate=0.1
+
+
+[Drop 1232]
+ID=1232
+Mob=646
+Item=747
+Rate=0.1
+
+
+[Drop 1233]
+ID=1233
+Mob=646
+Item=748
+Rate=0.1
+
+
+[Drop 1234]
+ID=1234
+Mob=646
+Item=748
+Rate=0.1
+
+
+[Drop 1235]
+ID=1235
+Mob=646
+Item=748
+Rate=0.1
+
+
+[Drop 1236]
+ID=1236
+Mob=646
+Item=748
+Rate=0.1
+
+
+[Drop 1237]
+ID=1237
+Mob=646
+Item=748
+Rate=0.1
+
+
+[Drop 1238]
+ID=1238
+Mob=646
+Item=748
+Rate=0.1
+
+
+[Drop 1239]
+ID=1239
+Mob=646
+Item=749
+Rate=0.1
+
+
+[Drop 1240]
+ID=1240
+Mob=646
+Item=741
+Rate=0.1
+
+
+[Drop 1241]
+ID=1241
+Mob=646
+Item=741
+Rate=0.1
+
+
+[Drop 1242]
+ID=1242
+Mob=646
+Item=741
+Rate=0.1
+
+
+[Drop 1243]
+ID=1243
+Mob=646
+Item=741
+Rate=0.1
+
+
+[Drop 1244]
+ID=1244
+Mob=646
+Item=741
+Rate=0.1
+
+
+[Drop 1245]
+ID=1245
+Mob=646
+Item=741
+Rate=0.1
+
+
+[Drop 1246]
+ID=1246
+Mob=646
+Item=740
+Rate=0.1
+
+
+[Drop 1247]
+ID=1247
+Mob=646
+Item=742
+Rate=0.1
+
+
+[Drop 1248]
+ID=1248
+Mob=646
+Item=742
+Rate=0.1
+
+
+[Drop 1249]
+ID=1249
+Mob=646
+Item=744
+Rate=0.1
+
+
+[Drop 1250]
+ID=1250
+Mob=646
+Item=744
+Rate=0.1
+
+
+[Drop 1251]
+ID=1251
+Mob=646
+Item=1960
+Rate=0.01
+
+
+[Drop 1252]
+ID=1252
+Mob=646
+Item=1960
+Rate=0.01
+
+
+[Drop 1253]
+ID=1253
+Mob=646
+Item=1960
+Rate=0.01
+
+
+[Drop 1254]
+ID=1254
+Mob=646
+Item=1960
+Rate=0.01
+
+
+[Drop 1255]
+ID=1255
+Mob=646
+Item=1960
+Rate=0.01
+
+
+[Drop 1256]
+ID=1256
+Mob=646
+Item=1960
+Rate=0.01
+
+
+[Drop 1257]
+ID=1257
+Mob=646
+Item=1960
+Rate=0.01
+
+
+[Drop 1258]
+ID=1258
+Mob=646
+Item=1960
+Rate=0.01
+
+
+[Drop 1259]
+ID=1259
+Mob=646
+Item=1960
+Rate=0.01
+
+
+[Drop 1260]
+ID=1260
+Mob=646
+Item=1961
+Rate=0.01
+
+
+[Drop 1261]
+ID=1261
+Mob=646
+Item=1961
+Rate=0.01
+
+
+[Drop 1262]
+ID=1262
+Mob=646
+Item=1961
+Rate=0.01
+
+
+[Drop 1263]
+ID=1263
+Mob=646
+Item=1961
+Rate=0.01
+
+
+[Drop 1264]
+ID=1264
+Mob=646
+Item=1962
+Rate=0.01
+
+
+[Drop 1265]
+ID=1265
+Mob=646
+Item=1962
+Rate=0.01
+
+
+[Drop 1266]
+ID=1266
+Mob=646
+Item=1962
+Rate=0.01
+
+
+[Drop 1267]
+ID=1267
+Mob=646
+Item=1963
+Rate=0.01
+
+
+[Drop 1268]
+ID=1268
+Mob=646
+Item=1964
+Rate=0.01
+
+
+[Drop 1269]
+ID=1269
+Mob=646
+Item=551
+Rate=0.5
+
+
+[Drop 1270]
+ID=1270
+Mob=646
+Item=552
+Rate=0.5
+
+
+[Drop 1271]
+ID=1271
+Mob=646
+Item=553
+Rate=0.5
+
+
+[Drop 1272]
+ID=1272
+Mob=646
+Item=1965
+Rate=0.01
+
+
+[Drop 1273]
+ID=1273
+Mob=646
+Item=1966
+Rate=0.01
+
+
+[Drop 1274]
+ID=1274
+Mob=646
+Item=770
+Rate=0.1
+
+
+[Drop 1275]
+ID=1275
+Mob=646
+Item=771
+Rate=0.1
+
+
+[Drop 1276]
+ID=1276
+Mob=646
+Item=949
+Rate=0.1
+
+
+[Drop 1277]
+ID=1277
+Mob=207
+Item=1338
+Rate=0.4
+
+
+[Drop 1278]
+ID=1278
+Mob=208
+Item=1338
+Rate=0.4
+
+
+[Drop 1279]
+ID=1279
+Mob=119
+Item=810
+Rate=0.1
+
+
+[Drop 1280]
+ID=1280
+Mob=119
+Item=810
+Rate=0.1
+
+
+[Drop 1281]
+ID=1281
+Mob=119
+Item=811
+Rate=0.001
+
+
+[Drop 1282]
+ID=1282
+Mob=120
+Item=810
+Rate=0.01
+
+
+[Drop 1283]
+ID=1283
+Mob=128
+Item=815
+Rate=0.001
+
+
+[Drop 1284]
+ID=1284
+Mob=128
+Item=814
+Rate=0.01
+
+
+[Drop 1285]
+ID=1285
+Mob=105
+Item=812
+Rate=0.01
+
+
+[Drop 1286]
+ID=1286
+Mob=105
+Item=812
+Rate=0.01
+
+
+[Drop 1287]
+ID=1287
+Mob=105
+Item=812
+Rate=0.01
+
+
+[Drop 1288]
+ID=1288
+Mob=105
+Item=813
+Rate=0.01
+
+
+[Drop 1289]
+ID=1289
+Mob=207
+Item=0
+Rate=0.3
+
+
+[Drop 1290]
+ID=1290
+Mob=193
+Item=525
+Rate=0.1
+
+
+[Drop 1291]
+ID=1291
+Mob=193
+Item=532
+Rate=0.2
+
+
+[Drop 1292]
+ID=1292
+Mob=193
+Item=539
+Rate=0.3
+
+
+[Drop 1293]
+ID=1293
+Mob=261
+Item=525
+Rate=0.1
+
+
+[Drop 1294]
+ID=1294
+Mob=261
+Item=532
+Rate=0.2
+
+
+[Drop 1295]
+ID=1295
+Mob=261
+Item=539
+Rate=0.3
+
+
+[Drop 1296]
+ID=1296
+Mob=259
+Item=525
+Rate=0.1
+
+
+[Drop 1297]
+ID=1297
+Mob=259
+Item=532
+Rate=0.2
+
+
+[Drop 1298]
+ID=1298
+Mob=259
+Item=539
+Rate=0.3
+
+
+[Drop 1299]
+ID=1299
+Mob=258
+Item=525
+Rate=0.1
+
+
+[Drop 1300]
+ID=1300
+Mob=258
+Item=532
+Rate=0.2
+
+
+[Drop 1301]
+ID=1301
+Mob=258
+Item=539
+Rate=0.3
+
+
+[Drop 1302]
+ID=1302
+Mob=197
+Item=526
+Rate=0.05
+
+
+[Drop 1303]
+ID=1303
+Mob=197
+Item=533
+Rate=0.1
+
+
+[Drop 1304]
+ID=1304
+Mob=197
+Item=540
+Rate=0.2
+
+
+[Drop 1305]
+ID=1305
+Mob=202
+Item=533
+Rate=0.1
+
+
+[Drop 1306]
+ID=1306
+Mob=202
+Item=540
+Rate=0.2
+
+
+[Drop 1307]
+ID=1307
+Mob=202
+Item=526
+Rate=0.05
+
+
+[Drop 1308]
+ID=1308
+Mob=204
+Item=526
+Rate=0.05
+
+
+[Drop 1309]
+ID=1309
+Mob=204
+Item=533
+Rate=0.1
+
+
+[Drop 1310]
+ID=1310
+Mob=204
+Item=540
+Rate=0.2
+
+
+[Drop 1311]
+ID=1311
+Mob=260
+Item=526
+Rate=0.05
+
+
+[Drop 1312]
+ID=1312
+Mob=260
+Item=533
+Rate=0.1
+
+
+[Drop 1313]
+ID=1313
+Mob=260
+Item=540
+Rate=0.2
+
+
+[Drop 1314]
+ID=1314
+Mob=262
+Item=533
+Rate=0.1
+
+
+[Drop 1315]
+ID=1315
+Mob=262
+Item=540
+Rate=0.2
+
+
+[Drop 1316]
+ID=1316
+Mob=262
+Item=526
+Rate=0.05
+
+
+[Drop 1317]
+ID=1317
+Mob=263
+Item=533
+Rate=0.1
+
+
+[Drop 1318]
+ID=1318
+Mob=263
+Item=540
+Rate=0.2
+
+
+[Drop 1319]
+ID=1319
+Mob=263
+Item=526
+Rate=0.05
+
+
+[Drop 1320]
+ID=1320
+Mob=280
+Item=540
+Rate=0.2
+
+
+[Drop 1321]
+ID=1321
+Mob=280
+Item=533
+Rate=0.12
+
+
+[Drop 1322]
+ID=1322
+Mob=280
+Item=526
+Rate=0.05
+
+
+[Drop 1323]
+ID=1323
+Mob=195
+Item=527
+Rate=0.01
+
+
+[Drop 1324]
+ID=1324
+Mob=195
+Item=534
+Rate=0.05
+
+
+[Drop 1325]
+ID=1325
+Mob=195
+Item=541
+Rate=0.2
+
+
+[Drop 1326]
+ID=1326
+Mob=205
+Item=527
+Rate=0.01
+
+
+[Drop 1327]
+ID=1327
+Mob=205
+Item=534
+Rate=0.05
+
+
+[Drop 1328]
+ID=1328
+Mob=205
+Item=541
+Rate=0.15
+
+
+[Drop 1329]
+ID=1329
+Mob=206
+Item=534
+Rate=0.35
+
+
+[Drop 1330]
+ID=1330
+Mob=206
+Item=541
+Rate=0.45
+
+
+[Drop 1331]
+ID=1331
+Mob=209
+Item=527
+Rate=0.01
+
+
+[Drop 1332]
+ID=1332
+Mob=209
+Item=534
+Rate=0.05
+
+
+[Drop 1333]
+ID=1333
+Mob=209
+Item=541
+Rate=0.15
+
+
+[Drop 1334]
+ID=1334
+Mob=210
+Item=527
+Rate=0.01
+
+
+[Drop 1335]
+ID=1335
+Mob=210
+Item=534
+Rate=0.05
+
+
+[Drop 1336]
+ID=1336
+Mob=210
+Item=541
+Rate=0.15
+
+
+[Drop 1337]
+ID=1337
+Mob=278
+Item=534
+Rate=0.25
+
+
+[Drop 1338]
+ID=1338
+Mob=278
+Item=541
+Rate=0.35
+
+
+[Drop 1339]
+ID=1339
+Mob=279
+Item=526
+Rate=0.1
+
+
+[Drop 1340]
+ID=1340
+Mob=279
+Item=533
+Rate=0.2
+
+
+[Drop 1341]
+ID=1341
+Mob=279
+Item=540
+Rate=0.3
+
+
+[Drop 1342]
+ID=1342
+Mob=279
+Item=1166
+Rate=0.1
+
+
+[Drop 1343]
+ID=1343
+Mob=279
+Item=1167
+Rate=0.1
+
+
+[Drop 1344]
+ID=1344
+Mob=279
+Item=1169
+Rate=0.1
+
+
+[Drop 1345]
+ID=1345
+Mob=279
+Item=1170
+Rate=0.1
+
+
+[Drop 1346]
+ID=1346
+Mob=279
+Item=1173
+Rate=0.1
+
+
+[Drop 1347]
+ID=1347
+Mob=278
+Item=1167
+Rate=0.1
+
+
+[Drop 1348]
+ID=1348
+Mob=278
+Item=1168
+Rate=0.1
+
+
+[Drop 1349]
+ID=1349
+Mob=278
+Item=1171
+Rate=0.1
+
+
+[Drop 1350]
+ID=1350
+Mob=278
+Item=1172
+Rate=0.1
+
+
+[Drop 1351]
+ID=1351
+Mob=285
+Item=551
+Rate=0.33
+
+
+[Drop 1352]
+ID=1352
+Mob=286
+Item=551
+Rate=0.3
+
+
+[Drop 1353]
+ID=1353
+Mob=287
+Item=551
+Rate=0.3
+
+
+[Drop 1354]
+ID=1354
+Mob=288
+Item=551
+Rate=0.3
+
+
+[Drop 1355]
+ID=1355
+Mob=290
+Item=551
+Rate=0.3
+
+
+[Drop 1356]
+ID=1356
+Mob=219
+Item=551
+Rate=0.11
+
+
+[Drop 1357]
+ID=1357
+Mob=219
+Item=552
+Rate=0.11
+
+
+[Drop 1358]
+ID=1358
+Mob=220
+Item=551
+Rate=0.11
+
+
+[Drop 1359]
+ID=1359
+Mob=220
+Item=552
+Rate=0.11
+
+
+[Drop 1360]
+ID=1360
+Mob=221
+Item=551
+Rate=0.31
+
+
+[Drop 1361]
+ID=1361
+Mob=221
+Item=552
+Rate=0.31
+
+
+[Drop 1362]
+ID=1362
+Mob=221
+Item=553
+Rate=0.31
+
+
+[Drop 1363]
+ID=1363
+Mob=243
+Item=551
+Rate=0.11
+
+
+[Drop 1364]
+ID=1364
+Mob=243
+Item=552
+Rate=0.11
+
+
+[Drop 1365]
+ID=1365
+Mob=244
+Item=551
+Rate=0.11
+
+
+[Drop 1366]
+ID=1366
+Mob=244
+Item=552
+Rate=0.11
+
+
+[Drop 1367]
+ID=1367
+Mob=245
+Item=551
+Rate=0.11
+
+
+[Drop 1368]
+ID=1368
+Mob=245
+Item=552
+Rate=0.11
+
+
+[Drop 1369]
+ID=1369
+Mob=247
+Item=0
+Rate=0.03
+
+
+[Drop 1370]
+ID=1370
+Mob=249
+Item=551
+Rate=0.31
+
+
+[Drop 1371]
+ID=1371
+Mob=249
+Item=552
+Rate=0.31
+
+
+[Drop 1372]
+ID=1372
+Mob=249
+Item=553
+Rate=0.31
+
+
+[Drop 1373]
+ID=1373
+Mob=289
+Item=551
+Rate=0.3
+
+
+[Drop 1374]
+ID=1374
+Mob=291
+Item=551
+Rate=0.3
+
+
+[Drop 1375]
+ID=1375
+Mob=291
+Item=552
+Rate=0.3
+
+
+[Drop 1376]
+ID=1376
+Mob=292
+Item=551
+Rate=0.3
+
+
+[Drop 1377]
+ID=1377
+Mob=292
+Item=552
+Rate=0.3
+
+
+[Drop 1378]
+ID=1378
+Mob=219
+Item=526
+Rate=0.11
+
+
+[Drop 1379]
+ID=1379
+Mob=219
+Item=533
+Rate=0.11
+
+
+[Drop 1380]
+ID=1380
+Mob=219
+Item=540
+Rate=0.11
+
+
+[Drop 1381]
+ID=1381
+Mob=220
+Item=526
+Rate=0.11
+
+
+[Drop 1382]
+ID=1382
+Mob=220
+Item=533
+Rate=0.11
+
+
+[Drop 1383]
+ID=1383
+Mob=220
+Item=540
+Rate=0.11
+
+
+[Drop 1384]
+ID=1384
+Mob=221
+Item=527
+Rate=0.31
+
+
+[Drop 1385]
+ID=1385
+Mob=221
+Item=534
+Rate=0.31
+
+
+[Drop 1386]
+ID=1386
+Mob=221
+Item=541
+Rate=0.31
+
+
+[Drop 1387]
+ID=1387
+Mob=243
+Item=526
+Rate=0.11
+
+
+[Drop 1388]
+ID=1388
+Mob=243
+Item=533
+Rate=0.11
+
+
+[Drop 1389]
+ID=1389
+Mob=243
+Item=540
+Rate=0.11
+
+
+[Drop 1390]
+ID=1390
+Mob=244
+Item=526
+Rate=0.11
+
+
+[Drop 1391]
+ID=1391
+Mob=244
+Item=533
+Rate=0.11
+
+
+[Drop 1392]
+ID=1392
+Mob=244
+Item=540
+Rate=0.11
+
+
+[Drop 1393]
+ID=1393
+Mob=245
+Item=526
+Rate=0.11
+
+
+[Drop 1394]
+ID=1394
+Mob=245
+Item=533
+Rate=0.11
+
+
+[Drop 1395]
+ID=1395
+Mob=245
+Item=540
+Rate=0.11
+
+
+[Drop 1396]
+ID=1396
+Mob=247
+Item=526
+Rate=0.11
+
+
+[Drop 1397]
+ID=1397
+Mob=247
+Item=533
+Rate=0.11
+
+
+[Drop 1398]
+ID=1398
+Mob=247
+Item=540
+Rate=0.11
+
+
+[Drop 1399]
+ID=1399
+Mob=249
+Item=527
+Rate=0.31
+
+
+[Drop 1400]
+ID=1400
+Mob=249
+Item=534
+Rate=0.31
+
+
+[Drop 1401]
+ID=1401
+Mob=249
+Item=541
+Rate=0.31
+
+
+[Drop 1402]
+ID=1402
+Mob=291
+Item=526
+Rate=0.3
+
+
+[Drop 1403]
+ID=1403
+Mob=291
+Item=533
+Rate=0.3
+
+
+[Drop 1404]
+ID=1404
+Mob=291
+Item=540
+Rate=0.3
+
+
+[Drop 1405]
+ID=1405
+Mob=292
+Item=526
+Rate=0.3
+
+
+[Drop 1406]
+ID=1406
+Mob=292
+Item=533
+Rate=0.3
+
+
+[Drop 1407]
+ID=1407
+Mob=292
+Item=540
+Rate=0.3
+
+
+[Drop 1408]
+ID=1408
+Mob=221
+Item=1174
+Rate=0.31
+
+
+[Drop 1409]
+ID=1409
+Mob=221
+Item=1177
+Rate=0.31
+
+
+[Drop 1410]
+ID=1410
+Mob=221
+Item=1178
+Rate=0.31
+
+
+[Drop 1411]
+ID=1411
+Mob=221
+Item=1181
+Rate=0.31
+
+
+[Drop 1412]
+ID=1412
+Mob=249
+Item=1175
+Rate=0.31
+
+
+[Drop 1413]
+ID=1413
+Mob=249
+Item=1176
+Rate=0.31
+
+
+[Drop 1414]
+ID=1414
+Mob=249
+Item=1179
+Rate=0.31
+
+
+[Drop 1415]
+ID=1415
+Mob=249
+Item=1180
+Rate=0.31
+
+
+[Drop 1416]
+ID=1416
+Mob=221
+Item=625
+Rate=0.31
+
+
+[Drop 1417]
+ID=1417
+Mob=221
+Item=635
+Rate=0.31
+
+
+[Drop 1418]
+ID=1418
+Mob=221
+Item=624
+Rate=0.31
+
+
+[Drop 1419]
+ID=1419
+Mob=221
+Item=634
+Rate=0.31
+
+
+[Drop 1420]
+ID=1420
+Mob=249
+Item=878
+Rate=0.31
+
+
+[Drop 1421]
+ID=1421
+Mob=249
+Item=879
+Rate=0.31
+
+
+[Drop 1422]
+ID=1422
+Mob=249
+Item=630
+Rate=0.31
+
+
+[Drop 1423]
+ID=1423
+Mob=249
+Item=633
+Rate=0.31
+
+
+[Drop 1424]
+ID=1424
+Mob=249
+Item=641
+Rate=0.31
+
+
+[Drop 1425]
+ID=1425
+Mob=249
+Item=642
+Rate=0.31
+
+
+[Drop 1426]
+ID=1426
+Mob=249
+Item=643
+Rate=0.31
+
+
+[Drop 1427]
+ID=1427
+Mob=249
+Item=644
+Rate=0.31
+
+
+[Drop 1428]
+ID=1428
+Mob=249
+Item=909
+Rate=0.31
+
+
+[Drop 1429]
+ID=1429
+Mob=249
+Item=930
+Rate=0.31
+
+
+[Drop 1430]
+ID=1430
+Mob=249
+Item=1146
+Rate=0.31
+
+
+[Drop 1431]
+ID=1431
+Mob=249
+Item=1151
+Rate=0.31
+
+
+[Drop 1432]
+ID=1432
+Mob=221
+Item=642
+Rate=0.31
+
+
+[Drop 1433]
+ID=1433
+Mob=221
+Item=644
+Rate=0.31
+
+
+[Drop 1434]
+ID=1434
+Mob=221
+Item=643
+Rate=0.31
+
+
+[Drop 1435]
+ID=1435
+Mob=221
+Item=641
+Rate=0.31
+
+
+[Drop 1436]
+ID=1436
+Mob=221
+Item=930
+Rate=0.31
+
+
+[Drop 1437]
+ID=1437
+Mob=221
+Item=1146
+Rate=0.31
+
+
+[Drop 1438]
+ID=1438
+Mob=221
+Item=1151
+Rate=0.31
+
+
+[Drop 1439]
+ID=1439
+Mob=221
+Item=909
+Rate=0.31
+
+
+[Drop 1440]
+ID=1440
+Mob=224
+Item=553
+Rate=0.5
+
+
+[Drop 1441]
+ID=1441
+Mob=224
+Item=551
+Rate=0.8
+
+
+[Drop 1442]
+ID=1442
+Mob=224
+Item=552
+Rate=0.6
+
+
+[Drop 1443]
+ID=1443
+Mob=221
+Item=770
+Rate=0.31
+
+
+[Drop 1444]
+ID=1444
+Mob=221
+Item=771
+Rate=0.31
+
+
+[Drop 1445]
+ID=1445
+Mob=221
+Item=947
+Rate=0.31
+
+
+[Drop 1446]
+ID=1446
+Mob=249
+Item=948
+Rate=0.31
+
+
+[Drop 1447]
+ID=1447
+Mob=249
+Item=745
+Rate=0.31
+
+
+[Drop 1448]
+ID=1448
+Mob=249
+Item=748
+Rate=0.31
+
+
+[Drop 1449]
+ID=1449
+Mob=249
+Item=950
+Rate=0.31
+
+
+[Drop 1450]
+ID=1450
+Mob=249
+Item=952
+Rate=0.31
+
+
+[Drop 1451]
+ID=1451
+Mob=249
+Item=954
+Rate=0.31
+
+
+[Drop 1452]
+ID=1452
+Mob=224
+Item=1269
+Rate=0.05
+
+
+[Drop 1453]
+ID=1453
+Mob=224
+Item=1270
+Rate=0.05
+
+
+[Drop 1454]
+ID=1454
+Mob=224
+Item=1271
+Rate=0.05
+
+
+[Drop 1455]
+ID=1455
+Mob=224
+Item=1268
+Rate=0.05
+
+
+[Drop 1456]
+ID=1456
+Mob=206
+Item=746
+Rate=0.2
+
+
+[Drop 1457]
+ID=1457
+Mob=206
+Item=745
+Rate=0.2
+
+
+[Drop 1458]
+ID=1458
+Mob=206
+Item=747
+Rate=0.2
+
+
+[Drop 1459]
+ID=1459
+Mob=206
+Item=748
+Rate=0.2
+
+
+[Drop 1460]
+ID=1460
+Mob=197
+Item=745
+Rate=0.13
+
+
+[Drop 1461]
+ID=1461
+Mob=197
+Item=746
+Rate=0.13
+
+
+[Drop 1462]
+ID=1462
+Mob=197
+Item=747
+Rate=0.13
+
+
+[Drop 1463]
+ID=1463
+Mob=197
+Item=748
+Rate=0.13
+
+
+[Drop 1464]
+ID=1464
+Mob=195
+Item=745
+Rate=0.01
+
+
+[Drop 1465]
+ID=1465
+Mob=195
+Item=746
+Rate=0.05
+
+
+[Drop 1466]
+ID=1466
+Mob=195
+Item=747
+Rate=0.011
+
+
+[Drop 1467]
+ID=1467
+Mob=195
+Item=748
+Rate=0.01
+
+
+[Drop 1468]
+ID=1468
+Mob=205
+Item=745
+Rate=0.05
+
+
+[Drop 1469]
+ID=1469
+Mob=205
+Item=746
+Rate=0.05
+
+
+[Drop 1470]
+ID=1470
+Mob=205
+Item=747
+Rate=0.05
+
+
+[Drop 1471]
+ID=1471
+Mob=205
+Item=748
+Rate=0.05
+
+
+[Drop 1472]
+ID=1472
+Mob=279
+Item=726
+Rate=0.12
+
+
+[Drop 1473]
+ID=1473
+Mob=279
+Item=727
+Rate=0.12
+
+
+[Drop 1474]
+ID=1474
+Mob=206
+Item=726
+Rate=0.2
+
+
+[Drop 1475]
+ID=1475
+Mob=206
+Item=727
+Rate=0.2
+
+
+[Drop 1476]
+ID=1476
+Mob=205
+Item=727
+Rate=0.011
+
+
+[Drop 1477]
+ID=1477
+Mob=205
+Item=726
+Rate=0.011
+
+
+[Drop 1478]
+ID=1478
+Mob=195
+Item=726
+Rate=0.05
+
+
+[Drop 1479]
+ID=1479
+Mob=195
+Item=727
+Rate=0.011
+
+
+[Drop 1480]
+ID=1480
+Mob=357
+Item=887
+Rate=0.2
+
+
+[Drop 1481]
+ID=1481
+Mob=357
+Item=888
+Rate=0.2
+
+
+[Drop 1482]
+ID=1482
+Mob=357
+Item=889
+Rate=0.2
+
+
+[Drop 1483]
+ID=1483
+Mob=357
+Item=898
+Rate=0.2
+
+
+[Drop 1484]
+ID=1484
+Mob=357
+Item=1184
+Rate=0.2
+
+
+[Drop 1485]
+ID=1485
+Mob=357
+Item=1188
+Rate=0.2
+
+
+[Drop 1486]
+ID=1486
+Mob=358
+Item=884
+Rate=0.2
+
+
+[Drop 1487]
+ID=1487
+Mob=358
+Item=885
+Rate=0.2
+
+
+[Drop 1488]
+ID=1488
+Mob=358
+Item=886
+Rate=0.2
+
+
+[Drop 1489]
+ID=1489
+Mob=358
+Item=897
+Rate=0.2
+
+
+[Drop 1490]
+ID=1490
+Mob=358
+Item=1183
+Rate=0.2
+
+
+[Drop 1491]
+ID=1491
+Mob=358
+Item=1187
+Rate=0.2
+
+
+[Drop 1492]
+ID=1492
+Mob=359
+Item=881
+Rate=0.2
+
+
+[Drop 1493]
+ID=1493
+Mob=359
+Item=882
+Rate=0.2
+
+
+[Drop 1494]
+ID=1494
+Mob=359
+Item=883
+Rate=0.2
+
+
+[Drop 1495]
+ID=1495
+Mob=359
+Item=896
+Rate=0.2
+
+
+[Drop 1496]
+ID=1496
+Mob=359
+Item=1182
+Rate=0.2
+
+
+[Drop 1497]
+ID=1497
+Mob=359
+Item=1186
+Rate=0.2
+
+
+[Drop 1498]
+ID=1498
+Mob=364
+Item=890
+Rate=0.2
+
+
+[Drop 1499]
+ID=1499
+Mob=364
+Item=891
+Rate=0.2
+
+
+[Drop 1500]
+ID=1500
+Mob=364
+Item=892
+Rate=0.2
+
+
+[Drop 1501]
+ID=1501
+Mob=364
+Item=899
+Rate=0.2
+
+
+[Drop 1502]
+ID=1502
+Mob=364
+Item=1185
+Rate=0.2
+
+
+[Drop 1503]
+ID=1503
+Mob=364
+Item=1189
+Rate=0.2
+
+
+[Drop 1504]
+ID=1504
+Mob=294
+Item=978
+Rate=0.01
+
+
+[Drop 1505]
+ID=1505
+Mob=249
+Item=978
+Rate=0.31
+
+
+[Drop 1506]
+ID=1506
+Mob=476
+Item=641
+Rate=0.3
+
+
+[Drop 1507]
+ID=1507
+Mob=476
+Item=642
+Rate=0.3
+
+
+[Drop 1508]
+ID=1508
+Mob=476
+Item=643
+Rate=0.3
+
+
+[Drop 1509]
+ID=1509
+Mob=476
+Item=644
+Rate=0.3
+
+
+[Drop 1510]
+ID=1510
+Mob=476
+Item=930
+Rate=0.3
+
+
+[Drop 1511]
+ID=1511
+Mob=476
+Item=1146
+Rate=0.3
+
+
+[Drop 1512]
+ID=1512
+Mob=476
+Item=1151
+Rate=0.3
+
+
+[Drop 1513]
+ID=1513
+Mob=358
+Item=0
+Rate=0.01
+
+
+[Drop 1514]
+ID=1514
+Mob=217
+Item=219
+Rate=0.1
+
+
+[Drop 1515]
+ID=1515
+Mob=217
+Item=525
+Rate=0.1
+
+
+[Drop 1516]
+ID=1516
+Mob=217
+Item=532
+Rate=0.15
+
+
+[Drop 1517]
+ID=1517
+Mob=217
+Item=539
+Rate=0.25
+
+
+[Drop 1518]
+ID=1518
+Mob=477
+Item=1286
+Rate=0.1
+
+
+[Drop 1519]
+ID=1519
+Mob=477
+Item=1287
+Rate=0.11
+
+
+[Drop 1520]
+ID=1520
+Mob=477
+Item=1288
+Rate=0.111
+
+
+[Drop 1521]
+ID=1521
+Mob=470
+Item=745
+Rate=0.1
+
+
+[Drop 1522]
+ID=1522
+Mob=470
+Item=746
+Rate=0.1
+
+
+[Drop 1523]
+ID=1523
+Mob=470
+Item=747
+Rate=0.1
+
+
+[Drop 1524]
+ID=1524
+Mob=470
+Item=748
+Rate=0.1
+
+
+[Drop 1525]
+ID=1525
+Mob=470
+Item=748
+Rate=0.1
+
+
+[Drop 1526]
+ID=1526
+Mob=470
+Item=749
+Rate=0.1
+
+
+[Drop 1527]
+ID=1527
+Mob=469
+Item=726
+Rate=0.1
+
+
+[Drop 1528]
+ID=1528
+Mob=469
+Item=727
+Rate=0.1
+
+
+[Drop 1529]
+ID=1529
+Mob=469
+Item=726
+Rate=0.1
+
+
+[Drop 1530]
+ID=1530
+Mob=469
+Item=726
+Rate=0.1
+
+
+[Drop 1531]
+ID=1531
+Mob=469
+Item=726
+Rate=0.1
+
+
+[Drop 1532]
+ID=1532
+Mob=469
+Item=770
+Rate=0.1
+
+
+[Drop 1533]
+ID=1533
+Mob=469
+Item=771
+Rate=0.1
+
+
+[Drop 1534]
+ID=1534
+Mob=469
+Item=771
+Rate=0.1
+
+
+[Drop 1535]
+ID=1535
+Mob=469
+Item=771
+Rate=0.1
+
+
+[Drop 1536]
+ID=1536
+Mob=466
+Item=979
+Rate=0.01
+
+
+[Drop 1537]
+ID=1537
+Mob=466
+Item=980
+Rate=0.01
+
+
+[Drop 1538]
+ID=1538
+Mob=466
+Item=981
+Rate=0.01
+
+
+[Drop 1539]
+ID=1539
+Mob=466
+Item=982
+Rate=0.01
+
+
+[Drop 1540]
+ID=1540
+Mob=466
+Item=983
+Rate=0.01
+
+
+[Drop 1541]
+ID=1541
+Mob=468
+Item=1024
+Rate=0.04
+
+
+[Drop 1542]
+ID=1542
+Mob=468
+Item=1495
+Rate=0.02
+
+
+[Drop 1543]
+ID=1543
+Mob=468
+Item=1512
+Rate=0.05
+
+
+[Drop 1544]
+ID=1544
+Mob=468
+Item=1496
+Rate=0.01
+
+
+[Drop 1545]
+ID=1545
+Mob=294
+Item=541
+Rate=0.25
+
+
+[Drop 1546]
+ID=1546
+Mob=294
+Item=534
+Rate=0.25
+
+
+[Drop 1547]
+ID=1547
+Mob=295
+Item=540
+Rate=0.3
+
+
+[Drop 1548]
+ID=1548
+Mob=295
+Item=533
+Rate=0.2
+
+
+[Drop 1549]
+ID=1549
+Mob=295
+Item=526
+Rate=0.1
+
+
+[Drop 1550]
+ID=1550
+Mob=298
+Item=540
+Rate=0.3
+
+
+[Drop 1551]
+ID=1551
+Mob=298
+Item=533
+Rate=0.2
+
+
+[Drop 1552]
+ID=1552
+Mob=298
+Item=526
+Rate=0.1
+
+
+[Drop 1553]
+ID=1553
+Mob=300
+Item=540
+Rate=0.21
+
+
+[Drop 1554]
+ID=1554
+Mob=300
+Item=533
+Rate=0.21
+
+
+[Drop 1555]
+ID=1555
+Mob=300
+Item=526
+Rate=0.21
+
+
+[Drop 1556]
+ID=1556
+Mob=296
+Item=540
+Rate=0.3
+
+
+[Drop 1557]
+ID=1557
+Mob=296
+Item=533
+Rate=0.3
+
+
+[Drop 1558]
+ID=1558
+Mob=296
+Item=526
+Rate=0.3
+
+
+[Drop 1559]
+ID=1559
+Mob=299
+Item=540
+Rate=0.3
+
+
+[Drop 1560]
+ID=1560
+Mob=299
+Item=533
+Rate=0.3
+
+
+[Drop 1561]
+ID=1561
+Mob=299
+Item=526
+Rate=0.3
+
+
+[Drop 1562]
+ID=1562
+Mob=125
+Item=1309
+Rate=0.9
+
+
+[Drop 1563]
+ID=1563
+Mob=125
+Item=1310
+Rate=0.8
+
+
+[Drop 1564]
+ID=1564
+Mob=125
+Item=1311
+Rate=0.7
+
+
+[Drop 1565]
+ID=1565
+Mob=125
+Item=1312
+Rate=0.9
+
+
+[Drop 1566]
+ID=1566
+Mob=295
+Item=507
+Rate=0.1
+
+
+[Drop 1567]
+ID=1567
+Mob=295
+Item=508
+Rate=0.1
+
+
+[Drop 1568]
+ID=1568
+Mob=295
+Item=509
+Rate=0.1
+
+
+[Drop 1569]
+ID=1569
+Mob=295
+Item=859
+Rate=0.1
+
+
+[Drop 1570]
+ID=1570
+Mob=295
+Item=498
+Rate=0.1
+
+
+[Drop 1571]
+ID=1571
+Mob=295
+Item=499
+Rate=0.1
+
+
+[Drop 1572]
+ID=1572
+Mob=295
+Item=500
+Rate=0.1
+
+
+[Drop 1573]
+ID=1573
+Mob=295
+Item=856
+Rate=0.1
+
+
+[Drop 1574]
+ID=1574
+Mob=298
+Item=501
+Rate=0.1
+
+
+[Drop 1575]
+ID=1575
+Mob=298
+Item=502
+Rate=0.1
+
+
+[Drop 1576]
+ID=1576
+Mob=298
+Item=503
+Rate=0.1
+
+
+[Drop 1577]
+ID=1577
+Mob=298
+Item=857
+Rate=0.1
+
+
+[Drop 1578]
+ID=1578
+Mob=298
+Item=504
+Rate=0.11
+
+
+[Drop 1579]
+ID=1579
+Mob=298
+Item=505
+Rate=0.11
+
+
+[Drop 1580]
+ID=1580
+Mob=298
+Item=506
+Rate=0.11
+
+
+[Drop 1581]
+ID=1581
+Mob=298
+Item=858
+Rate=0.11
+
+
+[Drop 1582]
+ID=1582
+Mob=299
+Item=696
+Rate=0.3
+
+
+[Drop 1583]
+ID=1583
+Mob=299
+Item=697
+Rate=0.3
+
+
+[Drop 1584]
+ID=1584
+Mob=299
+Item=698
+Rate=0.3
+
+
+[Drop 1585]
+ID=1585
+Mob=299
+Item=699
+Rate=0.3
+
+
+[Drop 1586]
+ID=1586
+Mob=299
+Item=708
+Rate=0.3
+
+
+[Drop 1587]
+ID=1587
+Mob=299
+Item=709
+Rate=0.3
+
+
+[Drop 1588]
+ID=1588
+Mob=299
+Item=710
+Rate=0.3
+
+
+[Drop 1589]
+ID=1589
+Mob=299
+Item=711
+Rate=0.3
+
+
+[Drop 1590]
+ID=1590
+Mob=296
+Item=700
+Rate=0.3
+
+
+[Drop 1591]
+ID=1591
+Mob=296
+Item=701
+Rate=0.3
+
+
+[Drop 1592]
+ID=1592
+Mob=296
+Item=702
+Rate=0.3
+
+
+[Drop 1593]
+ID=1593
+Mob=296
+Item=703
+Rate=0.3
+
+
+[Drop 1594]
+ID=1594
+Mob=296
+Item=704
+Rate=0.3
+
+
+[Drop 1595]
+ID=1595
+Mob=296
+Item=705
+Rate=0.3
+
+
+[Drop 1596]
+ID=1596
+Mob=296
+Item=706
+Rate=0.3
+
+
+[Drop 1597]
+ID=1597
+Mob=296
+Item=707
+Rate=0.3
+
+
+[Drop 1598]
+ID=1598
+Mob=300
+Item=698
+Rate=0.21
+
+
+[Drop 1599]
+ID=1599
+Mob=300
+Item=699
+Rate=0.21
+
+
+[Drop 1600]
+ID=1600
+Mob=300
+Item=708
+Rate=0.21
+
+
+[Drop 1601]
+ID=1601
+Mob=300
+Item=709
+Rate=0.21
+
+
+[Drop 1602]
+ID=1602
+Mob=300
+Item=703
+Rate=0.21
+
+
+[Drop 1603]
+ID=1603
+Mob=300
+Item=703
+Rate=0.21
+
+
+[Drop 1604]
+ID=1604
+Mob=300
+Item=704
+Rate=0.21
+
+
+[Drop 1605]
+ID=1605
+Mob=300
+Item=705
+Rate=0.21
+
+
+[Drop 1606]
+ID=1606
+Mob=302
+Item=527
+Rate=0.25
+
+
+[Drop 1607]
+ID=1607
+Mob=302
+Item=534
+Rate=0.25
+
+
+[Drop 1608]
+ID=1608
+Mob=302
+Item=541
+Rate=0.25
+
+
+[Drop 1609]
+ID=1609
+Mob=297
+Item=527
+Rate=0.25
+
+
+[Drop 1610]
+ID=1610
+Mob=297
+Item=534
+Rate=0.25
+
+
+[Drop 1611]
+ID=1611
+Mob=297
+Item=541
+Rate=0.25
+
+
+[Drop 1612]
+ID=1612
+Mob=302
+Item=988
+Rate=0.25
+
+
+[Drop 1613]
+ID=1613
+Mob=302
+Item=989
+Rate=0.25
+
+
+[Drop 1614]
+ID=1614
+Mob=302
+Item=990
+Rate=0.25
+
+
+[Drop 1615]
+ID=1615
+Mob=302
+Item=991
+Rate=0.25
+
+
+[Drop 1616]
+ID=1616
+Mob=302
+Item=992
+Rate=0.25
+
+
+[Drop 1617]
+ID=1617
+Mob=302
+Item=993
+Rate=0.25
+
+
+[Drop 1618]
+ID=1618
+Mob=302
+Item=994
+Rate=0.25
+
+
+[Drop 1619]
+ID=1619
+Mob=302
+Item=995
+Rate=0.25
+
+
+[Drop 1620]
+ID=1620
+Mob=297
+Item=996
+Rate=0.25
+
+
+[Drop 1621]
+ID=1621
+Mob=297
+Item=997
+Rate=0.25
+
+
+[Drop 1622]
+ID=1622
+Mob=297
+Item=998
+Rate=0.25
+
+
+[Drop 1623]
+ID=1623
+Mob=297
+Item=999
+Rate=0.25
+
+
+[Drop 1624]
+ID=1624
+Mob=297
+Item=984
+Rate=0.25
+
+
+[Drop 1625]
+ID=1625
+Mob=297
+Item=985
+Rate=0.25
+
+
+[Drop 1626]
+ID=1626
+Mob=297
+Item=986
+Rate=0.25
+
+
+[Drop 1627]
+ID=1627
+Mob=297
+Item=987
+Rate=0.25
+
+
+[Drop 1628]
+ID=1628
+Mob=352
+Item=1062
+Rate=0.2
+
+
+[Drop 1629]
+ID=1629
+Mob=352
+Item=1063
+Rate=0.2
+
+
+[Drop 1630]
+ID=1630
+Mob=352
+Item=1064
+Rate=0.2
+
+
+[Drop 1631]
+ID=1631
+Mob=352
+Item=1065
+Rate=0.2
+
+
+[Drop 1632]
+ID=1632
+Mob=352
+Item=1066
+Rate=0.2
+
+
+[Drop 1633]
+ID=1633
+Mob=357
+Item=527
+Rate=0.2
+
+
+[Drop 1634]
+ID=1634
+Mob=358
+Item=527
+Rate=0.2
+
+
+[Drop 1635]
+ID=1635
+Mob=359
+Item=527
+Rate=0.2
+
+
+[Drop 1636]
+ID=1636
+Mob=364
+Item=527
+Rate=0.2
+
+
+[Drop 1637]
+ID=1637
+Mob=364
+Item=527
+Rate=0.2
+
+
+[Drop 1638]
+ID=1638
+Mob=357
+Item=634
+Rate=0.2
+
+
+[Drop 1639]
+ID=1639
+Mob=357
+Item=635
+Rate=0.2
+
+
+[Drop 1640]
+ID=1640
+Mob=357
+Item=626
+Rate=0.2
+
+
+[Drop 1641]
+ID=1641
+Mob=357
+Item=877
+Rate=0.2
+
+
+[Drop 1642]
+ID=1642
+Mob=358
+Item=626
+Rate=0.2
+
+
+[Drop 1643]
+ID=1643
+Mob=358
+Item=877
+Rate=0.2
+
+
+[Drop 1644]
+ID=1644
+Mob=358
+Item=629
+Rate=0.2
+
+
+[Drop 1645]
+ID=1645
+Mob=358
+Item=630
+Rate=0.2
+
+
+[Drop 1646]
+ID=1646
+Mob=359
+Item=878
+Rate=0.2
+
+
+[Drop 1647]
+ID=1647
+Mob=359
+Item=630
+Rate=0.2
+
+
+[Drop 1648]
+ID=1648
+Mob=359
+Item=632
+Rate=0.2
+
+
+[Drop 1649]
+ID=1649
+Mob=359
+Item=879
+Rate=0.2
+
+
+[Drop 1650]
+ID=1650
+Mob=364
+Item=631
+Rate=0.2
+
+
+[Drop 1651]
+ID=1651
+Mob=364
+Item=632
+Rate=0.2
+
+
+[Drop 1652]
+ID=1652
+Mob=364
+Item=634
+Rate=0.2
+
+
+[Drop 1653]
+ID=1653
+Mob=364
+Item=880
+Rate=0.2
+
+
+[Drop 1654]
+ID=1654
+Mob=362
+Item=636
+Rate=0.2
+
+
+[Drop 1655]
+ID=1655
+Mob=362
+Item=634
+Rate=0.2
+
+
+[Drop 1656]
+ID=1656
+Mob=362
+Item=635
+Rate=0.2
+
+
+[Drop 1657]
+ID=1657
+Mob=362
+Item=880
+Rate=0.2
+
+
+[Drop 1658]
+ID=1658
+Mob=362
+Item=877
+Rate=0.2
+
+
+[Drop 1659]
+ID=1659
+Mob=362
+Item=626
+Rate=0.2
+
+
+[Drop 1660]
+ID=1660
+Mob=362
+Item=625
+Rate=0.2
+
+
+[Drop 1661]
+ID=1661
+Mob=362
+Item=624
+Rate=0.2
+
+
+[Drop 1662]
+ID=1662
+Mob=362
+Item=1174
+Rate=0.2
+
+
+[Drop 1663]
+ID=1663
+Mob=362
+Item=1178
+Rate=0.2
+
+
+[Drop 1664]
+ID=1664
+Mob=362
+Item=1181
+Rate=0.2
+
+
+[Drop 1665]
+ID=1665
+Mob=362
+Item=1177
+Rate=0.2
+
+
+[Drop 1666]
+ID=1666
+Mob=363
+Item=628
+Rate=0.2
+
+
+[Drop 1667]
+ID=1667
+Mob=363
+Item=629
+Rate=0.2
+
+
+[Drop 1668]
+ID=1668
+Mob=363
+Item=630
+Rate=0.2
+
+
+[Drop 1669]
+ID=1669
+Mob=363
+Item=630
+Rate=0.2
+
+
+[Drop 1670]
+ID=1670
+Mob=363
+Item=878
+Rate=0.2
+
+
+[Drop 1671]
+ID=1671
+Mob=363
+Item=1175
+Rate=0.2
+
+
+[Drop 1672]
+ID=1672
+Mob=363
+Item=1179
+Rate=0.2
+
+
+[Drop 1673]
+ID=1673
+Mob=363
+Item=631
+Rate=0.2
+
+
+[Drop 1674]
+ID=1674
+Mob=363
+Item=632
+Rate=0.2
+
+
+[Drop 1675]
+ID=1675
+Mob=363
+Item=633
+Rate=0.2
+
+
+[Drop 1676]
+ID=1676
+Mob=363
+Item=879
+Rate=0.2
+
+
+[Drop 1677]
+ID=1677
+Mob=363
+Item=1176
+Rate=0.2
+
+
+[Drop 1678]
+ID=1678
+Mob=363
+Item=1180
+Rate=0.2
+
+
+[Drop 1679]
+ID=1679
+Mob=363
+Item=534
+Rate=0.2
+
+
+[Drop 1680]
+ID=1680
+Mob=363
+Item=541
+Rate=0.2
+
+
+[Drop 1681]
+ID=1681
+Mob=362
+Item=534
+Rate=0.2
+
+
+[Drop 1682]
+ID=1682
+Mob=362
+Item=541
+Rate=0.2
+
+
+[Drop 1683]
+ID=1683
+Mob=362
+Item=984
+Rate=0.2
+
+
+[Drop 1684]
+ID=1684
+Mob=362
+Item=985
+Rate=0.2
+
+
+[Drop 1685]
+ID=1685
+Mob=362
+Item=999
+Rate=0.2
+
+
+[Drop 1686]
+ID=1686
+Mob=362
+Item=997
+Rate=0.2
+
+
+[Drop 1687]
+ID=1687
+Mob=363
+Item=992
+Rate=0.2
+
+
+[Drop 1688]
+ID=1688
+Mob=363
+Item=991
+Rate=0.2
+
+
+[Drop 1689]
+ID=1689
+Mob=363
+Item=994
+Rate=0.2
+
+
+[Drop 1690]
+ID=1690
+Mob=363
+Item=995
+Rate=0.2
+
+
+[Drop 1691]
+ID=1691
+Mob=363
+Item=989
+Rate=0.2
+
+
+[Drop 1692]
+ID=1692
+Mob=363
+Item=989
+Rate=0.2
+
+
+[Drop 1693]
+ID=1693
+Mob=357
+Item=1966
+Rate=0.05
+
+
+[Drop 1694]
+ID=1694
+Mob=250
+Item=634
+Rate=0.21
+
+
+[Drop 1695]
+ID=1695
+Mob=250
+Item=635
+Rate=0.21
+
+
+[Drop 1696]
+ID=1696
+Mob=250
+Item=626
+Rate=0.21
+
+
+[Drop 1697]
+ID=1697
+Mob=250
+Item=877
+Rate=0.21
+
+
+[Drop 1698]
+ID=1698
+Mob=250
+Item=628
+Rate=0.21
+
+
+[Drop 1699]
+ID=1699
+Mob=250
+Item=629
+Rate=0.21
+
+
+[Drop 1700]
+ID=1700
+Mob=250
+Item=633
+Rate=0.21
+
+
+[Drop 1701]
+ID=1701
+Mob=250
+Item=879
+Rate=0.21
+
+
+[Drop 1702]
+ID=1702
+Mob=250
+Item=890
+Rate=0.21
+
+
+[Drop 1703]
+ID=1703
+Mob=250
+Item=891
+Rate=0.21
+
+
+[Drop 1704]
+ID=1704
+Mob=250
+Item=883
+Rate=0.21
+
+
+[Drop 1705]
+ID=1705
+Mob=250
+Item=896
+Rate=0.21
+
+
+[Drop 1706]
+ID=1706
+Mob=250
+Item=885
+Rate=0.21
+
+
+[Drop 1707]
+ID=1707
+Mob=250
+Item=886
+Rate=0.21
+
+
+[Drop 1708]
+ID=1708
+Mob=250
+Item=898
+Rate=0.21
+
+
+[Drop 1709]
+ID=1709
+Mob=250
+Item=887
+Rate=0.21
+
+
+[Drop 1710]
+ID=1710
+Mob=250
+Item=727
+Rate=0.21
+
+
+[Drop 1711]
+ID=1711
+Mob=250
+Item=728
+Rate=0.21
+
+
+[Drop 1712]
+ID=1712
+Mob=250
+Item=770
+Rate=0.21
+
+
+[Drop 1713]
+ID=1713
+Mob=250
+Item=771
+Rate=0.21
+
+
+[Drop 1714]
+ID=1714
+Mob=250
+Item=769
+Rate=0.21
+
+
+[Drop 1715]
+ID=1715
+Mob=250
+Item=772
+Rate=0.21
+
+
+[Drop 1716]
+ID=1716
+Mob=250
+Item=751
+Rate=0.21
+
+
+[Drop 1717]
+ID=1717
+Mob=250
+Item=750
+Rate=0.21
+
+
+[Drop 1718]
+ID=1718
+Mob=250
+Item=950
+Rate=0.21
+
+
+[Drop 1719]
+ID=1719
+Mob=250
+Item=951
+Rate=0.21
+
+
+[Drop 1720]
+ID=1720
+Mob=250
+Item=952
+Rate=0.21
+
+
+[Drop 1721]
+ID=1721
+Mob=250
+Item=954
+Rate=0.21
+
+
+[Drop 1722]
+ID=1722
+Mob=250
+Item=955
+Rate=0.21
+
+
+[Drop 1723]
+ID=1723
+Mob=397
+Item=634
+Rate=0.19
+
+
+[Drop 1724]
+ID=1724
+Mob=397
+Item=635
+Rate=0.19
+
+
+[Drop 1725]
+ID=1725
+Mob=397
+Item=626
+Rate=0.19
+
+
+[Drop 1726]
+ID=1726
+Mob=397
+Item=877
+Rate=0.19
+
+
+[Drop 1727]
+ID=1727
+Mob=397
+Item=1185
+Rate=0.05
+
+
+[Drop 1728]
+ID=1728
+Mob=397
+Item=882
+Rate=0.19
+
+
+[Drop 1729]
+ID=1729
+Mob=397
+Item=881
+Rate=0.19
+
+
+[Drop 1730]
+ID=1730
+Mob=397
+Item=1186
+Rate=0.04
+
+
+[Drop 1731]
+ID=1731
+Mob=397
+Item=1182
+Rate=0.04
+
+
+[Drop 1732]
+ID=1732
+Mob=397
+Item=1193
+Rate=0.01
+
+
+[Drop 1733]
+ID=1733
+Mob=397
+Item=1201
+Rate=0.01
+
+
+[Drop 1734]
+ID=1734
+Mob=397
+Item=1197
+Rate=0.01
+
+
+[Drop 1735]
+ID=1735
+Mob=397
+Item=1205
+Rate=0.01
+
+
+[Drop 1736]
+ID=1736
+Mob=397
+Item=1213
+Rate=0.01
+
+
+[Drop 1737]
+ID=1737
+Mob=397
+Item=1209
+Rate=0.01
+
+
+[Drop 1738]
+ID=1738
+Mob=397
+Item=1226
+Rate=0.011
+
+
+[Drop 1739]
+ID=1739
+Mob=397
+Item=1222
+Rate=0.011
+
+
+[Drop 1740]
+ID=1740
+Mob=397
+Item=1210
+Rate=0.011
+
+
+[Drop 1741]
+ID=1741
+Mob=397
+Item=1198
+Rate=0.011
+
+
+[Drop 1742]
+ID=1742
+Mob=397
+Item=1194
+Rate=0.011
+
+
+[Drop 1743]
+ID=1743
+Mob=333
+Item=1454
+Rate=0.5
+
+
+[Drop 1744]
+ID=1744
+Mob=333
+Item=1966
+Rate=0.5
+
+
+[Drop 1745]
+ID=1745
+Mob=333
+Item=1967
+Rate=0.5
+
+
+[Drop 1746]
+ID=1746
+Mob=406
+Item=636
+Rate=0.19
+
+
+[Drop 1747]
+ID=1747
+Mob=406
+Item=634
+Rate=0.19
+
+
+[Drop 1748]
+ID=1748
+Mob=406
+Item=624
+Rate=0.19
+
+
+[Drop 1749]
+ID=1749
+Mob=406
+Item=626
+Rate=0.19
+
+
+[Drop 1750]
+ID=1750
+Mob=406
+Item=628
+Rate=0.19
+
+
+[Drop 1751]
+ID=1751
+Mob=406
+Item=629
+Rate=0.19
+
+
+[Drop 1752]
+ID=1752
+Mob=406
+Item=633
+Rate=0.19
+
+
+[Drop 1753]
+ID=1753
+Mob=406
+Item=633
+Rate=0.19
+
+
+[Drop 1754]
+ID=1754
+Mob=406
+Item=879
+Rate=0.19
+
+
+[Drop 1755]
+ID=1755
+Mob=406
+Item=899
+Rate=0.19
+
+
+[Drop 1756]
+ID=1756
+Mob=406
+Item=890
+Rate=0.19
+
+
+[Drop 1757]
+ID=1757
+Mob=406
+Item=891
+Rate=0.19
+
+
+[Drop 1758]
+ID=1758
+Mob=406
+Item=883
+Rate=0.19
+
+
+[Drop 1759]
+ID=1759
+Mob=406
+Item=896
+Rate=0.19
+
+
+[Drop 1760]
+ID=1760
+Mob=406
+Item=883
+Rate=0.19
+
+
+[Drop 1761]
+ID=1761
+Mob=406
+Item=885
+Rate=0.19
+
+
+[Drop 1762]
+ID=1762
+Mob=406
+Item=886
+Rate=0.19
+
+
+[Drop 1763]
+ID=1763
+Mob=406
+Item=888
+Rate=0.19
+
+
+[Drop 1764]
+ID=1764
+Mob=406
+Item=887
+Rate=0.19
+
+
+[Drop 1765]
+ID=1765
+Mob=406
+Item=898
+Rate=0.19
+
+
+[Drop 1766]
+ID=1766
+Mob=406
+Item=1213
+Rate=0.02
+
+
+[Drop 1767]
+ID=1767
+Mob=406
+Item=1217
+Rate=0.02
+
+
+[Drop 1768]
+ID=1768
+Mob=406
+Item=1197
+Rate=0.02
+
+
+[Drop 1769]
+ID=1769
+Mob=406
+Item=1218
+Rate=0.02
+
+
+[Drop 1770]
+ID=1770
+Mob=406
+Item=1198
+Rate=0.02
+
+
+[Drop 1771]
+ID=1771
+Mob=406
+Item=1226
+Rate=0.02
+
+
+[Drop 1772]
+ID=1772
+Mob=406
+Item=1190
+Rate=0.02
+
+
+[Drop 1773]
+ID=1773
+Mob=406
+Item=1214
+Rate=0.02
+
+
+[Drop 1774]
+ID=1774
+Mob=406
+Item=1227
+Rate=0.02
+
+
+[Drop 1775]
+ID=1775
+Mob=406
+Item=1227
+Rate=0.02
+
+
+[Drop 1776]
+ID=1776
+Mob=406
+Item=1199
+Rate=0.02
+
+
+[Drop 1777]
+ID=1777
+Mob=406
+Item=1203
+Rate=0.02
+
+
+[Drop 1778]
+ID=1778
+Mob=406
+Item=1207
+Rate=0.02
+
+
+[Drop 1779]
+ID=1779
+Mob=406
+Item=1192
+Rate=0.02
+
+
+[Drop 1780]
+ID=1780
+Mob=406
+Item=1200
+Rate=0.02
+
+
+[Drop 1781]
+ID=1781
+Mob=406
+Item=1208
+Rate=0.02
+
+
+[Drop 1782]
+ID=1782
+Mob=406
+Item=1220
+Rate=0.02
+
+
+[Drop 1783]
+ID=1783
+Mob=406
+Item=1228
+Rate=0.02
+
+
+[Drop 1784]
+ID=1784
+Mob=417
+Item=1907
+Rate=0.99
+
+
+[Drop 1785]
+ID=1785
+Mob=417
+Item=1908
+Rate=0.99
+
+
+[Drop 1786]
+ID=1786
+Mob=417
+Item=1909
+Rate=0.99
+
+
+[Drop 1787]
+ID=1787
+Mob=417
+Item=1910
+Rate=0.99
+
+
+[Drop 1788]
+ID=1788
+Mob=409
+Item=636
+Rate=0.21
+
+
+[Drop 1789]
+ID=1789
+Mob=409
+Item=636
+Rate=0.21
+
+
+[Drop 1790]
+ID=1790
+Mob=409
+Item=626
+Rate=0.21
+
+
+[Drop 1791]
+ID=1791
+Mob=409
+Item=877
+Rate=0.21
+
+
+[Drop 1792]
+ID=1792
+Mob=409
+Item=624
+Rate=0.21
+
+
+[Drop 1793]
+ID=1793
+Mob=409
+Item=629
+Rate=0.21
+
+
+[Drop 1794]
+ID=1794
+Mob=409
+Item=878
+Rate=0.21
+
+
+[Drop 1795]
+ID=1795
+Mob=409
+Item=1179
+Rate=0.21
+
+
+[Drop 1796]
+ID=1796
+Mob=409
+Item=631
+Rate=0.21
+
+
+[Drop 1797]
+ID=1797
+Mob=409
+Item=632
+Rate=0.21
+
+
+[Drop 1798]
+ID=1798
+Mob=409
+Item=1176
+Rate=0.21
+
+
+[Drop 1799]
+ID=1799
+Mob=409
+Item=892
+Rate=0.21
+
+
+[Drop 1800]
+ID=1800
+Mob=409
+Item=1185
+Rate=0.21
+
+
+[Drop 1801]
+ID=1801
+Mob=409
+Item=899
+Rate=0.21
+
+
+[Drop 1802]
+ID=1802
+Mob=409
+Item=881
+Rate=0.21
+
+
+[Drop 1803]
+ID=1803
+Mob=409
+Item=882
+Rate=0.21
+
+
+[Drop 1804]
+ID=1804
+Mob=409
+Item=886
+Rate=0.21
+
+
+[Drop 1805]
+ID=1805
+Mob=409
+Item=897
+Rate=0.21
+
+
+[Drop 1806]
+ID=1806
+Mob=409
+Item=887
+Rate=0.21
+
+
+[Drop 1807]
+ID=1807
+Mob=409
+Item=888
+Rate=0.21
+
+
+[Drop 1808]
+ID=1808
+Mob=409
+Item=1184
+Rate=0.21
+
+
+[Drop 1809]
+ID=1809
+Mob=409
+Item=641
+Rate=0.21
+
+
+[Drop 1810]
+ID=1810
+Mob=409
+Item=642
+Rate=0.21
+
+
+[Drop 1811]
+ID=1811
+Mob=409
+Item=643
+Rate=0.21
+
+
+[Drop 1812]
+ID=1812
+Mob=409
+Item=644
+Rate=0.21
+
+
+[Drop 1813]
+ID=1813
+Mob=409
+Item=930
+Rate=0.21
+
+
+[Drop 1814]
+ID=1814
+Mob=409
+Item=1146
+Rate=0.21
+
+
+[Drop 1815]
+ID=1815
+Mob=409
+Item=1151
+Rate=0.21
+
+
+[Drop 1816]
+ID=1816
+Mob=410
+Item=634
+Rate=0.19
+
+
+[Drop 1817]
+ID=1817
+Mob=410
+Item=635
+Rate=0.19
+
+
+[Drop 1818]
+ID=1818
+Mob=410
+Item=877
+Rate=0.19
+
+
+[Drop 1819]
+ID=1819
+Mob=410
+Item=626
+Rate=0.19
+
+
+[Drop 1820]
+ID=1820
+Mob=410
+Item=630
+Rate=0.19
+
+
+[Drop 1821]
+ID=1821
+Mob=410
+Item=878
+Rate=0.19
+
+
+[Drop 1822]
+ID=1822
+Mob=410
+Item=631
+Rate=0.19
+
+
+[Drop 1823]
+ID=1823
+Mob=410
+Item=632
+Rate=0.19
+
+
+[Drop 1824]
+ID=1824
+Mob=410
+Item=890
+Rate=0.15
+
+
+[Drop 1825]
+ID=1825
+Mob=410
+Item=891
+Rate=0.15
+
+
+[Drop 1826]
+ID=1826
+Mob=410
+Item=882
+Rate=0.19
+
+
+[Drop 1827]
+ID=1827
+Mob=410
+Item=883
+Rate=0.19
+
+
+[Drop 1828]
+ID=1828
+Mob=410
+Item=1186
+Rate=0.02
+
+
+[Drop 1829]
+ID=1829
+Mob=410
+Item=886
+Rate=0.19
+
+
+[Drop 1830]
+ID=1830
+Mob=410
+Item=897
+Rate=0.15
+
+
+[Drop 1831]
+ID=1831
+Mob=410
+Item=1187
+Rate=0.02
+
+
+[Drop 1832]
+ID=1832
+Mob=410
+Item=898
+Rate=0.15
+
+
+[Drop 1833]
+ID=1833
+Mob=410
+Item=1184
+Rate=0.02
+
+
+[Drop 1834]
+ID=1834
+Mob=410
+Item=887
+Rate=0.19
+
+
+[Drop 1835]
+ID=1835
+Mob=410
+Item=1229
+Rate=0.02
+
+
+[Drop 1836]
+ID=1836
+Mob=410
+Item=1217
+Rate=0.02
+
+
+[Drop 1837]
+ID=1837
+Mob=410
+Item=1209
+Rate=0.02
+
+
+[Drop 1838]
+ID=1838
+Mob=410
+Item=1201
+Rate=0.02
+
+
+[Drop 1839]
+ID=1839
+Mob=410
+Item=1193
+Rate=0.02
+
+
+[Drop 1840]
+ID=1840
+Mob=410
+Item=1194
+Rate=0.02
+
+
+[Drop 1841]
+ID=1841
+Mob=410
+Item=1202
+Rate=0.02
+
+
+[Drop 1842]
+ID=1842
+Mob=410
+Item=1210
+Rate=0.02
+
+
+[Drop 1843]
+ID=1843
+Mob=410
+Item=1218
+Rate=0.02
+
+
+[Drop 1844]
+ID=1844
+Mob=410
+Item=1226
+Rate=0.02
+
+
+[Drop 1845]
+ID=1845
+Mob=410
+Item=1227
+Rate=0.02
+
+
+[Drop 1846]
+ID=1846
+Mob=410
+Item=1223
+Rate=0.02
+
+
+[Drop 1847]
+ID=1847
+Mob=410
+Item=1219
+Rate=0.02
+
+
+[Drop 1848]
+ID=1848
+Mob=410
+Item=1215
+Rate=0.02
+
+
+[Drop 1849]
+ID=1849
+Mob=410
+Item=1211
+Rate=0.02
+
+
+[Drop 1850]
+ID=1850
+Mob=410
+Item=1207
+Rate=0.02
+
+
+[Drop 1851]
+ID=1851
+Mob=410
+Item=1203
+Rate=0.02
+
+
+[Drop 1852]
+ID=1852
+Mob=410
+Item=1199
+Rate=0.02
+
+
+[Drop 1853]
+ID=1853
+Mob=410
+Item=1191
+Rate=0.02
+
+
+[Drop 1854]
+ID=1854
+Mob=410
+Item=1195
+Rate=0.02
+
+
+[Drop 1855]
+ID=1855
+Mob=410
+Item=1192
+Rate=0.02
+
+
+[Drop 1856]
+ID=1856
+Mob=410
+Item=1196
+Rate=0.02
+
+
+[Drop 1857]
+ID=1857
+Mob=410
+Item=1200
+Rate=0.02
+
+
+[Drop 1858]
+ID=1858
+Mob=410
+Item=1204
+Rate=0.02
+
+
+[Drop 1859]
+ID=1859
+Mob=410
+Item=1208
+Rate=0.02
+
+
+[Drop 1860]
+ID=1860
+Mob=410
+Item=1212
+Rate=0.02
+
+
+[Drop 1861]
+ID=1861
+Mob=410
+Item=1220
+Rate=0.02
+
+
+[Drop 1862]
+ID=1862
+Mob=410
+Item=1216
+Rate=0.02
+
+
+[Drop 1863]
+ID=1863
+Mob=410
+Item=1220
+Rate=0.02
+
+
+[Drop 1864]
+ID=1864
+Mob=410
+Item=1228
+Rate=0.02
+
+
+[Drop 1865]
+ID=1865
+Mob=410
+Item=1224
+Rate=0.02
+
+
+[Drop 1866]
+ID=1866
+Mob=410
+Item=641
+Rate=0.19
+
+
+[Drop 1867]
+ID=1867
+Mob=410
+Item=642
+Rate=0.19
+
+
+[Drop 1868]
+ID=1868
+Mob=410
+Item=643
+Rate=0.19
+
+
+[Drop 1869]
+ID=1869
+Mob=410
+Item=644
+Rate=0.19
+
+
+[Drop 1870]
+ID=1870
+Mob=410
+Item=930
+Rate=0.15
+
+
+[Drop 1871]
+ID=1871
+Mob=410
+Item=1146
+Rate=0.15
+
+
+[Drop 1872]
+ID=1872
+Mob=410
+Item=1151
+Rate=0.15
+
+
+[Drop 1873]
+ID=1873
+Mob=391
+Item=636
+Rate=0.2
+
+
+[Drop 1874]
+ID=1874
+Mob=391
+Item=880
+Rate=0.2
+
+
+[Drop 1875]
+ID=1875
+Mob=391
+Item=634
+Rate=0.2
+
+
+[Drop 1876]
+ID=1876
+Mob=391
+Item=877
+Rate=0.21
+
+
+[Drop 1877]
+ID=1877
+Mob=391
+Item=1178
+Rate=0.05
+
+
+[Drop 1878]
+ID=1878
+Mob=391
+Item=626
+Rate=0.21
+
+
+[Drop 1879]
+ID=1879
+Mob=391
+Item=878
+Rate=0.22
+
+
+[Drop 1880]
+ID=1880
+Mob=391
+Item=629
+Rate=0.22
+
+
+[Drop 1881]
+ID=1881
+Mob=391
+Item=630
+Rate=0.22
+
+
+[Drop 1882]
+ID=1882
+Mob=391
+Item=631
+Rate=0.23
+
+
+[Drop 1883]
+ID=1883
+Mob=391
+Item=632
+Rate=0.23
+
+
+[Drop 1884]
+ID=1884
+Mob=391
+Item=1180
+Rate=0.05
+
+
+[Drop 1885]
+ID=1885
+Mob=391
+Item=633
+Rate=0.23
+
+
+[Drop 1886]
+ID=1886
+Mob=391
+Item=890
+Rate=0.11
+
+
+[Drop 1887]
+ID=1887
+Mob=391
+Item=891
+Rate=0.11
+
+
+[Drop 1888]
+ID=1888
+Mob=391
+Item=1185
+Rate=0.05
+
+
+[Drop 1889]
+ID=1889
+Mob=391
+Item=881
+Rate=0.11
+
+
+[Drop 1890]
+ID=1890
+Mob=391
+Item=1186
+Rate=0.05
+
+
+[Drop 1891]
+ID=1891
+Mob=391
+Item=896
+Rate=0.11
+
+
+[Drop 1892]
+ID=1892
+Mob=391
+Item=882
+Rate=0.11
+
+
+[Drop 1893]
+ID=1893
+Mob=391
+Item=887
+Rate=0.11
+
+
+[Drop 1894]
+ID=1894
+Mob=391
+Item=889
+Rate=0.11
+
+
+[Drop 1895]
+ID=1895
+Mob=391
+Item=1184
+Rate=0.05
+
+
+[Drop 1896]
+ID=1896
+Mob=391
+Item=1201
+Rate=0.05
+
+
+[Drop 1897]
+ID=1897
+Mob=391
+Item=1193
+Rate=0.05
+
+
+[Drop 1898]
+ID=1898
+Mob=391
+Item=1213
+Rate=0.05
+
+
+[Drop 1899]
+ID=1899
+Mob=391
+Item=1209
+Rate=0.05
+
+
+[Drop 1900]
+ID=1900
+Mob=391
+Item=1229
+Rate=0.05
+
+
+[Drop 1901]
+ID=1901
+Mob=391
+Item=1190
+Rate=0.05
+
+
+[Drop 1902]
+ID=1902
+Mob=391
+Item=1206
+Rate=0.05
+
+
+[Drop 1903]
+ID=1903
+Mob=391
+Item=1210
+Rate=0.05
+
+
+[Drop 1904]
+ID=1904
+Mob=391
+Item=1214
+Rate=0.05
+
+
+[Drop 1905]
+ID=1905
+Mob=391
+Item=1218
+Rate=0.05
+
+
+[Drop 1906]
+ID=1906
+Mob=391
+Item=1207
+Rate=0.05
+
+
+[Drop 1907]
+ID=1907
+Mob=391
+Item=1211
+Rate=0.05
+
+
+[Drop 1908]
+ID=1908
+Mob=391
+Item=1223
+Rate=0.05
+
+
+[Drop 1909]
+ID=1909
+Mob=391
+Item=1227
+Rate=0.05
+
+
+[Drop 1910]
+ID=1910
+Mob=391
+Item=1219
+Rate=0.05
+
+
+[Drop 1911]
+ID=1911
+Mob=391
+Item=1192
+Rate=0.05
+
+
+[Drop 1912]
+ID=1912
+Mob=391
+Item=1200
+Rate=0.05
+
+
+[Drop 1913]
+ID=1913
+Mob=391
+Item=1208
+Rate=0.05
+
+
+[Drop 1914]
+ID=1914
+Mob=391
+Item=1216
+Rate=0.05
+
+
+[Drop 1915]
+ID=1915
+Mob=391
+Item=1224
+Rate=0.05
+
+
+[Drop 1916]
+ID=1916
+Mob=391
+Item=641
+Rate=0.15
+
+
+[Drop 1917]
+ID=1917
+Mob=391
+Item=642
+Rate=0.15
+
+
+[Drop 1918]
+ID=1918
+Mob=391
+Item=643
+Rate=0.15
+
+
+[Drop 1919]
+ID=1919
+Mob=391
+Item=644
+Rate=0.15
+
+
+[Drop 1920]
+ID=1920
+Mob=391
+Item=930
+Rate=0.11
+
+
+[Drop 1921]
+ID=1921
+Mob=391
+Item=1146
+Rate=0.05
+
+
+[Drop 1922]
+ID=1922
+Mob=391
+Item=1151
+Rate=0.05
+
+
+[Drop 1923]
+ID=1923
+Mob=391
+Item=1062
+Rate=0.05
+
+
+[Drop 1924]
+ID=1924
+Mob=391
+Item=1063
+Rate=0.05
+
+
+[Drop 1925]
+ID=1925
+Mob=391
+Item=1064
+Rate=0.05
+
+
+[Drop 1926]
+ID=1926
+Mob=391
+Item=1065
+Rate=0.05
+
+
+[Drop 1927]
+ID=1927
+Mob=391
+Item=1066
+Rate=0.05
+
+
+[Drop 1928]
+ID=1928
+Mob=391
+Item=1147
+Rate=0.05
+
+
+[Drop 1929]
+ID=1929
+Mob=391
+Item=1152
+Rate=0.05
+
+
+[Drop 1930]
+ID=1930
+Mob=442
+Item=1067
+Rate=0.02
+
+
+[Drop 1931]
+ID=1931
+Mob=443
+Item=1067
+Rate=0.02
+
+
+[Drop 1932]
+ID=1932
+Mob=436
+Item=221
+Rate=0.02
+
+
+[Drop 1933]
+ID=1933
+Mob=436
+Item=221
+Rate=0.02
+
+
+[Drop 1934]
+ID=1934
+Mob=413
+Item=1067
+Rate=0.01
+
+
+[Drop 1935]
+ID=1935
+Mob=415
+Item=1067
+Rate=0.01
+
+
+[Drop 1936]
+ID=1936
+Mob=358
+Item=0
+Rate=0.03
+
+
+[Drop 1937]
+ID=1937
+Mob=122
+Item=0
+Rate=0.01
+
+
+[Drop 1938]
+ID=1938
+Mob=132
+Item=978
+Rate=0.2
+
+
+[Drop 1939]
+ID=1939
+Mob=416
+Item=0
+Rate=0.3
+
+
+[Drop 1940]
+ID=1940
+Mob=414
+Item=890
+Rate=0.227
+
+
+[Drop 1941]
+ID=1941
+Mob=414
+Item=891
+Rate=0.227
+
+
+[Drop 1942]
+ID=1942
+Mob=414
+Item=892
+Rate=0.227
+
+
+[Drop 1943]
+ID=1943
+Mob=414
+Item=899
+Rate=0.14
+
+
+[Drop 1944]
+ID=1944
+Mob=414
+Item=1185
+Rate=0.03
+
+
+[Drop 1945]
+ID=1945
+Mob=414
+Item=1189
+Rate=0.03
+
+
+[Drop 1946]
+ID=1946
+Mob=414
+Item=881
+Rate=0.227
+
+
+[Drop 1947]
+ID=1947
+Mob=414
+Item=882
+Rate=0.227
+
+
+[Drop 1948]
+ID=1948
+Mob=414
+Item=883
+Rate=0.227
+
+
+[Drop 1949]
+ID=1949
+Mob=414
+Item=896
+Rate=0.14
+
+
+[Drop 1950]
+ID=1950
+Mob=414
+Item=896
+Rate=0.14
+
+
+[Drop 1951]
+ID=1951
+Mob=414
+Item=1182
+Rate=0.03
+
+
+[Drop 1952]
+ID=1952
+Mob=414
+Item=1186
+Rate=0.03
+
+
+[Drop 1953]
+ID=1953
+Mob=414
+Item=884
+Rate=0.227
+
+
+[Drop 1954]
+ID=1954
+Mob=414
+Item=885
+Rate=0.227
+
+
+[Drop 1955]
+ID=1955
+Mob=414
+Item=897
+Rate=0.14
+
+
+[Drop 1956]
+ID=1956
+Mob=414
+Item=886
+Rate=0.227
+
+
+[Drop 1957]
+ID=1957
+Mob=414
+Item=1187
+Rate=0.03
+
+
+[Drop 1958]
+ID=1958
+Mob=414
+Item=1183
+Rate=0.03
+
+
+[Drop 1959]
+ID=1959
+Mob=414
+Item=887
+Rate=0.227
+
+
+[Drop 1960]
+ID=1960
+Mob=414
+Item=888
+Rate=0.227
+
+
+[Drop 1961]
+ID=1961
+Mob=414
+Item=1184
+Rate=0.03
+
+
+[Drop 1962]
+ID=1962
+Mob=414
+Item=1188
+Rate=0.03
+
+
+[Drop 1963]
+ID=1963
+Mob=414
+Item=888
+Rate=0.227
+
+
+[Drop 1964]
+ID=1964
+Mob=414
+Item=1193
+Rate=0.03
+
+
+[Drop 1965]
+ID=1965
+Mob=414
+Item=1201
+Rate=0.03
+
+
+[Drop 1966]
+ID=1966
+Mob=414
+Item=1209
+Rate=0.03
+
+
+[Drop 1967]
+ID=1967
+Mob=414
+Item=1217
+Rate=0.03
+
+
+[Drop 1968]
+ID=1968
+Mob=414
+Item=1225
+Rate=0.03
+
+
+[Drop 1969]
+ID=1969
+Mob=414
+Item=1197
+Rate=0.03
+
+
+[Drop 1970]
+ID=1970
+Mob=414
+Item=1205
+Rate=0.03
+
+
+[Drop 1971]
+ID=1971
+Mob=414
+Item=1213
+Rate=0.03
+
+
+[Drop 1972]
+ID=1972
+Mob=414
+Item=1221
+Rate=0.03
+
+
+[Drop 1973]
+ID=1973
+Mob=414
+Item=1229
+Rate=0.03
+
+
+[Drop 1974]
+ID=1974
+Mob=414
+Item=1190
+Rate=0.03
+
+
+[Drop 1975]
+ID=1975
+Mob=414
+Item=1198
+Rate=0.03
+
+
+[Drop 1976]
+ID=1976
+Mob=414
+Item=1206
+Rate=0.03
+
+
+[Drop 1977]
+ID=1977
+Mob=414
+Item=1214
+Rate=0.03
+
+
+[Drop 1978]
+ID=1978
+Mob=414
+Item=1222
+Rate=0.03
+
+
+[Drop 1979]
+ID=1979
+Mob=414
+Item=1194
+Rate=0.03
+
+
+[Drop 1980]
+ID=1980
+Mob=414
+Item=1202
+Rate=0.03
+
+
+[Drop 1981]
+ID=1981
+Mob=414
+Item=1210
+Rate=0.03
+
+
+[Drop 1982]
+ID=1982
+Mob=414
+Item=1218
+Rate=0.03
+
+
+[Drop 1983]
+ID=1983
+Mob=414
+Item=1226
+Rate=0.03
+
+
+[Drop 1984]
+ID=1984
+Mob=414
+Item=1191
+Rate=0.03
+
+
+[Drop 1985]
+ID=1985
+Mob=414
+Item=1199
+Rate=0.03
+
+
+[Drop 1986]
+ID=1986
+Mob=414
+Item=1207
+Rate=0.03
+
+
+[Drop 1987]
+ID=1987
+Mob=414
+Item=1215
+Rate=0.03
+
+
+[Drop 1988]
+ID=1988
+Mob=414
+Item=1223
+Rate=0.03
+
+
+[Drop 1989]
+ID=1989
+Mob=414
+Item=1195
+Rate=0.03
+
+
+[Drop 1990]
+ID=1990
+Mob=414
+Item=1203
+Rate=0.03
+
+
+[Drop 1991]
+ID=1991
+Mob=414
+Item=1211
+Rate=0.03
+
+
+[Drop 1992]
+ID=1992
+Mob=414
+Item=1219
+Rate=0.03
+
+
+[Drop 1993]
+ID=1993
+Mob=414
+Item=1227
+Rate=0.03
+
+
+[Drop 1994]
+ID=1994
+Mob=414
+Item=1192
+Rate=0.03
+
+
+[Drop 1995]
+ID=1995
+Mob=414
+Item=1200
+Rate=0.03
+
+
+[Drop 1996]
+ID=1996
+Mob=414
+Item=1208
+Rate=0.03
+
+
+[Drop 1997]
+ID=1997
+Mob=414
+Item=1216
+Rate=0.03
+
+
+[Drop 1998]
+ID=1998
+Mob=414
+Item=1224
+Rate=0.03
+
+
+[Drop 1999]
+ID=1999
+Mob=414
+Item=1196
+Rate=0.03
+
+
+[Drop 2000]
+ID=2000
+Mob=414
+Item=1204
+Rate=0.03
+
+
+[Drop 2001]
+ID=2001
+Mob=414
+Item=1212
+Rate=0.03
+
+
+[Drop 2002]
+ID=2002
+Mob=414
+Item=1220
+Rate=0.03
+
+
+[Drop 2003]
+ID=2003
+Mob=414
+Item=1228
+Rate=0.03
+
+
+[Drop 2004]
+ID=2004
+Mob=414
+Item=641
+Rate=0.227
+
+
+[Drop 2005]
+ID=2005
+Mob=414
+Item=642
+Rate=0.227
+
+
+[Drop 2006]
+ID=2006
+Mob=414
+Item=643
+Rate=0.227
+
+
+[Drop 2007]
+ID=2007
+Mob=414
+Item=644
+Rate=0.227
+
+
+[Drop 2008]
+ID=2008
+Mob=414
+Item=1146
+Rate=0.14
+
+
+[Drop 2009]
+ID=2009
+Mob=414
+Item=1151
+Rate=0.14
+
+
+[Drop 2010]
+ID=2010
+Mob=216
+Item=816
+Rate=0.001
+
+
+[Drop 2011]
+ID=2011
+Mob=386
+Item=892
+Rate=0.099
+
+
+[Drop 2012]
+ID=2012
+Mob=386
+Item=891
+Rate=0.099
+
+
+[Drop 2013]
+ID=2013
+Mob=386
+Item=890
+Rate=0.099
+
+
+[Drop 2014]
+ID=2014
+Mob=386
+Item=896
+Rate=0.099
+
+
+[Drop 2015]
+ID=2015
+Mob=386
+Item=1186
+Rate=0.01
+
+
+[Drop 2016]
+ID=2016
+Mob=386
+Item=884
+Rate=0.099
+
+
+[Drop 2017]
+ID=2017
+Mob=386
+Item=1187
+Rate=0.01
+
+
+[Drop 2018]
+ID=2018
+Mob=386
+Item=888
+Rate=0.099
+
+
+[Drop 2019]
+ID=2019
+Mob=386
+Item=898
+Rate=0.099
+
+
+[Drop 2020]
+ID=2020
+Mob=386
+Item=1229
+Rate=0.01
+
+
+[Drop 2021]
+ID=2021
+Mob=386
+Item=1197
+Rate=0.01
+
+
+[Drop 2022]
+ID=2022
+Mob=386
+Item=1205
+Rate=0.01
+
+
+[Drop 2023]
+ID=2023
+Mob=386
+Item=1198
+Rate=0.01
+
+
+[Drop 2024]
+ID=2024
+Mob=386
+Item=1206
+Rate=0.01
+
+
+[Drop 2025]
+ID=2025
+Mob=386
+Item=1214
+Rate=0.01
+
+
+[Drop 2026]
+ID=2026
+Mob=386
+Item=1227
+Rate=0.01
+
+
+[Drop 2027]
+ID=2027
+Mob=386
+Item=1199
+Rate=0.01
+
+
+[Drop 2028]
+ID=2028
+Mob=386
+Item=1191
+Rate=0.01
+
+
+[Drop 2029]
+ID=2029
+Mob=386
+Item=1215
+Rate=0.01
+
+
+[Drop 2030]
+ID=2030
+Mob=386
+Item=1204
+Rate=0.01
+
+
+[Drop 2031]
+ID=2031
+Mob=386
+Item=1216
+Rate=0.01
+
+
+[Drop 2032]
+ID=2032
+Mob=386
+Item=1208
+Rate=0.01
+
+
+[Drop 2033]
+ID=2033
+Mob=386
+Item=1204
+Rate=0.01
+
+
+[Drop 2034]
+ID=2034
+Mob=386
+Item=1224
+Rate=0.01
+
+
+[Drop 2035]
+ID=2035
+Mob=386
+Item=641
+Rate=0.099
+
+
+[Drop 2036]
+ID=2036
+Mob=386
+Item=642
+Rate=0.099
+
+
+[Drop 2037]
+ID=2037
+Mob=386
+Item=643
+Rate=0.099
+
+
+[Drop 2038]
+ID=2038
+Mob=386
+Item=644
+Rate=0.099
+
+
+[Drop 2039]
+ID=2039
+Mob=386
+Item=930
+Rate=0.099
+
+
+[Drop 2040]
+ID=2040
+Mob=386
+Item=1146
+Rate=0.099
+
+
+[Drop 2041]
+ID=2041
+Mob=386
+Item=1151
+Rate=0.099
+
+
+[Drop 2042]
+ID=2042
+Mob=464
+Item=1193
+Rate=0.9
+
+
+[Drop 2043]
+ID=2043
+Mob=464
+Item=1201
+Rate=0.9
+
+
+[Drop 2044]
+ID=2044
+Mob=464
+Item=1209
+Rate=0.9
+
+
+[Drop 2045]
+ID=2045
+Mob=464
+Item=1217
+Rate=0.9
+
+
+[Drop 2046]
+ID=2046
+Mob=464
+Item=1225
+Rate=0.9
+
+
+[Drop 2047]
+ID=2047
+Mob=464
+Item=1197
+Rate=0.8
+
+
+[Drop 2048]
+ID=2048
+Mob=464
+Item=1205
+Rate=0.8
+
+
+[Drop 2049]
+ID=2049
+Mob=464
+Item=1213
+Rate=0.8
+
+
+[Drop 2050]
+ID=2050
+Mob=464
+Item=1221
+Rate=0.8
+
+
+[Drop 2051]
+ID=2051
+Mob=464
+Item=1229
+Rate=0.8
+
+
+[Drop 2052]
+ID=2052
+Mob=464
+Item=1190
+Rate=0.85
+
+
+[Drop 2053]
+ID=2053
+Mob=464
+Item=1198
+Rate=0.85
+
+
+[Drop 2054]
+ID=2054
+Mob=464
+Item=1206
+Rate=0.85
+
+
+[Drop 2055]
+ID=2055
+Mob=464
+Item=1214
+Rate=0.85
+
+
+[Drop 2056]
+ID=2056
+Mob=464
+Item=1222
+Rate=0.85
+
+
+[Drop 2057]
+ID=2057
+Mob=464
+Item=1194
+Rate=0.75
+
+
+[Drop 2058]
+ID=2058
+Mob=464
+Item=1202
+Rate=0.75
+
+
+[Drop 2059]
+ID=2059
+Mob=387
+Item=0
+Rate=0.1
+
+
+[Drop 2060]
+ID=2060
+Mob=387
+Item=0
+Rate=0.1
+
+
+[Drop 2061]
+ID=2061
+Mob=416
+Item=1062
+Rate=0.2
+
+
+[Drop 2062]
+ID=2062
+Mob=416
+Item=1063
+Rate=0.2
+
+
+[Drop 2063]
+ID=2063
+Mob=416
+Item=1064
+Rate=0.2
+
+
+[Drop 2064]
+ID=2064
+Mob=416
+Item=1065
+Rate=0.2
+
+
+[Drop 2065]
+ID=2065
+Mob=416
+Item=1066
+Rate=0.2
+
+
+[Drop 2066]
+ID=2066
+Mob=416
+Item=1966
+Rate=0.6
+
+
+[Drop 2067]
+ID=2067
+Mob=438
+Item=1067
+Rate=0.8
+
+
+[Drop 2068]
+ID=2068
+Mob=438
+Item=774
+Rate=0.2
+
+
+[Drop 2069]
+ID=2069
+Mob=438
+Item=775
+Rate=0.2
+
+
+[Drop 2070]
+ID=2070
+Mob=438
+Item=728
+Rate=0.2
+
+
+[Drop 2071]
+ID=2071
+Mob=438
+Item=729
+Rate=0.2
+
+
+[Drop 2072]
+ID=2072
+Mob=438
+Item=730
+Rate=0.2
+
+
+[Drop 2073]
+ID=2073
+Mob=438
+Item=805
+Rate=0.2
+
+
+[Drop 2074]
+ID=2074
+Mob=438
+Item=806
+Rate=0.2
+
+
+[Drop 2075]
+ID=2075
+Mob=438
+Item=756
+Rate=0.2
+
+
+[Drop 2076]
+ID=2076
+Mob=438
+Item=753
+Rate=0.2
+
+
+[Drop 2077]
+ID=2077
+Mob=438
+Item=754
+Rate=0.2
+
+
+[Drop 2078]
+ID=2078
+Mob=438
+Item=751
+Rate=0.2
+
+
+[Drop 2079]
+ID=2079
+Mob=438
+Item=752
+Rate=0.2
+
+
+[Drop 2080]
+ID=2080
+Mob=438
+Item=750
+Rate=0.2
+
+
+[Drop 2081]
+ID=2081
+Mob=437
+Item=1067
+Rate=0.02
+
+
+[Drop 2082]
+ID=2082
+Mob=437
+Item=221
+Rate=0.02
+
+
+[Drop 2083]
+ID=2083
+Mob=498
+Item=1817
+Rate=0.01
+
+
+[Drop 2084]
+ID=2084
+Mob=499
+Item=1818
+Rate=0.01
+
+
+[Drop 2085]
+ID=2085
+Mob=500
+Item=1819
+Rate=0.01
+
+
+[Drop 2086]
+ID=2086
+Mob=501
+Item=1820
+Rate=0.01
+
+
+[Drop 2087]
+ID=2087
+Mob=249
+Item=728
+Rate=0.31
+
+
+[Drop 2088]
+ID=2088
+Mob=249
+Item=746
+Rate=0.31
+
+
+[Drop 2089]
+ID=2089
+Mob=249
+Item=747
+Rate=0.31
+
+
+[Drop 2090]
+ID=2090
+Mob=249
+Item=749
+Rate=0.31
+
+
+[Drop 2091]
+ID=2091
+Mob=249
+Item=750
+Rate=0.31
+
+
+[Drop 2092]
+ID=2092
+Mob=249
+Item=751
+Rate=0.31
+
+
+[Drop 2093]
+ID=2093
+Mob=249
+Item=753
+Rate=0.31
+
+
+[Drop 2094]
+ID=2094
+Mob=249
+Item=947
+Rate=0.31
+
+
+[Drop 2095]
+ID=2095
+Mob=249
+Item=948
+Rate=0.31
+
+
+[Drop 2096]
+ID=2096
+Mob=249
+Item=950
+Rate=0.31
+
+
+[Drop 2097]
+ID=2097
+Mob=249
+Item=951
+Rate=0.31
+
+
+[Drop 2098]
+ID=2098
+Mob=249
+Item=953
+Rate=0.31
+
+
+[Drop 2099]
+ID=2099
+Mob=249
+Item=955
+Rate=0.31
+
+
+[Drop 2100]
+ID=2100
+Mob=249
+Item=954
+Rate=0.31
+
+
+[Drop 2101]
+ID=2101
+Mob=249
+Item=770
+Rate=0.31
+
+
+[Drop 2102]
+ID=2102
+Mob=249
+Item=771
+Rate=0.31
+
+
+[Drop 2103]
+ID=2103
+Mob=249
+Item=772
+Rate=0.31
+
+
+[Drop 2104]
+ID=2104
+Mob=220
+Item=0
+Rate=0.1
+
+
+[Drop 2105]
+ID=2105
+Mob=220
+Item=948
+Rate=0.11
+
+
+[Drop 2106]
+ID=2106
+Mob=220
+Item=947
+Rate=0.11
+
+
+[Drop 2107]
+ID=2107
+Mob=88
+Item=525
+Rate=0.1
+
+
+[Drop 2108]
+ID=2108
+Mob=88
+Item=532
+Rate=0.15
+
+
+[Drop 2109]
+ID=2109
+Mob=88
+Item=539
+Rate=0.19
+
+
+[Drop 2110]
+ID=2110
+Mob=88
+Item=259
+Rate=0.2
+
+
+[Drop 2111]
+ID=2111
+Mob=88
+Item=254
+Rate=0.2
+
+
+[Drop 2112]
+ID=2112
+Mob=88
+Item=481
+Rate=0.2
+
+
+[Drop 2113]
+ID=2113
+Mob=88
+Item=860
+Rate=0.2
+
+
+[Drop 2114]
+ID=2114
+Mob=88
+Item=295
+Rate=0.2
+
+
+[Drop 2115]
+ID=2115
+Mob=88
+Item=475
+Rate=0.2
+
+
+[Drop 2116]
+ID=2116
+Mob=88
+Item=410
+Rate=0.2
+
+
+[Drop 2117]
+ID=2117
+Mob=88
+Item=480
+Rate=0.2
+
+
+[Drop 2118]
+ID=2118
+Mob=88
+Item=296
+Rate=0.2
+
+
+[Drop 2119]
+ID=2119
+Mob=59
+Item=305
+Rate=0.3
+
+
+[Drop 2120]
+ID=2120
+Mob=59
+Item=199
+Rate=0.3
+
+
+[Drop 2121]
+ID=2121
+Mob=119
+Item=548
+Rate=0.1
+
+
+[Drop 2122]
+ID=2122
+Mob=119
+Item=548
+Rate=0.1
+
+
+[Drop 2123]
+ID=2123
+Mob=119
+Item=320
+Rate=0.1
+
+
+[Drop 2124]
+ID=2124
+Mob=119
+Item=331
+Rate=0.1
+
+
+[Drop 2125]
+ID=2125
+Mob=119
+Item=424
+Rate=0.1
+
+
+[Drop 2126]
+ID=2126
+Mob=120
+Item=331
+Rate=0.1
+
+
+[Drop 2127]
+ID=2127
+Mob=120
+Item=363
+Rate=0.1
+
+
+[Drop 2128]
+ID=2128
+Mob=120
+Item=548
+Rate=0.1
+
+
+[Drop 2129]
+ID=2129
+Mob=120
+Item=251
+Rate=0.1
+
+
+[Drop 2130]
+ID=2130
+Mob=120
+Item=256
+Rate=0.1
+
+
+[Drop 2131]
+ID=2131
+Mob=120
+Item=257
+Rate=0.1
+
+
+[Drop 2132]
+ID=2132
+Mob=120
+Item=407
+Rate=0.1
+
+
+[Drop 2133]
+ID=2133
+Mob=123
+Item=316
+Rate=0.1
+
+
+[Drop 2134]
+ID=2134
+Mob=123
+Item=420
+Rate=0.1
+
+
+[Drop 2135]
+ID=2135
+Mob=123
+Item=360
+Rate=0.1
+
+
+[Drop 2136]
+ID=2136
+Mob=123
+Item=377
+Rate=0.1
+
+
+[Drop 2137]
+ID=2137
+Mob=123
+Item=408
+Rate=0.1
+
+
+[Drop 2138]
+ID=2138
+Mob=124
+Item=430
+Rate=0.2
+
+
+[Drop 2139]
+ID=2139
+Mob=124
+Item=377
+Rate=0.2
+
+
+[Drop 2140]
+ID=2140
+Mob=124
+Item=342
+Rate=0.2
+
+
+[Drop 2141]
+ID=2141
+Mob=124
+Item=332
+Rate=0.2
+
+
+[Drop 2142]
+ID=2142
+Mob=124
+Item=360
+Rate=0.2
+
+
+[Drop 2143]
+ID=2143
+Mob=124
+Item=425
+Rate=0.2
+
+
+[Drop 2144]
+ID=2144
+Mob=126
+Item=471
+Rate=0.0131
+
+
+[Drop 2145]
+ID=2145
+Mob=126
+Item=472
+Rate=0.0131
+
+
+[Drop 2146]
+ID=2146
+Mob=126
+Item=472
+Rate=0.0131
+
+
+[Drop 2147]
+ID=2147
+Mob=126
+Item=350
+Rate=0.131
+
+
+[Drop 2148]
+ID=2148
+Mob=353
+Item=1064
+Rate=0.05
+
+
+[Drop 2149]
+ID=2149
+Mob=353
+Item=1065
+Rate=0.05
+
+
+[Drop 2150]
+ID=2150
+Mob=353
+Item=1066
+Rate=0.05
+
+
+[Drop 2151]
+ID=2151
+Mob=354
+Item=1062
+Rate=0.05
+
+
+[Drop 2152]
+ID=2152
+Mob=354
+Item=1063
+Rate=0.05
+
+
+[Drop 2153]
+ID=2153
+Mob=354
+Item=1064
+Rate=0.05
+
+
+[Drop 2154]
+ID=2154
+Mob=354
+Item=1065
+Rate=0.05
+
+
+[Drop 2155]
+ID=2155
+Mob=354
+Item=1066
+Rate=0.05
+
+
+[Drop 2156]
+ID=2156
+Mob=355
+Item=1062
+Rate=0.05
+
+
+[Drop 2157]
+ID=2157
+Mob=355
+Item=1063
+Rate=0.05
+
+
+[Drop 2158]
+ID=2158
+Mob=355
+Item=1064
+Rate=0.05
+
+
+[Drop 2159]
+ID=2159
+Mob=355
+Item=1065
+Rate=0.05
+
+
+[Drop 2160]
+ID=2160
+Mob=355
+Item=1066
+Rate=0.05
+
+
+[Drop 2161]
+ID=2161
+Mob=356
+Item=1062
+Rate=0.05
+
+
+[Drop 2162]
+ID=2162
+Mob=356
+Item=1063
+Rate=0.05
+
+
+[Drop 2163]
+ID=2163
+Mob=356
+Item=1064
+Rate=0.05
+
+
+[Drop 2164]
+ID=2164
+Mob=356
+Item=1065
+Rate=0.05
+
+
+[Drop 2165]
+ID=2165
+Mob=356
+Item=1066
+Rate=0.05
+
+
+[Drop 2166]
+ID=2166
+Mob=296
+Item=978
+Rate=0.01
+
+
+[Drop 2167]
+ID=2167
+Mob=297
+Item=978
+Rate=0.01
+
+
+[Drop 2168]
+ID=2168
+Mob=299
+Item=978
+Rate=0.01
+
+
+[Drop 2169]
+ID=2169
+Mob=300
+Item=978
+Rate=0.01
+
+
+[Drop 2170]
+ID=2170
+Mob=302
+Item=978
+Rate=0.01
+
+
+[Drop 2171]
+ID=2171
+Mob=331
+Item=551
+Rate=0.7
+
+
+[Drop 2172]
+ID=2172
+Mob=331
+Item=552
+Rate=0.6
+
+
+[Drop 2173]
+ID=2173
+Mob=331
+Item=553
+Rate=0.5
+
+
+[Drop 2174]
+ID=2174
+Mob=222
+Item=553
+Rate=0.1
+
+
+[Drop 2175]
+ID=2175
+Mob=223
+Item=553
+Rate=0.1
+
+
+[Drop 2176]
+ID=2176
+Mob=249
+Item=774
+Rate=0.31
+
+
+[Drop 2177]
+ID=2177
+Mob=249
+Item=754
+Rate=0.31
+
+
+[Drop 2178]
+ID=2178
+Mob=249
+Item=729
+Rate=0.31
+
+
+[Drop 2179]
+ID=2179
+Mob=249
+Item=728
+Rate=0.31
+
+
+[Drop 2180]
+ID=2180
+Mob=249
+Item=752
+Rate=0.31
+
+
+[Drop 2181]
+ID=2181
+Mob=249
+Item=753
+Rate=0.31
+
+
+[Drop 2182]
+ID=2182
+Mob=249
+Item=751
+Rate=0.31
+
+
+[Drop 2183]
+ID=2183
+Mob=249
+Item=751
+Rate=0.31
+
+
+[Drop 2184]
+ID=2184
+Mob=249
+Item=773
+Rate=0.31
+
+
+[Drop 2185]
+ID=2185
+Mob=249
+Item=773
+Rate=0.31
+
+
+[Drop 2186]
+ID=2186
+Mob=249
+Item=772
+Rate=0.31
+
+
+[Drop 2187]
+ID=2187
+Mob=249
+Item=772
+Rate=0.31
+
+
+[Drop 2188]
+ID=2188
+Mob=358
+Item=1966
+Rate=0.05
+
+
+[Drop 2189]
+ID=2189
+Mob=359
+Item=1966
+Rate=0.05
+
+
+[Drop 2190]
+ID=2190
+Mob=360
+Item=1966
+Rate=0.01
+
+
+[Drop 2191]
+ID=2191
+Mob=361
+Item=1966
+Rate=0.01
+
+
+[Drop 2192]
+ID=2192
+Mob=362
+Item=1966
+Rate=0.05
+
+
+[Drop 2193]
+ID=2193
+Mob=363
+Item=1966
+Rate=0.05
+
+
+[Drop 2194]
+ID=2194
+Mob=364
+Item=1966
+Rate=0.05
+
+
+[Drop 2195]
+ID=2195
+Mob=296
+Item=1966
+Rate=0.01
+
+
+[Drop 2196]
+ID=2196
+Mob=294
+Item=1966
+Rate=0.01
+
+
+[Drop 2197]
+ID=2197
+Mob=297
+Item=1966
+Rate=0.01
+
+
+[Drop 2198]
+ID=2198
+Mob=299
+Item=1966
+Rate=0.01
+
+
+[Drop 2199]
+ID=2199
+Mob=300
+Item=1966
+Rate=0.01
+
+
+[Drop 2200]
+ID=2200
+Mob=302
+Item=1966
+Rate=0.01
+
+
+[Drop 2201]
+ID=2201
+Mob=386
+Item=1967
+Rate=0.01
+
+
+[Drop 2202]
+ID=2202
+Mob=387
+Item=1967
+Rate=0.01
+
+
+[Drop 2203]
+ID=2203
+Mob=390
+Item=1967
+Rate=0.01
+
+
+[Drop 2204]
+ID=2204
+Mob=385
+Item=1967
+Rate=0.01
+
+
+[Drop 2205]
+ID=2205
+Mob=388
+Item=1967
+Rate=0.01
+
+
+[Drop 2206]
+ID=2206
+Mob=389
+Item=1967
+Rate=0.01
+
+
+[Drop 2207]
+ID=2207
+Mob=397
+Item=1967
+Rate=0.01
+
+
+[Drop 2208]
+ID=2208
+Mob=405
+Item=1967
+Rate=0.01
+
+
+[Drop 2209]
+ID=2209
+Mob=406
+Item=1967
+Rate=0.02
+
+
+[Drop 2210]
+ID=2210
+Mob=407
+Item=1967
+Rate=0.01
+
+
+[Drop 2211]
+ID=2211
+Mob=408
+Item=1967
+Rate=0.01
+
+
+[Drop 2212]
+ID=2212
+Mob=409
+Item=1967
+Rate=0.01
+
+
+[Drop 2213]
+ID=2213
+Mob=410
+Item=1967
+Rate=0.02
+
+
+[Drop 2214]
+ID=2214
+Mob=413
+Item=1967
+Rate=0.01
+
+
+[Drop 2215]
+ID=2215
+Mob=414
+Item=1967
+Rate=0.03
+
+
+[Drop 2216]
+ID=2216
+Mob=391
+Item=1967
+Rate=0.01
+
+
+[Drop 2217]
+ID=2217
+Mob=97
+Item=209
+Rate=0.1
+
+
+[Drop 2218]
+ID=2218
+Mob=31
+Item=144
+Rate=0.1
+
+
+[Drop 2219]
+ID=2219
+Mob=31
+Item=211
+Rate=0.1
+
+
+[Drop 2220]
+ID=2220
+Mob=26
+Item=143
+Rate=0.1
+
+
+[Drop 2221]
+ID=2221
+Mob=224
+Item=1313
+Rate=0.05
+
+
+[Drop 2222]
+ID=2222
+Mob=224
+Item=1314
+Rate=0.05
+
+
+[Drop 2223]
+ID=2223
+Mob=224
+Item=1315
+Rate=0.05
+
+
+[Drop 2224]
+ID=2224
+Mob=224
+Item=1316
+Rate=0.05
+
+
+[Drop 2225]
+ID=2225
+Mob=224
+Item=1317
+Rate=0.05
+
+
+[Drop 2226]
+ID=2226
+Mob=352
+Item=1318
+Rate=0.05
+
+
+[Drop 2227]
+ID=2227
+Mob=352
+Item=1319
+Rate=0.05
+
+
+[Drop 2228]
+ID=2228
+Mob=352
+Item=1320
+Rate=0.05
+
+
+[Drop 2229]
+ID=2229
+Mob=352
+Item=1321
+Rate=0.05
+
+
+[Drop 2230]
+ID=2230
+Mob=352
+Item=1326
+Rate=0.05
+
+
+[Drop 2231]
+ID=2231
+Mob=102
+Item=223
+Rate=0.1
+
+
+[Drop 2232]
+ID=2232
+Mob=104
+Item=223
+Rate=0.1
+
+
+[Drop 2233]
+ID=2233
+Mob=41
+Item=223
+Rate=0.1
+
+
+[Drop 2234]
+ID=2234
+Mob=229
+Item=2103
+Rate=0.1
+
+
+[Drop 2235]
+ID=2235
+Mob=229
+Item=2104
+Rate=0.11
+
+
+[Drop 2236]
+ID=2236
+Mob=229
+Item=2105
+Rate=0.111
+
+
+[Drop 2237]
+ID=2237
+Mob=230
+Item=1788
+Rate=0.1
+
+
+[Drop 2238]
+ID=2238
+Mob=230
+Item=1789
+Rate=0.11
+
+
+[Drop 2239]
+ID=2239
+Mob=230
+Item=1790
+Rate=0.111
+
+
+[Drop 2240]
+ID=2240
+Mob=315
+Item=222
+Rate=0.2
+
+
+[Drop 2241]
+ID=2241
+Mob=315
+Item=223
+Rate=0.19
+
+
+[Drop 2242]
+ID=2242
+Mob=315
+Item=224
+Rate=0.18
+
+
+[Drop 2243]
+ID=2243
+Mob=315
+Item=225
+Rate=0.17
+
+
+[Drop 2244]
+ID=2244
+Mob=315
+Item=226
+Rate=0.16
+
+
+[Drop 2245]
+ID=2245
+Mob=315
+Item=227
+Rate=0.15
+
+
+[Drop 2246]
+ID=2246
+Mob=315
+Item=228
+Rate=0.14
+
+
+[Drop 2247]
+ID=2247
+Mob=315
+Item=1003
+Rate=0.051
+
+
+[Drop 2248]
+ID=2248
+Mob=315
+Item=1002
+Rate=0.052
+
+
+[Drop 2249]
+ID=2249
+Mob=315
+Item=1001
+Rate=0.053
+
+
+[Drop 2250]
+ID=2250
+Mob=315
+Item=1000
+Rate=0.054
+
+
+[Drop 2251]
+ID=2251
+Mob=315
+Item=1024
+Rate=0.055
+
+
+[Drop 2252]
+ID=2252
+Mob=315
+Item=1377
+Rate=0.056
+
+
+[Drop 2253]
+ID=2253
+Mob=315
+Item=1378
+Rate=0.057
+
+
+[Drop 2254]
+ID=2254
+Mob=315
+Item=1381
+Rate=0.058
+
+
+[Drop 2255]
+ID=2255
+Mob=315
+Item=1382
+Rate=0.059
+
+
+[Drop 2256]
+ID=2256
+Mob=315
+Item=1495
+Rate=0.019
+
+
+[Drop 2257]
+ID=2257
+Mob=315
+Item=1496
+Rate=0.008
+
+
+[Drop 2258]
+ID=2258
+Mob=315
+Item=1512
+Rate=0.047
+
+
+[Drop 2259]
+ID=2259
+Mob=315
+Item=1851
+Rate=0.046
+
+
+[Drop 2260]
+ID=2260
+Mob=315
+Item=1852
+Rate=0.045
+
+
+[Drop 2261]
+ID=2261
+Mob=315
+Item=1853
+Rate=0.044
+
+
+[Drop 2262]
+ID=2262
+Mob=315
+Item=1854
+Rate=0.043
+
+
+[Drop 2263]
+ID=2263
+Mob=438
+Item=1966
+Rate=0.7
+
+
+[Drop 2264]
+ID=2264
+Mob=438
+Item=1967
+Rate=0.6
+
+
+[Drop 2265]
+ID=2265
+Mob=392
+Item=1966
+Rate=0.01
+
+
+[Drop 2266]
+ID=2266
+Mob=393
+Item=1966
+Rate=0.01
+
+
+[Drop 2267]
+ID=2267
+Mob=394
+Item=1966
+Rate=0.01
+
+
+[Drop 2268]
+ID=2268
+Mob=395
+Item=1966
+Rate=0.01
+
+
+[Drop 2269]
+ID=2269
+Mob=396
+Item=1966
+Rate=0.01
+
+
+[Drop 2270]
+ID=2270
+Mob=399
+Item=1966
+Rate=0.01
+
+
+[Drop 2271]
+ID=2271
+Mob=400
+Item=1966
+Rate=0.01
+
+
+[Drop 2272]
+ID=2272
+Mob=401
+Item=1966
+Rate=0.01
+
+
+[Drop 2273]
+ID=2273
+Mob=402
+Item=1966
+Rate=0.01
+
+
+[Drop 2274]
+ID=2274
+Mob=403
+Item=1966
+Rate=0.01
+
+
+[Drop 2275]
+ID=2275
+Mob=404
+Item=1966
+Rate=0.01
+
+
+[Drop 2276]
+ID=2276
+Mob=416
+Item=1967
+Rate=0.3
+
+
+[Drop 2277]
+ID=2277
+Mob=416
+Item=1068
+Rate=0.8
+
+
+[Drop 2278]
+ID=2278
+Mob=416
+Item=1318
+Rate=0.1
+
+
+[Drop 2279]
+ID=2279
+Mob=416
+Item=1319
+Rate=0.1
+
+
+[Drop 2280]
+ID=2280
+Mob=416
+Item=1320
+Rate=0.1
+
+
+[Drop 2281]
+ID=2281
+Mob=416
+Item=1321
+Rate=0.1
+
+
+[Drop 2282]
+ID=2282
+Mob=416
+Item=1326
+Rate=0.1
+
+
+[Drop 2283]
+ID=2283
+Mob=343
+Item=1960
+Rate=0.3
+
+
+[Drop 2284]
+ID=2284
+Mob=343
+Item=1961
+Rate=0.29
+
+
+[Drop 2285]
+ID=2285
+Mob=343
+Item=1962
+Rate=0.28
+
+
+[Drop 2286]
+ID=2286
+Mob=343
+Item=1963
+Rate=0.27
+
+
+[Drop 2287]
+ID=2287
+Mob=343
+Item=1964
+Rate=0.26
+
+
+[Drop 2288]
+ID=2288
+Mob=343
+Item=1965
+Rate=0.25
+
+
+[Drop 2289]
+ID=2289
+Mob=343
+Item=1966
+Rate=0.24
+
+
+[Drop 2290]
+ID=2290
+Mob=343
+Item=1967
+Rate=0.23
+
+
+[Drop 2291]
+ID=2291
+Mob=343
+Item=1201
+Rate=0.2
+
+
+[Drop 2292]
+ID=2292
+Mob=343
+Item=1205
+Rate=0.2
+
+
+[Drop 2293]
+ID=2293
+Mob=343
+Item=1209
+Rate=0.2
+
+
+[Drop 2294]
+ID=2294
+Mob=343
+Item=1213
+Rate=0.2
+
+
+[Drop 2295]
+ID=2295
+Mob=343
+Item=1217
+Rate=0.2
+
+
+[Drop 2296]
+ID=2296
+Mob=343
+Item=1221
+Rate=0.2
+
+
+[Drop 2297]
+ID=2297
+Mob=343
+Item=1225
+Rate=0.2
+
+
+[Drop 2298]
+ID=2298
+Mob=343
+Item=1229
+Rate=0.2
+
+
+[Drop 2299]
+ID=2299
+Mob=343
+Item=1198
+Rate=0.19
+
+
+[Drop 2300]
+ID=2300
+Mob=343
+Item=1202
+Rate=0.19
+
+
+[Drop 2301]
+ID=2301
+Mob=343
+Item=1206
+Rate=0.19
+
+
+[Drop 2302]
+ID=2302
+Mob=343
+Item=1210
+Rate=0.19
+
+
+[Drop 2303]
+ID=2303
+Mob=343
+Item=1214
+Rate=0.19
+
+
+[Drop 2304]
+ID=2304
+Mob=343
+Item=1218
+Rate=0.19
+
+
+[Drop 2305]
+ID=2305
+Mob=343
+Item=1222
+Rate=0.19
+
+
+[Drop 2306]
+ID=2306
+Mob=343
+Item=1226
+Rate=0.19
+
+
+[Drop 2307]
+ID=2307
+Mob=343
+Item=1199
+Rate=0.18
+
+
+[Drop 2308]
+ID=2308
+Mob=343
+Item=1203
+Rate=0.18
+
+
+[Drop 2309]
+ID=2309
+Mob=343
+Item=1207
+Rate=0.18
+
+
+[Drop 2310]
+ID=2310
+Mob=343
+Item=1211
+Rate=0.18
+
+
+[Drop 2311]
+ID=2311
+Mob=343
+Item=1215
+Rate=0.18
+
+
+[Drop 2312]
+ID=2312
+Mob=343
+Item=1219
+Rate=0.18
+
+
+[Drop 2313]
+ID=2313
+Mob=343
+Item=1223
+Rate=0.18
+
+
+[Drop 2314]
+ID=2314
+Mob=343
+Item=1227
+Rate=0.18
+
+
+[Drop 2315]
+ID=2315
+Mob=343
+Item=1296
+Rate=0.01
+
+
+[Drop 2316]
+ID=2316
+Mob=343
+Item=1298
+Rate=0.011
+
+
+[Drop 2317]
+ID=2317
+Mob=343
+Item=1127
+Rate=0.012
+
+
+[Drop 2318]
+ID=2318
+Mob=343
+Item=1200
+Rate=0.16
+
+
+[Drop 2319]
+ID=2319
+Mob=343
+Item=1204
+Rate=0.16
+
+
+[Drop 2320]
+ID=2320
+Mob=343
+Item=1208
+Rate=0.16
+
+
+[Drop 2321]
+ID=2321
+Mob=343
+Item=1212
+Rate=0.16
+
+
+[Drop 2322]
+ID=2322
+Mob=343
+Item=1216
+Rate=0.16
+
+
+[Drop 2323]
+ID=2323
+Mob=343
+Item=1220
+Rate=0.16
+
+
+[Drop 2324]
+ID=2324
+Mob=343
+Item=1224
+Rate=0.16
+
+
+[Drop 2325]
+ID=2325
+Mob=343
+Item=1228
+Rate=0.16
+
+
+[Drop 2326]
+ID=2326
+Mob=343
+Item=1062
+Rate=0.101
+
+
+[Drop 2327]
+ID=2327
+Mob=343
+Item=1063
+Rate=0.101
+
+
+[Drop 2328]
+ID=2328
+Mob=343
+Item=1064
+Rate=0.101
+
+
+[Drop 2329]
+ID=2329
+Mob=343
+Item=1065
+Rate=0.101
+
+
+[Drop 2330]
+ID=2330
+Mob=343
+Item=1066
+Rate=0.101
+
+
+[Drop 2331]
+ID=2331
+Mob=343
+Item=1067
+Rate=0.102
+
+
+[Drop 2332]
+ID=2332
+Mob=343
+Item=1068
+Rate=0.22
+
+
+[Drop 2333]
+ID=2333
+Mob=343
+Item=1318
+Rate=0.012
+
+
+[Drop 2334]
+ID=2334
+Mob=343
+Item=1319
+Rate=0.013
+
+
+[Drop 2335]
+ID=2335
+Mob=343
+Item=1320
+Rate=0.014
+
+
+[Drop 2336]
+ID=2336
+Mob=343
+Item=1321
+Rate=0.015
+
+
+[Drop 2337]
+ID=2337
+Mob=343
+Item=1326
+Rate=0.016
+
+
+[Drop 2338]
+ID=2338
+Mob=343
+Item=1560
+Rate=0.051
+
+
+[Drop 2339]
+ID=2339
+Mob=343
+Item=1564
+Rate=0.051
+
+
+[Drop 2340]
+ID=2340
+Mob=343
+Item=1568
+Rate=0.051
+
+
+[Drop 2341]
+ID=2341
+Mob=343
+Item=1572
+Rate=0.051
+
+
+[Drop 2342]
+ID=2342
+Mob=343
+Item=1576
+Rate=0.051
+
+
+[Drop 2343]
+ID=2343
+Mob=343
+Item=1561
+Rate=0.041
+
+
+[Drop 2344]
+ID=2344
+Mob=343
+Item=1565
+Rate=0.041
+
+
+[Drop 2345]
+ID=2345
+Mob=343
+Item=1569
+Rate=0.041
+
+
+[Drop 2346]
+ID=2346
+Mob=343
+Item=1573
+Rate=0.041
+
+
+[Drop 2347]
+ID=2347
+Mob=343
+Item=1577
+Rate=0.041
+
+
+[Drop 2348]
+ID=2348
+Mob=343
+Item=1562
+Rate=0.031
+
+
+[Drop 2349]
+ID=2349
+Mob=343
+Item=1566
+Rate=0.031
+
+
+[Drop 2350]
+ID=2350
+Mob=343
+Item=1570
+Rate=0.031
+
+
+[Drop 2351]
+ID=2351
+Mob=343
+Item=1574
+Rate=0.031
+
+
+[Drop 2352]
+ID=2352
+Mob=343
+Item=1578
+Rate=0.031
+
+
+[Drop 2353]
+ID=2353
+Mob=343
+Item=2049
+Rate=0.0101
+
+
+[Drop 2354]
+ID=2354
+Mob=343
+Item=2050
+Rate=0.0102
+
+
+[Drop 2355]
+ID=2355
+Mob=343
+Item=2051
+Rate=0.0103
+
+
+[Drop 2356]
+ID=2356
+Mob=343
+Item=2052
+Rate=0.0104
+
+
+[Drop 2357]
+ID=2357
+Mob=343
+Item=2053
+Rate=0.0105
+
+
+[Drop 2358]
+ID=2358
+Mob=343
+Item=1563
+Rate=0.061
+
+
+[Drop 2359]
+ID=2359
+Mob=343
+Item=1567
+Rate=0.061
+
+
+[Drop 2360]
+ID=2360
+Mob=343
+Item=1571
+Rate=0.061
+
+
+[Drop 2361]
+ID=2361
+Mob=343
+Item=1575
+Rate=0.061
+
+
+[Drop 2362]
+ID=2362
+Mob=343
+Item=1579
+Rate=0.061
+
+
+[Drop 2363]
+ID=2363
+Mob=343
+Item=730
+Rate=0.00911
+
+
+[Drop 2364]
+ID=2364
+Mob=343
+Item=775
+Rate=0.00911
+
+
+[Drop 2365]
+ID=2365
+Mob=343
+Item=774
+Rate=0.00911
+
+
+[Drop 2366]
+ID=2366
+Mob=343
+Item=729
+Rate=0.00911
+
+
+[Drop 2367]
+ID=2367
+Mob=343
+Item=756
+Rate=0.00911
+
+
+[Drop 2368]
+ID=2368
+Mob=343
+Item=754
+Rate=0.00911
+
+
+[Drop 2369]
+ID=2369
+Mob=343
+Item=1709
+Rate=0.00843
+
+
+[Drop 2370]
+ID=2370
+Mob=343
+Item=1710
+Rate=0.00943
+
+
+[Drop 2371]
+ID=2371
+Mob=343
+Item=1711
+Rate=0.00993
+
+
+[Drop 2372]
+ID=2372
+Mob=343
+Item=518
+Rate=0.1047
+
+
+[Drop 2373]
+ID=2373
+Mob=343
+Item=519
+Rate=0.1048
+
+
+[Drop 2374]
+ID=2374
+Mob=343
+Item=520
+Rate=0.1049
+
+
+[Drop 2375]
+ID=2375
+Mob=343
+Item=570
+Rate=0.105
+
+
+[Drop 2376]
+ID=2376
+Mob=343
+Item=571
+Rate=0.1051
+
+
+[Drop 2377]
+ID=2377
+Mob=343
+Item=572
+Rate=0.1052
+
+
+[Drop 2378]
+ID=2378
+Mob=343
+Item=804
+Rate=0.1053
+
+
+[Drop 2379]
+ID=2379
+Mob=343
+Item=803
+Rate=0.1054
+
+
+[Drop 2380]
+ID=2380
+Mob=343
+Item=815
+Rate=0.1055
+
+
+[Drop 2381]
+ID=2381
+Mob=343
+Item=817
+Rate=0.1056
+
+
+[Drop 2382]
+ID=2382
+Mob=343
+Item=1242
+Rate=0.1057
+
+
+[Drop 2383]
+ID=2383
+Mob=343
+Item=1243
+Rate=0.1058
+
+
+[Drop 2384]
+ID=2384
+Mob=343
+Item=1244
+Rate=0.1059
+
+
+[Drop 2385]
+ID=2385
+Mob=343
+Item=1281
+Rate=0.106
+
+
+[Drop 2386]
+ID=2386
+Mob=343
+Item=1282
+Rate=0.1061
+
+
+[Drop 2387]
+ID=2387
+Mob=343
+Item=1283
+Rate=0.1062
+
+
+[Drop 2388]
+ID=2388
+Mob=343
+Item=1284
+Rate=0.1063
+
+
+[Drop 2389]
+ID=2389
+Mob=343
+Item=1285
+Rate=0.1064
+
+
+[Drop 2390]
+ID=2390
+Mob=343
+Item=1338
+Rate=0.1065
+
+
+[Drop 2391]
+ID=2391
+Mob=527
+Item=527
+Rate=0.05
+
+
+[Drop 2392]
+ID=2392
+Mob=528
+Item=527
+Rate=0.05
+
+
+[Drop 2393]
+ID=2393
+Mob=529
+Item=527
+Rate=0.05
+
+
+[Drop 2394]
+ID=2394
+Mob=530
+Item=527
+Rate=0.05
+
+
+[Drop 2395]
+ID=2395
+Mob=531
+Item=527
+Rate=0.05
+
+
+[Drop 2396]
+ID=2396
+Mob=532
+Item=527
+Rate=0.05
+
+
+[Drop 2397]
+ID=2397
+Mob=533
+Item=527
+Rate=0.05
+
+
+[Drop 2398]
+ID=2398
+Mob=534
+Item=527
+Rate=0.05
+
+
+[Drop 2399]
+ID=2399
+Mob=535
+Item=527
+Rate=0.05
+
+
+[Drop 2400]
+ID=2400
+Mob=537
+Item=527
+Rate=0.05
+
+
+[Drop 2401]
+ID=2401
+Mob=536
+Item=1797
+Rate=0.01
+
+
+[Drop 2402]
+ID=2402
+Mob=536
+Item=1801
+Rate=0.01
+
+
+[Drop 2403]
+ID=2403
+Mob=536
+Item=1805
+Rate=0.01
+
+
+[Drop 2404]
+ID=2404
+Mob=536
+Item=1809
+Rate=0.01
+
+
+[Drop 2405]
+ID=2405
+Mob=536
+Item=1813
+Rate=0.01
+
+
+[Drop 2406]
+ID=2406
+Mob=537
+Item=1797
+Rate=0.01
+
+
+[Drop 2407]
+ID=2407
+Mob=537
+Item=1801
+Rate=0.01
+
+
+[Drop 2408]
+ID=2408
+Mob=537
+Item=1805
+Rate=0.01
+
+
+[Drop 2409]
+ID=2409
+Mob=537
+Item=1809
+Rate=0.01
+
+
+[Drop 2410]
+ID=2410
+Mob=537
+Item=1813
+Rate=0.01
+
+
+[Drop 2411]
+ID=2411
+Mob=538
+Item=1797
+Rate=0.01
+
+
+[Drop 2412]
+ID=2412
+Mob=538
+Item=1801
+Rate=0.01
+
+
+[Drop 2413]
+ID=2413
+Mob=538
+Item=1805
+Rate=0.01
+
+
+[Drop 2414]
+ID=2414
+Mob=538
+Item=1809
+Rate=0.01
+
+
+[Drop 2415]
+ID=2415
+Mob=538
+Item=1813
+Rate=0.01
+
+
+[Drop 2416]
+ID=2416
+Mob=544
+Item=1797
+Rate=0.1
+
+
+[Drop 2417]
+ID=2417
+Mob=544
+Item=1801
+Rate=0.1
+
+
+[Drop 2418]
+ID=2418
+Mob=544
+Item=1805
+Rate=0.1
+
+
+[Drop 2419]
+ID=2419
+Mob=544
+Item=1809
+Rate=0.1
+
+
+[Drop 2420]
+ID=2420
+Mob=544
+Item=1813
+Rate=0.1
+
+
+[Drop 2421]
+ID=2421
+Mob=545
+Item=1797
+Rate=0.01
+
+
+[Drop 2422]
+ID=2422
+Mob=545
+Item=1801
+Rate=0.01
+
+
+[Drop 2423]
+ID=2423
+Mob=545
+Item=1805
+Rate=0.01
+
+
+[Drop 2424]
+ID=2424
+Mob=545
+Item=1809
+Rate=0.01
+
+
+[Drop 2425]
+ID=2425
+Mob=545
+Item=1813
+Rate=0.01
+
+
+[Drop 2426]
+ID=2426
+Mob=545
+Item=1798
+Rate=0.01
+
+
+[Drop 2427]
+ID=2427
+Mob=545
+Item=1802
+Rate=0.01
+
+
+[Drop 2428]
+ID=2428
+Mob=545
+Item=1806
+Rate=0.01
+
+
+[Drop 2429]
+ID=2429
+Mob=545
+Item=1810
+Rate=0.01
+
+
+[Drop 2430]
+ID=2430
+Mob=545
+Item=1814
+Rate=0.01
+
+
+[Drop 2431]
+ID=2431
+Mob=544
+Item=1798
+Rate=0.1
+
+
+[Drop 2432]
+ID=2432
+Mob=544
+Item=1802
+Rate=0.1
+
+
+[Drop 2433]
+ID=2433
+Mob=544
+Item=1806
+Rate=0.1
+
+
+[Drop 2434]
+ID=2434
+Mob=544
+Item=1810
+Rate=0.1
+
+
+[Drop 2435]
+ID=2435
+Mob=544
+Item=1814
+Rate=0.1
+
+
+[Drop 2436]
+ID=2436
+Mob=538
+Item=1798
+Rate=0.01
+
+
+[Drop 2437]
+ID=2437
+Mob=538
+Item=1802
+Rate=0.01
+
+
+[Drop 2438]
+ID=2438
+Mob=538
+Item=1806
+Rate=0.01
+
+
+[Drop 2439]
+ID=2439
+Mob=538
+Item=1810
+Rate=0.01
+
+
+[Drop 2440]
+ID=2440
+Mob=538
+Item=1814
+Rate=0.01
+
+
+[Drop 2441]
+ID=2441
+Mob=537
+Item=1798
+Rate=0.01
+
+
+[Drop 2442]
+ID=2442
+Mob=537
+Item=1802
+Rate=0.01
+
+
+[Drop 2443]
+ID=2443
+Mob=537
+Item=1806
+Rate=0.01
+
+
+[Drop 2444]
+ID=2444
+Mob=537
+Item=1810
+Rate=0.01
+
+
+[Drop 2445]
+ID=2445
+Mob=537
+Item=1814
+Rate=0.01
+
+
+[Drop 2446]
+ID=2446
+Mob=536
+Item=1798
+Rate=0.01
+
+
+[Drop 2447]
+ID=2447
+Mob=536
+Item=1802
+Rate=0.01
+
+
+[Drop 2448]
+ID=2448
+Mob=536
+Item=1806
+Rate=0.01
+
+
+[Drop 2449]
+ID=2449
+Mob=536
+Item=1810
+Rate=0.01
+
+
+[Drop 2450]
+ID=2450
+Mob=536
+Item=1814
+Rate=0.01
+
+
+[Drop 2451]
+ID=2451
+Mob=565
+Item=1800
+Rate=0.01
+
+
+[Drop 2452]
+ID=2452
+Mob=565
+Item=1804
+Rate=0.01
+
+
+[Drop 2453]
+ID=2453
+Mob=565
+Item=1808
+Rate=0.01
+
+
+[Drop 2454]
+ID=2454
+Mob=565
+Item=1812
+Rate=0.01
+
+
+[Drop 2455]
+ID=2455
+Mob=566
+Item=0
+Rate=0.01
+
+
+[Drop 2456]
+ID=2456
+Mob=566
+Item=1804
+Rate=0.01
+
+
+[Drop 2457]
+ID=2457
+Mob=566
+Item=1808
+Rate=0.01
+
+
+[Drop 2458]
+ID=2458
+Mob=566
+Item=1812
+Rate=0.01
+
+
+[Drop 2459]
+ID=2459
+Mob=566
+Item=1816
+Rate=0.01
+
+
+[Drop 2460]
+ID=2460
+Mob=565
+Item=1816
+Rate=0.01
+
+
+[Drop 2461]
+ID=2461
+Mob=566
+Item=1800
+Rate=0.01
+
+
+[Drop 2462]
+ID=2462
+Mob=567
+Item=1800
+Rate=0.01
+
+
+[Drop 2463]
+ID=2463
+Mob=567
+Item=1804
+Rate=0.01
+
+
+[Drop 2464]
+ID=2464
+Mob=567
+Item=1808
+Rate=0.01
+
+
+[Drop 2465]
+ID=2465
+Mob=567
+Item=1812
+Rate=0.01
+
+
+[Drop 2466]
+ID=2466
+Mob=567
+Item=1816
+Rate=0.01
+
+
+[Drop 2467]
+ID=2467
+Mob=568
+Item=1800
+Rate=0.01
+
+
+[Drop 2468]
+ID=2468
+Mob=568
+Item=1804
+Rate=0.01
+
+
+[Drop 2469]
+ID=2469
+Mob=568
+Item=1808
+Rate=0.01
+
+
+[Drop 2470]
+ID=2470
+Mob=568
+Item=1812
+Rate=0.01
+
+
+[Drop 2471]
+ID=2471
+Mob=568
+Item=1816
+Rate=0.01
+
+
+[Drop 2472]
+ID=2472
+Mob=569
+Item=1800
+Rate=0.01
+
+
+[Drop 2473]
+ID=2473
+Mob=569
+Item=1804
+Rate=0.01
+
+
+[Drop 2474]
+ID=2474
+Mob=569
+Item=1808
+Rate=0.01
+
+
+[Drop 2475]
+ID=2475
+Mob=569
+Item=1812
+Rate=0.01
+
+
+[Drop 2476]
+ID=2476
+Mob=569
+Item=1816
+Rate=0.01
+
+
+[Drop 2477]
+ID=2477
+Mob=570
+Item=1800
+Rate=0.01
+
+
+[Drop 2478]
+ID=2478
+Mob=570
+Item=1804
+Rate=0.01
+
+
+[Drop 2479]
+ID=2479
+Mob=570
+Item=1808
+Rate=0.01
+
+
+[Drop 2480]
+ID=2480
+Mob=570
+Item=1812
+Rate=0.01
+
+
+[Drop 2481]
+ID=2481
+Mob=570
+Item=1816
+Rate=0.01
+
+
+[Drop 2482]
+ID=2482
+Mob=571
+Item=1800
+Rate=0.01
+
+
+[Drop 2483]
+ID=2483
+Mob=571
+Item=1804
+Rate=0.01
+
+
+[Drop 2484]
+ID=2484
+Mob=571
+Item=1808
+Rate=0.01
+
+
+[Drop 2485]
+ID=2485
+Mob=571
+Item=1812
+Rate=0.01
+
+
+[Drop 2486]
+ID=2486
+Mob=571
+Item=1816
+Rate=0.01
+
+
+[Drop 2487]
+ID=2487
+Mob=572
+Item=1799
+Rate=0.01
+
+
+[Drop 2488]
+ID=2488
+Mob=572
+Item=1803
+Rate=0.01
+
+
+[Drop 2489]
+ID=2489
+Mob=572
+Item=1807
+Rate=0.01
+
+
+[Drop 2490]
+ID=2490
+Mob=572
+Item=1811
+Rate=0.01
+
+
+[Drop 2491]
+ID=2491
+Mob=572
+Item=1815
+Rate=0.01
+
+
+[Drop 2492]
+ID=2492
+Mob=573
+Item=1799
+Rate=0.01
+
+
+[Drop 2493]
+ID=2493
+Mob=573
+Item=1803
+Rate=0.01
+
+
+[Drop 2494]
+ID=2494
+Mob=573
+Item=1807
+Rate=0.01
+
+
+[Drop 2495]
+ID=2495
+Mob=573
+Item=1811
+Rate=0.01
+
+
+[Drop 2496]
+ID=2496
+Mob=573
+Item=1815
+Rate=0.01
+
+
+[Drop 2497]
+ID=2497
+Mob=574
+Item=1799
+Rate=0.01
+
+
+[Drop 2498]
+ID=2498
+Mob=574
+Item=1803
+Rate=0.01
+
+
+[Drop 2499]
+ID=2499
+Mob=574
+Item=1807
+Rate=0.01
+
+
+[Drop 2500]
+ID=2500
+Mob=574
+Item=1811
+Rate=0.01
+
+
+[Drop 2501]
+ID=2501
+Mob=574
+Item=1815
+Rate=0.01
+
+
+[Drop 2502]
+ID=2502
+Mob=575
+Item=1799
+Rate=0.03
+
+
+[Drop 2503]
+ID=2503
+Mob=575
+Item=1803
+Rate=0.03
+
+
+[Drop 2504]
+ID=2504
+Mob=575
+Item=1807
+Rate=0.03
+
+
+[Drop 2505]
+ID=2505
+Mob=575
+Item=1811
+Rate=0.03
+
+
+[Drop 2506]
+ID=2506
+Mob=575
+Item=1815
+Rate=0.03
+
+
+[Drop 2507]
+ID=2507
+Mob=576
+Item=1799
+Rate=0.01
+
+
+[Drop 2508]
+ID=2508
+Mob=576
+Item=1803
+Rate=0.01
+
+
+[Drop 2509]
+ID=2509
+Mob=576
+Item=1807
+Rate=0.01
+
+
+[Drop 2510]
+ID=2510
+Mob=576
+Item=1811
+Rate=0.01
+
+
+[Drop 2511]
+ID=2511
+Mob=576
+Item=1815
+Rate=0.01
+
+
+[Drop 2512]
+ID=2512
+Mob=577
+Item=1799
+Rate=0.01
+
+
+[Drop 2513]
+ID=2513
+Mob=577
+Item=1803
+Rate=0.01
+
+
+[Drop 2514]
+ID=2514
+Mob=577
+Item=1807
+Rate=0.01
+
+
+[Drop 2515]
+ID=2515
+Mob=577
+Item=1811
+Rate=0.01
+
+
+[Drop 2516]
+ID=2516
+Mob=577
+Item=1815
+Rate=0.01
+
+
+[Drop 2517]
+ID=2517
+Mob=578
+Item=1799
+Rate=0.01
+
+
+[Drop 2518]
+ID=2518
+Mob=578
+Item=1803
+Rate=0.01
+
+
+[Drop 2519]
+ID=2519
+Mob=578
+Item=1807
+Rate=0.01
+
+
+[Drop 2520]
+ID=2520
+Mob=578
+Item=1811
+Rate=0.01
+
+
+[Drop 2521]
+ID=2521
+Mob=578
+Item=1815
+Rate=0.01
+
+
+[Drop 2522]
+ID=2522
+Mob=579
+Item=1799
+Rate=0.01
+
+
+[Drop 2523]
+ID=2523
+Mob=579
+Item=1803
+Rate=0.01
+
+
+[Drop 2524]
+ID=2524
+Mob=579
+Item=1807
+Rate=0.01
+
+
+[Drop 2525]
+ID=2525
+Mob=579
+Item=1811
+Rate=0.01
+
+
+[Drop 2526]
+ID=2526
+Mob=579
+Item=1815
+Rate=0.01
+
+
+[Drop 2527]
+ID=2527
+Mob=583
+Item=1799
+Rate=0.01
+
+
+[Drop 2528]
+ID=2528
+Mob=583
+Item=1803
+Rate=0.01
+
+
+[Drop 2529]
+ID=2529
+Mob=583
+Item=1807
+Rate=0.01
+
+
+[Drop 2530]
+ID=2530
+Mob=583
+Item=1811
+Rate=0.01
+
+
+[Drop 2531]
+ID=2531
+Mob=583
+Item=1815
+Rate=0.01
+
+
+[Drop 2532]
+ID=2532
+Mob=586
+Item=1799
+Rate=0.01
+
+
+[Drop 2533]
+ID=2533
+Mob=586
+Item=1803
+Rate=0.01
+
+
+[Drop 2534]
+ID=2534
+Mob=586
+Item=1807
+Rate=0.01
+
+
+[Drop 2535]
+ID=2535
+Mob=586
+Item=1811
+Rate=0.01
+
+
+[Drop 2536]
+ID=2536
+Mob=586
+Item=1815
+Rate=0.01
+
+
+[Drop 2537]
+ID=2537
+Mob=587
+Item=756
+Rate=0.01
+
+
+[Drop 2538]
+ID=2538
+Mob=587
+Item=775
+Rate=0.01
+
+
+[Drop 2539]
+ID=2539
+Mob=587
+Item=730
+Rate=0.01
+
+
+[Drop 2540]
+ID=2540
+Mob=588
+Item=730
+Rate=0.01
+
+
+[Drop 2541]
+ID=2541
+Mob=588
+Item=756
+Rate=0.01
+
+
+[Drop 2542]
+ID=2542
+Mob=588
+Item=775
+Rate=0.01
+
+
+[Drop 2543]
+ID=2543
+Mob=589
+Item=775
+Rate=0.01
+
+
+[Drop 2544]
+ID=2544
+Mob=589
+Item=730
+Rate=0.01
+
+
+[Drop 2545]
+ID=2545
+Mob=589
+Item=756
+Rate=0.01
+
+
+[Drop 2546]
+ID=2546
+Mob=590
+Item=756
+Rate=0.01
+
+
+[Drop 2547]
+ID=2547
+Mob=590
+Item=730
+Rate=0.01
+
+
+[Drop 2548]
+ID=2548
+Mob=590
+Item=775
+Rate=0.01
+
+
+[Drop 2549]
+ID=2549
+Mob=591
+Item=775
+Rate=0.01
+
+
+[Drop 2550]
+ID=2550
+Mob=591
+Item=756
+Rate=0.01
+
+
+[Drop 2551]
+ID=2551
+Mob=591
+Item=730
+Rate=0.01
+
+
+[Drop 2552]
+ID=2552
+Mob=592
+Item=730
+Rate=0.01
+
+
+[Drop 2553]
+ID=2553
+Mob=592
+Item=775
+Rate=0.01
+
+
+[Drop 2554]
+ID=2554
+Mob=592
+Item=756
+Rate=0.01
+
+
+[Drop 2555]
+ID=2555
+Mob=593
+Item=756
+Rate=0.01
+
+
+[Drop 2556]
+ID=2556
+Mob=593
+Item=730
+Rate=0.01
+
+
+[Drop 2557]
+ID=2557
+Mob=593
+Item=775
+Rate=0.01
+
+
+[Drop 2558]
+ID=2558
+Mob=594
+Item=775
+Rate=0.01
+
+
+[Drop 2559]
+ID=2559
+Mob=594
+Item=756
+Rate=0.01
+
+
+[Drop 2560]
+ID=2560
+Mob=594
+Item=730
+Rate=0.01
+
+
+[Drop 2561]
+ID=2561
+Mob=595
+Item=730
+Rate=0.01
+
+
+[Drop 2562]
+ID=2562
+Mob=595
+Item=756
+Rate=0.01
+
+
+[Drop 2563]
+ID=2563
+Mob=595
+Item=775
+Rate=0.01
+
+
+[Drop 2564]
+ID=2564
+Mob=549
+Item=221
+Rate=0.01
+
+
+[Drop 2565]
+ID=2565
+Mob=549
+Item=228
+Rate=0.01
+
+
+[Drop 2566]
+ID=2566
+Mob=549
+Item=527
+Rate=0.05
+
+
+[Drop 2567]
+ID=2567
+Mob=549
+Item=534
+Rate=0.08
+
+
+[Drop 2568]
+ID=2568
+Mob=549
+Item=541
+Rate=0.1
+
+
+[Drop 2569]
+ID=2569
+Mob=550
+Item=541
+Rate=0.1
+
+
+[Drop 2570]
+ID=2570
+Mob=550
+Item=534
+Rate=0.08
+
+
+[Drop 2571]
+ID=2571
+Mob=550
+Item=527
+Rate=0.05
+
+
+[Drop 2572]
+ID=2572
+Mob=550
+Item=228
+Rate=0.01
+
+
+[Drop 2573]
+ID=2573
+Mob=551
+Item=541
+Rate=0.1
+
+
+[Drop 2574]
+ID=2574
+Mob=551
+Item=534
+Rate=0.08
+
+
+[Drop 2575]
+ID=2575
+Mob=551
+Item=527
+Rate=0.05
+
+
+[Drop 2576]
+ID=2576
+Mob=551
+Item=228
+Rate=0.03
+
+
+[Drop 2577]
+ID=2577
+Mob=552
+Item=541
+Rate=0.1
+
+
+[Drop 2578]
+ID=2578
+Mob=552
+Item=534
+Rate=0.08
+
+
+[Drop 2579]
+ID=2579
+Mob=552
+Item=527
+Rate=0.05
+
+
+[Drop 2580]
+ID=2580
+Mob=552
+Item=527
+Rate=0.03
+
+
+[Drop 2581]
+ID=2581
+Mob=552
+Item=228
+Rate=0.03
+
+
+[Drop 2582]
+ID=2582
+Mob=553
+Item=541
+Rate=0.1
+
+
+[Drop 2583]
+ID=2583
+Mob=553
+Item=534
+Rate=0.08
+
+
+[Drop 2584]
+ID=2584
+Mob=553
+Item=527
+Rate=0.05
+
+
+[Drop 2585]
+ID=2585
+Mob=553
+Item=228
+Rate=0.03
+
+[Drop 2586]
+ID=2586
+Mob=554
+Item=541
+Rate=0.1
+
+[Drop 2587]
+ID=2587
+Mob=554
+Item=534
+Rate=0.08
+
+[Drop 2588]
+ID=2588
+Mob=554
+Item=527
+Rate=0.05
+
+[Drop 2589]
+ID=2589
+Mob=554
+Item=228
+Rate=0.03
+
+[Drop 2590]
+ID=2590
+Mob=558
+Item=541
+Rate=0.1
+
+[Drop 2591]
+ID=2591
+Mob=558
+Item=534
+Rate=0.08
+
+[Drop 2592]
+ID=2592
+Mob=558
+Item=527
+Rate=0.05
+
+[Drop 2593]
+ID=2593
+Mob=558
+Item=228
+Rate=0.03
+
+[Drop 2594]
+ID=2594
+Mob=559
+Item=541
+Rate=0.1
+
+[Drop 2595]
+ID=2595
+Mob=559
+Item=534
+Rate=0.08
+
+[Drop 2596]
+ID=2596
+Mob=559
+Item=527
+Rate=0.05
+
+[Drop 2597]
+ID=2597
+Mob=559
+Item=228
+Rate=0.03
+
+[Drop 2598]
+ID=2598
+Mob=560
+Item=541
+Rate=0.1
+
+[Drop 2599]
+ID=2599
+Mob=560
+Item=534
+Rate=0.08
+
+[Drop 2600]
+ID=2600
+Mob=560
+Item=527
+Rate=0.05
+
+[Drop 2601]
+ID=2601
+Mob=560
+Item=228
+Rate=0.03
+
+[Drop 2602]
+ID=2602
+Mob=561
+Item=541
+Rate=0.1
+
+[Drop 2603]
+ID=2603
+Mob=561
+Item=534
+Rate=0.08
+
+[Drop 2604]
+ID=2604
+Mob=561
+Item=527
+Rate=0.05
+
+[Drop 2605]
+ID=2605
+Mob=561
+Item=228
+Rate=0.03
+
+[Drop 2606]
+ID=2606
+Mob=562
+Item=541
+Rate=0.1
+
+[Drop 2607]
+ID=2607
+Mob=562
+Item=534
+Rate=0.2
+
+[Drop 2608]
+ID=2608
+Mob=562
+Item=534
+Rate=0.08
+
+[Drop 2609]
+ID=2609
+Mob=562
+Item=527
+Rate=0.05
+
+[Drop 2610]
+ID=2610
+Mob=562
+Item=228
+Rate=0.03
+
+[Drop 2611]
+ID=2611
+Mob=527
+Item=541
+Rate=0.1
+
+[Drop 2612]
+ID=2612
+Mob=527
+Item=534
+Rate=0.08
+
+[Drop 2613]
+ID=2613
+Mob=527
+Item=228
+Rate=0.03
+
+[Drop 2614]
+ID=2614
+Mob=528
+Item=541
+Rate=0.1
+
+[Drop 2615]
+ID=2615
+Mob=528
+Item=534
+Rate=0.08
+
+[Drop 2616]
+ID=2616
+Mob=528
+Item=228
+Rate=0.03
+
+[Drop 2617]
+ID=2617
+Mob=529
+Item=541
+Rate=0.1
+
+[Drop 2618]
+ID=2618
+Mob=529
+Item=534
+Rate=0.08
+
+[Drop 2619]
+ID=2619
+Mob=529
+Item=228
+Rate=0.03
+
+[Drop 2620]
+ID=2620
+Mob=530
+Item=541
+Rate=0.1
+
+[Drop 2621]
+ID=2621
+Mob=530
+Item=534
+Rate=0.08
+
+[Drop 2622]
+ID=2622
+Mob=530
+Item=228
+Rate=0.03
+
+[Drop 2623]
+ID=2623
+Mob=531
+Item=541
+Rate=0.1
+
+[Drop 2624]
+ID=2624
+Mob=531
+Item=534
+Rate=0.08
+
+[Drop 2625]
+ID=2625
+Mob=531
+Item=228
+Rate=0.03
+
+[Drop 2626]
+ID=2626
+Mob=532
+Item=541
+Rate=0.1
+
+[Drop 2627]
+ID=2627
+Mob=532
+Item=534
+Rate=0.08
+
+[Drop 2628]
+ID=2628
+Mob=532
+Item=228
+Rate=0.03
+
+[Drop 2629]
+ID=2629
+Mob=533
+Item=541
+Rate=0.1
+
+[Drop 2630]
+ID=2630
+Mob=533
+Item=534
+Rate=0.08
+
+[Drop 2631]
+ID=2631
+Mob=533
+Item=228
+Rate=0.03
+
+[Drop 2632]
+ID=2632
+Mob=534
+Item=541
+Rate=0.1
+
+[Drop 2633]
+ID=2633
+Mob=534
+Item=534
+Rate=0.08
+
+[Drop 2634]
+ID=2634
+Mob=534
+Item=228
+Rate=0.03
+
+[Drop 2635]
+ID=2635
+Mob=535
+Item=541
+Rate=0.1
+
+[Drop 2636]
+ID=2636
+Mob=535
+Item=534
+Rate=0.08
+
+[Drop 2637]
+ID=2637
+Mob=535
+Item=228
+Rate=0.03
+
+[Drop 2638]
+ID=2638
+Mob=536
+Item=541
+Rate=0.1
+
+[Drop 2639]
+ID=2639
+Mob=536
+Item=534
+Rate=0.08
+
+[Drop 2640]
+ID=2640
+Mob=536
+Item=527
+Rate=0.05
+
+[Drop 2641]
+ID=2641
+Mob=536
+Item=228
+Rate=0.03
+
+[Drop 2642]
+ID=2642
+Mob=536
+Item=1068
+Rate=0.02
+
+[Drop 2643]
+ID=2643
+Mob=537
+Item=541
+Rate=0.1
+
+[Drop 2644]
+ID=2644
+Mob=537
+Item=534
+Rate=0.08
+
+[Drop 2645]
+ID=2645
+Mob=537
+Item=228
+Rate=0.03
+
+[Drop 2646]
+ID=2646
+Mob=537
+Item=1068
+Rate=0.02
+
+[Drop 2647]
+ID=2647
+Mob=538
+Item=541
+Rate=0.1
+
+[Drop 2648]
+ID=2648
+Mob=538
+Item=534
+Rate=0.08
+
+[Drop 2649]
+ID=2649
+Mob=538
+Item=527
+Rate=0.05
+
+[Drop 2650]
+ID=2650
+Mob=538
+Item=228
+Rate=0.03
+
+[Drop 2651]
+ID=2651
+Mob=538
+Item=1068
+Rate=0.02
+
+[Drop 2652]
+ID=2652
+Mob=539
+Item=541
+Rate=0.1
+
+[Drop 2653]
+ID=2653
+Mob=539
+Item=534
+Rate=0.08
+
+[Drop 2654]
+ID=2654
+Mob=539
+Item=534
+Rate=0.05
+
+[Drop 2655]
+ID=2655
+Mob=539
+Item=527
+Rate=0.05
+
+[Drop 2656]
+ID=2656
+Mob=539
+Item=228
+Rate=0.03
+
+[Drop 2657]
+ID=2657
+Mob=539
+Item=1068
+Rate=0.02
+
+[Drop 2658]
+ID=2658
+Mob=540
+Item=541
+Rate=0.1
+
+[Drop 2659]
+ID=2659
+Mob=540
+Item=534
+Rate=0.08
+
+[Drop 2660]
+ID=2660
+Mob=540
+Item=527
+Rate=0.05
+
+[Drop 2661]
+ID=2661
+Mob=540
+Item=228
+Rate=0.03
+
+[Drop 2662]
+ID=2662
+Mob=540
+Item=1068
+Rate=0.02
+
+[Drop 2663]
+ID=2663
+Mob=541
+Item=541
+Rate=0.1
+
+[Drop 2664]
+ID=2664
+Mob=541
+Item=534
+Rate=0.08
+
+[Drop 2665]
+ID=2665
+Mob=541
+Item=527
+Rate=0.05
+
+[Drop 2666]
+ID=2666
+Mob=541
+Item=228
+Rate=0.03
+
+[Drop 2667]
+ID=2667
+Mob=541
+Item=1068
+Rate=0.02
+
+[Drop 2668]
+ID=2668
+Mob=544
+Item=541
+Rate=0.1
+
+[Drop 2669]
+ID=2669
+Mob=544
+Item=534
+Rate=0.08
+
+[Drop 2670]
+ID=2670
+Mob=544
+Item=527
+Rate=0.05
+
+[Drop 2671]
+ID=2671
+Mob=544
+Item=228
+Rate=0.03
+
+[Drop 2672]
+ID=2672
+Mob=544
+Item=1068
+Rate=0.02
+
+[Drop 2673]
+ID=2673
+Mob=565
+Item=541
+Rate=0.1
+
+[Drop 2674]
+ID=2674
+Mob=565
+Item=534
+Rate=0.08
+
+[Drop 2675]
+ID=2675
+Mob=565
+Item=527
+Rate=0.05
+
+[Drop 2676]
+ID=2676
+Mob=565
+Item=228
+Rate=0.03
+
+[Drop 2677]
+ID=2677
+Mob=566
+Item=541
+Rate=0.1
+
+[Drop 2678]
+ID=2678
+Mob=566
+Item=534
+Rate=0.08
+
+[Drop 2679]
+ID=2679
+Mob=566
+Item=527
+Rate=0.05
+
+[Drop 2680]
+ID=2680
+Mob=566
+Item=228
+Rate=0.03
+
+[Drop 2681]
+ID=2681
+Mob=567
+Item=541
+Rate=0.1
+
+[Drop 2682]
+ID=2682
+Mob=567
+Item=534
+Rate=0.08
+
+[Drop 2683]
+ID=2683
+Mob=567
+Item=527
+Rate=0.05
+
+[Drop 2684]
+ID=2684
+Mob=567
+Item=228
+Rate=0.03
+
+[Drop 2685]
+ID=2685
+Mob=568
+Item=541
+Rate=0.1
+
+[Drop 2686]
+ID=2686
+Mob=568
+Item=534
+Rate=0.08
+
+[Drop 2687]
+ID=2687
+Mob=568
+Item=527
+Rate=0.05
+
+[Drop 2688]
+ID=2688
+Mob=568
+Item=228
+Rate=0.03
+
+[Drop 2689]
+ID=2689
+Mob=569
+Item=541
+Rate=0.1
+
+[Drop 2690]
+ID=2690
+Mob=569
+Item=534
+Rate=0.08
+
+[Drop 2691]
+ID=2691
+Mob=569
+Item=527
+Rate=0.05
+
+[Drop 2692]
+ID=2692
+Mob=569
+Item=228
+Rate=0.03
+
+[Drop 2693]
+ID=2693
+Mob=570
+Item=541
+Rate=0.1
+
+[Drop 2694]
+ID=2694
+Mob=570
+Item=534
+Rate=0.08
+
+[Drop 2695]
+ID=2695
+Mob=570
+Item=527
+Rate=0.05
+
+[Drop 2696]
+ID=2696
+Mob=570
+Item=228
+Rate=0.03
+
+[Drop 2697]
+ID=2697
+Mob=571
+Item=541
+Rate=0.1
+
+[Drop 2698]
+ID=2698
+Mob=571
+Item=534
+Rate=0.08
+
+[Drop 2699]
+ID=2699
+Mob=571
+Item=527
+Rate=0.05
+
+[Drop 2700]
+ID=2700
+Mob=571
+Item=228
+Rate=0.03
+
+[Drop 2701]
+ID=2701
+Mob=572
+Item=541
+Rate=0.1
+
+[Drop 2702]
+ID=2702
+Mob=572
+Item=534
+Rate=0.08
+
+[Drop 2703]
+ID=2703
+Mob=572
+Item=527
+Rate=0.05
+
+[Drop 2704]
+ID=2704
+Mob=572
+Item=228
+Rate=0.03
+
+[Drop 2705]
+ID=2705
+Mob=573
+Item=541
+Rate=0.1
+
+[Drop 2706]
+ID=2706
+Mob=573
+Item=534
+Rate=0.08
+
+[Drop 2707]
+ID=2707
+Mob=573
+Item=527
+Rate=0.05
+
+[Drop 2708]
+ID=2708
+Mob=573
+Item=228
+Rate=0.03
+
+[Drop 2709]
+ID=2709
+Mob=574
+Item=541
+Rate=0.1
+
+[Drop 2710]
+ID=2710
+Mob=574
+Item=534
+Rate=0.08
+
+[Drop 2711]
+ID=2711
+Mob=574
+Item=527
+Rate=0.05
+
+[Drop 2712]
+ID=2712
+Mob=574
+Item=228
+Rate=0.03
+
+[Drop 2713]
+ID=2713
+Mob=575
+Item=0
+Rate=0.1
+
+[Drop 2714]
+ID=2714
+Mob=575
+Item=541
+Rate=0.1
+
+[Drop 2715]
+ID=2715
+Mob=575
+Item=534
+Rate=0.08
+
+[Drop 2716]
+ID=2716
+Mob=575
+Item=527
+Rate=0.05
+
+[Drop 2717]
+ID=2717
+Mob=575
+Item=228
+Rate=0.03
+
+[Drop 2718]
+ID=2718
+Mob=576
+Item=541
+Rate=0.1
+
+[Drop 2719]
+ID=2719
+Mob=576
+Item=534
+Rate=0.08
+
+[Drop 2720]
+ID=2720
+Mob=576
+Item=527
+Rate=0.05
+
+[Drop 2721]
+ID=2721
+Mob=576
+Item=228
+Rate=0.03
+
+[Drop 2722]
+ID=2722
+Mob=577
+Item=541
+Rate=0.1
+
+[Drop 2723]
+ID=2723
+Mob=577
+Item=534
+Rate=0.08
+
+[Drop 2724]
+ID=2724
+Mob=577
+Item=527
+Rate=0.05
+
+[Drop 2725]
+ID=2725
+Mob=577
+Item=228
+Rate=0.03
+
+[Drop 2726]
+ID=2726
+Mob=578
+Item=541
+Rate=0.1
+
+[Drop 2727]
+ID=2727
+Mob=578
+Item=534
+Rate=0.08
+
+[Drop 2728]
+ID=2728
+Mob=578
+Item=527
+Rate=0.05
+
+[Drop 2729]
+ID=2729
+Mob=578
+Item=228
+Rate=0.03
+
+[Drop 2730]
+ID=2730
+Mob=579
+Item=541
+Rate=0.1
+
+[Drop 2731]
+ID=2731
+Mob=579
+Item=534
+Rate=0.08
+
+[Drop 2732]
+ID=2732
+Mob=579
+Item=527
+Rate=0.05
+
+[Drop 2733]
+ID=2733
+Mob=579
+Item=228
+Rate=0.03
+
+[Drop 2734]
+ID=2734
+Mob=583
+Item=541
+Rate=0.1
+
+[Drop 2735]
+ID=2735
+Mob=583
+Item=534
+Rate=0.08
+
+[Drop 2736]
+ID=2736
+Mob=583
+Item=527
+Rate=0.05
+
+[Drop 2737]
+ID=2737
+Mob=583
+Item=228
+Rate=0.03
+
+[Drop 2738]
+ID=2738
+Mob=584
+Item=541
+Rate=0.1
+
+[Drop 2739]
+ID=2739
+Mob=584
+Item=534
+Rate=0.08
+
+[Drop 2740]
+ID=2740
+Mob=584
+Item=527
+Rate=0.05
+
+[Drop 2741]
+ID=2741
+Mob=584
+Item=228
+Rate=0.03
+
+[Drop 2742]
+ID=2742
+Mob=585
+Item=541
+Rate=0.1
+
+[Drop 2743]
+ID=2743
+Mob=585
+Item=534
+Rate=0.08
+
+[Drop 2744]
+ID=2744
+Mob=585
+Item=527
+Rate=0.05
+
+[Drop 2745]
+ID=2745
+Mob=585
+Item=228
+Rate=0.03
+
+[Drop 2746]
+ID=2746
+Mob=586
+Item=541
+Rate=0.1
+
+[Drop 2747]
+ID=2747
+Mob=586
+Item=534
+Rate=0.08
+
+[Drop 2748]
+ID=2748
+Mob=586
+Item=527
+Rate=0.05
+
+[Drop 2749]
+ID=2749
+Mob=586
+Item=228
+Rate=0.03
+
+[Drop 2750]
+ID=2750
+Mob=587
+Item=541
+Rate=0.1
+
+[Drop 2751]
+ID=2751
+Mob=587
+Item=534
+Rate=0.08
+
+[Drop 2752]
+ID=2752
+Mob=587
+Item=527
+Rate=0.05
+
+[Drop 2753]
+ID=2753
+Mob=587
+Item=228
+Rate=0.03
+
+[Drop 2754]
+ID=2754
+Mob=588
+Item=541
+Rate=0.1
+
+[Drop 2755]
+ID=2755
+Mob=588
+Item=534
+Rate=0.08
+
+[Drop 2756]
+ID=2756
+Mob=588
+Item=527
+Rate=0.05
+
+[Drop 2757]
+ID=2757
+Mob=588
+Item=228
+Rate=0.03
+
+[Drop 2758]
+ID=2758
+Mob=589
+Item=541
+Rate=0.1
+
+[Drop 2759]
+ID=2759
+Mob=589
+Item=534
+Rate=0.08
+
+[Drop 2760]
+ID=2760
+Mob=589
+Item=527
+Rate=0.05
+
+[Drop 2761]
+ID=2761
+Mob=589
+Item=228
+Rate=0.03
+
+[Drop 2762]
+ID=2762
+Mob=590
+Item=541
+Rate=0.1
+
+[Drop 2763]
+ID=2763
+Mob=590
+Item=534
+Rate=0.08
+
+[Drop 2764]
+ID=2764
+Mob=590
+Item=527
+Rate=0.06
+
+[Drop 2765]
+ID=2765
+Mob=590
+Item=228
+Rate=0.03
+
+[Drop 2766]
+ID=2766
+Mob=591
+Item=541
+Rate=0.1
+
+[Drop 2767]
+ID=2767
+Mob=591
+Item=534
+Rate=0.08
+
+[Drop 2768]
+ID=2768
+Mob=591
+Item=527
+Rate=0.05
+
+[Drop 2769]
+ID=2769
+Mob=591
+Item=228
+Rate=0.03
+
+[Drop 2770]
+ID=2770
+Mob=592
+Item=541
+Rate=0.1
+
+[Drop 2771]
+ID=2771
+Mob=592
+Item=541
+Rate=0.1
+
+[Drop 2772]
+ID=2772
+Mob=592
+Item=534
+Rate=0.08
+
+[Drop 2773]
+ID=2773
+Mob=592
+Item=527
+Rate=0.05
+
+[Drop 2774]
+ID=2774
+Mob=592
+Item=228
+Rate=0.03
+
+[Drop 2775]
+ID=2775
+Mob=593
+Item=541
+Rate=0.1
+
+[Drop 2776]
+ID=2776
+Mob=593
+Item=534
+Rate=0.08
+
+[Drop 2777]
+ID=2777
+Mob=593
+Item=527
+Rate=0.05
+
+[Drop 2778]
+ID=2778
+Mob=593
+Item=228
+Rate=0.03
+
+[Drop 2779]
+ID=2779
+Mob=594
+Item=541
+Rate=0.1
+
+[Drop 2780]
+ID=2780
+Mob=594
+Item=534
+Rate=0.08
+
+[Drop 2781]
+ID=2781
+Mob=594
+Item=527
+Rate=0.05
+
+[Drop 2782]
+ID=2782
+Mob=594
+Item=228
+Rate=0.03
+
+[Drop 2783]
+ID=2783
+Mob=595
+Item=541
+Rate=0.1
+
+[Drop 2784]
+ID=2784
+Mob=595
+Item=534
+Rate=0.08
+
+[Drop 2785]
+ID=2785
+Mob=595
+Item=527
+Rate=0.05
+
+[Drop 2786]
+ID=2786
+Mob=595
+Item=228
+Rate=0.03
+
+[Drop 2787]
+ID=2787
+Mob=596
+Item=541
+Rate=0.1
+
+[Drop 2788]
+ID=2788
+Mob=596
+Item=534
+Rate=0.08
+
+[Drop 2789]
+ID=2789
+Mob=596
+Item=527
+Rate=0.05
+
+[Drop 2790]
+ID=2790
+Mob=596
+Item=228
+Rate=0.03
+
+[Drop 2791]
+ID=2791
+Mob=596
+Item=1068
+Rate=0.02
+
+[Drop 2792]
+ID=2792
+Mob=597
+Item=541
+Rate=0.1
+
+[Drop 2793]
+ID=2793
+Mob=597
+Item=534
+Rate=0.08
+
+[Drop 2794]
+ID=2794
+Mob=597
+Item=527
+Rate=0.05
+
+[Drop 2795]
+ID=2795
+Mob=597
+Item=228
+Rate=0.03
+
+[Drop 2796]
+ID=2796
+Mob=597
+Item=1068
+Rate=0.02
+
+[Drop 2797]
+ID=2797
+Mob=598
+Item=541
+Rate=0.1
+
+[Drop 2798]
+ID=2798
+Mob=598
+Item=534
+Rate=0.08
+
+[Drop 2799]
+ID=2799
+Mob=598
+Item=527
+Rate=0.05
+
+[Drop 2800]
+ID=2800
+Mob=598
+Item=228
+Rate=0.03
+
+[Drop 2801]
+ID=2801
+Mob=598
+Item=1068
+Rate=0.02
+
+[Drop 2802]
+ID=2802
+Mob=599
+Item=541
+Rate=0.1
+
+[Drop 2803]
+ID=2803
+Mob=599
+Item=534
+Rate=0.08
+
+[Drop 2804]
+ID=2804
+Mob=599
+Item=527
+Rate=0.05
+
+[Drop 2805]
+ID=2805
+Mob=599
+Item=228
+Rate=0.03
+
+[Drop 2806]
+ID=2806
+Mob=599
+Item=1068
+Rate=0.02
+
+[Drop 2807]
+ID=2807
+Mob=600
+Item=541
+Rate=0.1
+
+[Drop 2808]
+ID=2808
+Mob=600
+Item=534
+Rate=0.08
+
+[Drop 2809]
+ID=2809
+Mob=600
+Item=527
+Rate=0.05
+
+[Drop 2810]
+ID=2810
+Mob=600
+Item=228
+Rate=0.03
+
+[Drop 2811]
+ID=2811
+Mob=600
+Item=1068
+Rate=0.02
+
+[Drop 2812]
+ID=2812
+Mob=601
+Item=541
+Rate=0.1
+
+[Drop 2813]
+ID=2813
+Mob=601
+Item=534
+Rate=0.08
+
+[Drop 2814]
+ID=2814
+Mob=601
+Item=527
+Rate=0.05
+
+[Drop 2815]
+ID=2815
+Mob=601
+Item=228
+Rate=0.03
+
+[Drop 2816]
+ID=2816
+Mob=601
+Item=1068
+Rate=0.02
+
+[Drop 2817]
+ID=2817
+Mob=601
+Item=1966
+Rate=0.04
+
+[Drop 2818]
+ID=2818
+Mob=601
+Item=1966
+Rate=0.04
+
+[Drop 2819]
+ID=2819
+Mob=601
+Item=1966
+Rate=0.01
+
+[Drop 2820]
+ID=2820
+Mob=601
+Item=1967
+Rate=0.01
+
+[Drop 10000]
+ID=10000
+Mob=549
+Item=3331
+Rate=0.03
+
+[Drop 10001]
+ID=10001
+Mob=550
+Item=3331
+Rate=0.03
+[Drop 10002]
+ID=10002
+Mob=551
+Item=3331
+Rate=0.03
+
+[Drop 10003]
+ID=10003
+Mob=552
+Item=3331
+Rate=0.03
+
+[Drop 10004]
+ID=10004
+Mob=553
+Item=3331
+Rate=0.03
+
+[Drop 10005]
+ID=10005
+Mob=554
+Item=3331
+Rate=0.03
+
+[Drop 10006]
+ID=10006
+Mob=555
+Item=3331
+Rate=0.03
+
+[Drop 10007]
+ID=10007
+Mob=556
+Item=3331
+Rate=0.03
+
+[Drop 10008]
+ID=10008
+Mob=557
+Item=3331
+Rate=0.03
+
+[Drop 10009]
+ID=10009
+Mob=558
+Item=3331
+Rate=0.03
+
+[Drop 10010]
+ID=10010
+Mob=559
+Item=3331
+Rate=0.03
+
+[Drop 10011]
+ID=10011
+Mob=559
+Item=3331
+Rate=0.03
+
+[Drop 10012]
+ID=10012
+Mob=561
+Item=3331
+Rate=0.03
+
+[Drop 10013]
+ID=10013
+Mob=562
+Item=3331
+Rate=0.03
+
+[Drop 10014]
+ID=10014
+Mob=563
+Item=3331
+Rate=0.03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

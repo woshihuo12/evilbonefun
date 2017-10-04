@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="evilbonefun:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7cbb8b40-3603-467a-a0db-7d9e2984614d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,105 +20,202 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="SkillManager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/SkillManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="76">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Server.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/Server.java">
+      <file leaf-file-name="WorldObject.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/game/WorldObject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="129" column="19" lean-forward="false" selection-start-line="129" selection-start-column="19" selection-end-line="129" selection-end-column="19" />
+            <state relative-caret-position="266">
+              <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1781#1782#0" expanded="true" />
-                <element signature="e#1816#1817#0" expanded="true" />
-                <element signature="e#2004#2005#0" expanded="true" />
-                <element signature="e#2032#2033#0" expanded="true" />
-                <element signature="e#2104#2105#0" expanded="true" />
-                <element signature="e#2136#2137#0" expanded="true" />
-                <element signature="e#2173#2174#0" expanded="true" />
-                <element signature="e#2204#2205#0" expanded="true" />
-                <element signature="e#2266#2267#0" expanded="true" />
-                <element signature="e#2307#2308#0" expanded="true" />
-                <element signature="e#2342#2343#0" expanded="true" />
-                <element signature="e#2372#2373#0" expanded="true" />
-                <element signature="e#2557#2558#0" expanded="true" />
-                <element signature="e#2584#2585#0" expanded="true" />
-                <element signature="e#2658#2659#0" expanded="true" />
-                <element signature="e#2686#2687#0" expanded="true" />
-                <element signature="e#2727#2728#0" expanded="true" />
-                <element signature="e#2761#2762#0" expanded="true" />
-                <element signature="e#3181#3182#0" expanded="true" />
-                <element signature="e#3211#3212#0" expanded="true" />
+                <element signature="e#451#452#0" expanded="true" />
+                <element signature="e#480#481#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ApplicationContextAwareProcessor.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/context/support/ApplicationContextAwareProcessor.java">
+      <file leaf-file-name="SessionList.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/SessionList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1068">
-              <caret line="99" column="0" lean-forward="false" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClassPathXmlApplicationContext.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/context/support/ClassPathXmlApplicationContext.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="136" column="19" lean-forward="false" selection-start-line="136" selection-start-column="19" selection-end-line="136" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AbstractRefreshableConfigApplicationContext.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/context/support/AbstractRefreshableConfigApplicationContext.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-215">
-              <caret line="74" column="54" lean-forward="false" selection-start-line="74" selection-start-column="45" selection-end-line="74" selection-end-column="54" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Protocol.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/protocol/Protocol.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="65" column="29" lean-forward="false" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Parser.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ecommon/src/main/java/com/hsj/ecommon/Parser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="101" column="41" lean-forward="false" selection-start-line="101" selection-start-column="41" selection-end-line="101" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Database.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/Database.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+            <state relative-caret-position="206">
+              <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="World.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/World.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3322">
+              <caret line="256" column="0" lean-forward="true" selection-start-line="256" selection-start-column="0" selection-end-line="256" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1476#1490#0" expanded="true" />
+                <element signature="e#1563#1586#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Spawn.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/game/Spawn.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1503">
+              <caret line="102" column="2" lean-forward="true" selection-start-line="102" selection-start-column="2" selection-end-line="102" selection-end-column="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TeleportManager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/TeleportManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ItemType.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/game/ItemType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="198" column="45" lean-forward="true" selection-start-line="198" selection-start-column="45" selection-end-line="198" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#799#800#0" expanded="true" />
+                <element signature="e#826#827#0" expanded="true" />
+                <element signature="e#855#856#0" expanded="true" />
+                <element signature="e#883#884#0" expanded="true" />
+                <element signature="e#912#913#0" expanded="true" />
+                <element signature="e#940#941#0" expanded="true" />
+                <element signature="e#969#970#0" expanded="true" />
+                <element signature="e#997#998#0" expanded="true" />
+                <element signature="e#1027#1028#0" expanded="true" />
+                <element signature="e#1054#1055#0" expanded="true" />
+                <element signature="e#1096#1097#0" expanded="true" />
+                <element signature="e#1130#1131#0" expanded="true" />
+                <element signature="e#1159#1160#0" expanded="true" />
+                <element signature="e#1187#1188#0" expanded="true" />
+                <element signature="e#1226#1227#0" expanded="true" />
+                <element signature="e#1260#1261#0" expanded="true" />
+                <element signature="e#1290#1291#0" expanded="true" />
+                <element signature="e#1319#1320#0" expanded="true" />
+                <element signature="e#1349#1350#0" expanded="true" />
+                <element signature="e#1378#1379#0" expanded="true" />
+                <element signature="e#1408#1409#0" expanded="true" />
+                <element signature="e#1437#1438#0" expanded="true" />
+                <element signature="e#1478#1479#0" expanded="true" />
+                <element signature="e#1514#1515#0" expanded="true" />
+                <element signature="e#1555#1556#0" expanded="true" />
+                <element signature="e#1591#1592#0" expanded="true" />
+                <element signature="e#1632#1633#0" expanded="true" />
+                <element signature="e#1668#1669#0" expanded="true" />
+                <element signature="e#4381#4382#0" expanded="true" />
+                <element signature="e#4417#4418#0" expanded="true" />
+                <element signature="e#4456#4457#0" expanded="true" />
+                <element signature="e#4490#4491#0" expanded="true" />
+                <element signature="e#4529#4530#0" expanded="true" />
+                <element signature="e#4563#4564#0" expanded="true" />
+                <element signature="e#4602#4603#0" expanded="true" />
+                <element signature="e#4636#4637#0" expanded="true" />
+                <element signature="e#4877#4878#0" expanded="true" />
+                <element signature="e#4913#4914#0" expanded="true" />
+                <element signature="e#4968#4969#0" expanded="true" />
+                <element signature="e#5018#5019#0" expanded="true" />
+                <element signature="e#5056#5057#0" expanded="true" />
+                <element signature="e#5092#5093#0" expanded="true" />
+                <element signature="e#5148#5149#0" expanded="true" />
+                <element signature="e#5198#5199#0" expanded="true" />
+                <element signature="e#5234#5235#0" expanded="true" />
+                <element signature="e#5269#5270#0" expanded="true" />
+                <element signature="e#5322#5323#0" expanded="true" />
+                <element signature="e#5370#5371#0" expanded="true" />
+                <element signature="e#5407#5408#0" expanded="true" />
+                <element signature="e#5442#5443#0" expanded="true" />
+                <element signature="e#5497#5498#0" expanded="true" />
+                <element signature="e#5545#5546#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Item.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/game/Item.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="589">
+              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#699#700#0" expanded="true" />
+                <element signature="e#730#731#0" expanded="true" />
+                <element signature="e#784#785#0" expanded="true" />
+                <element signature="e#824#825#0" expanded="true" />
+                <element signature="e#855#856#0" expanded="true" />
+                <element signature="e#888#889#0" expanded="true" />
+                <element signature="e#914#915#0" expanded="true" />
+                <element signature="e#941#942#0" expanded="true" />
+                <element signature="e#976#977#0" expanded="true" />
+                <element signature="e#1008#1009#0" expanded="true" />
+                <element signature="e#1038#1039#0" expanded="true" />
+                <element signature="e#1067#1068#0" expanded="true" />
+                <element signature="e#1108#1109#0" expanded="true" />
+                <element signature="e#1144#1145#0" expanded="true" />
+                <element signature="e#1178#1179#0" expanded="true" />
+                <element signature="e#1210#1211#0" expanded="true" />
+                <element signature="e#1258#1259#0" expanded="true" />
+                <element signature="e#1300#1301#0" expanded="true" />
+                <element signature="e#1335#1336#0" expanded="true" />
+                <element signature="e#1368#1369#0" expanded="true" />
+                <element signature="e#1418#1419#0" expanded="true" />
+                <element signature="e#1462#1463#0" expanded="true" />
+                <element signature="e#1496#1497#0" expanded="true" />
+                <element signature="e#1529#1530#0" expanded="true" />
+                <element signature="e#1578#1579#0" expanded="true" />
+                <element signature="e#1622#1623#0" expanded="true" />
+                <element signature="e#1654#1655#0" expanded="true" />
+                <element signature="e#1685#1686#0" expanded="true" />
+                <element signature="e#1730#1731#0" expanded="true" />
+                <element signature="e#1770#1771#0" expanded="true" />
+                <element signature="e#1802#1803#0" expanded="true" />
+                <element signature="e#1833#1834#0" expanded="true" />
+                <element signature="e#1878#1879#0" expanded="true" />
+                <element signature="e#1918#1919#0" expanded="true" />
+                <element signature="e#1950#1951#0" expanded="true" />
+                <element signature="e#1981#1982#0" expanded="true" />
+                <element signature="e#2026#2027#0" expanded="true" />
+                <element signature="e#2066#2067#0" expanded="true" />
+                <element signature="e#2112#2113#0" expanded="true" />
+                <element signature="e#2136#2137#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ItemPosition.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/game/ItemPosition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <folding>
+                <element signature="e#133#134#0" expanded="true" />
+                <element signature="e#171#172#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -133,6 +235,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>ondata</find>
+      <find>_instance</find>
+      <find>dinamicConn</find>
+      <find>authadmin</find>
+      <find>getCharList</find>
+      <find>sendCharList</find>
     </findStrings>
   </component>
   <component name="GradleLocalSettings">
@@ -143,51 +250,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ecommon/src/main/java/com/hsj/ecommon/ParsedItemMember.java" />
-        <option value="$PROJECT_DIR$/ecommon/src/main/java/com/hsj/ecommon/ParsedItem.java" />
-        <option value="$PROJECT_DIR$/ecommon/src/main/java/com/hsj/ecommon/StringBuilderCache.java" />
-        <option value="$PROJECT_DIR$/ecommon/src/main/java/com/hsj/ecommon/Parser.java" />
-        <option value="$PROJECT_DIR$/ecommon/src/main/java/com/hsj/ecommon/ServerListItem.java" />
-        <option value="$PROJECT_DIR$/ecommon/src/main/java/com/hsj/ecommon/ServerList.java" />
-        <option value="$PROJECT_DIR$/ecommon/src/main/resources/log4g.properties" />
-        <option value="$PROJECT_DIR$/ecommon/pom.xml" />
-        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events/Event.java" />
-        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events/EventListener.java" />
-        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events/Filter.java" />
-        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events/InvalidEventException.java" />
-        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events/EventDispatcher.java" />
-        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/network/Connection.java" />
-        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/network/NetworkThread.java" />
-        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/network/PacketConnection.java" />
-        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/network/PacketServer.java" />
-        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/ClassFactory.java" />
-        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/protocol/DefaultProtocol.java" />
-        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/PacketFactory.java" />
-        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/Client.java" />
-        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/protocol/OtherProtocol.java" />
-        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/network/protocol/Protocol.java" />
-        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/network/protocol/DefaultProtocol.java" />
-        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/network/protocol/DebugProtocol.java" />
-        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/protocol/ProtocolTest.java" />
-        <option value="$PROJECT_DIR$/egameserver/src/main/resources/applicationContext.xml" />
-        <option value="$PROJECT_DIR$/egameserver/src/main/resources/spring/applicationContext.xml" />
-        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/DatabaseUtils.java" />
-        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/Database.java" />
-        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/Crypt.java" />
-        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/Reference.java" />
-        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/MessageParser.java" />
-        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/PacketParser.java" />
-        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events/server/ServerEvent.java" />
-        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events/server/ServerStartEvent.java" />
-        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events/server/ServerStopEvent.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events/network/NetworkSendEvent.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events/network/NetworkDataEvent.java" />
         <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/Network.java" />
-        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/World.java" />
-        <option value="$PROJECT_DIR$/egameserver/pom.xml" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/PacketParser.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events/client/ClientEvent.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events/client/ClientConnectEvent.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events/client/ClientDisconnectEvent.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events/client/ClientReceiveEvent.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events/client/ClientSendEvent.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/resources/spring/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/Sendable.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/Client.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/Session.java" />
+        <option value="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.10.RELEASE/spring-core-4.3.10.RELEASE.jar!/org/springframework/core/io/DefaultResourceLoader.class" />
         <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/protocol/Protocol.java" />
-        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/Server.java" />
-        <option value="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.10.RELEASE/spring-beans-4.3.10.RELEASE.jar!/org/springframework/beans/factory/annotation/InitDestroyAnnotationBeanPostProcessor.class" />
-        <option value="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.10.RELEASE/spring-beans-4.3.10.RELEASE.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class" />
-        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/Reference.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/Tools.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/game/Enums.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/game/Entity.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/game/Position.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/game/LivingObject.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/PacketFactory.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events/session/SessionEvent.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events/session/NewSessionEvent.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events/session/SendPacketSessionEvent.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/Map.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events/map/MapEvent.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/Area.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/game/PlayerSpawn.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events/map/SpawnEvent.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events/map/PlayerLoginEvent.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events/map/PlayerLogoutEvent.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events/map/ItemDropEvent.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/game/RoamingItem.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/game/Player.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events/map/ItemPickupEvent.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/LocalMap.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/ServerSetings.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/REHandler.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/JDBCTools.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/Database.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/Command.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/DatabaseUtils.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/game/ItemType.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/game/ItemPosition.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/game/Item.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/RemoteMap.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/World.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/game/Spawn.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/game/WorldObject.java" />
+        <option value="$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/SessionList.java" />
       </list>
     </option>
   </component>
@@ -209,11 +322,38 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="evilbonefun" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="evilbonefun" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="evilbonefun" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="evilbonefun" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="assembly" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="53" />
-    <option name="y" value="-21" />
+    <option name="x" value="69" />
+    <option name="y" value="27" />
     <option name="width" value="1288" />
-    <option name="height" value="913" />
+    <option name="height" value="590" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -231,8 +371,8 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -249,25 +389,26 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.31141868" />
-    <property name="SearchEverywhereHistoryKey" value="server&#9;FILE&#9;file://D:/githubs/evilbonefun/egameserver/src/main/java/com/hsj/egameserver/server/Server.java" />
+    <property name="project.structure.side.proportion" value="0.14983352" />
+    <property name="SearchEverywhereHistoryKey" value="wor&#9;FILE&#9;file://D:/githubs/evilbonefun/egameserver/src/main/java/com/hsj/egameserver/server/World.java&#10;data&#9;FILE&#9;file://D:/githubs/evilbonefun/egameserver/src/main/java/com/hsj/egameserver/server/Database.java&#10;worl&#9;FILE&#9;file://D:/githubs/evilbonefun/egameserver/src/main/java/com/hsj/egameserver/server/World.java&#10;play&#9;FILE&#9;file://D:/githubs/evilbonefun/egameserver/src/main/java/com/hsj/egameserver/game/Player.java&#10;loca&#9;FILE&#9;file://D:/githubs/evilbonefun/egameserver/src/main/java/com/hsj/egameserver/server/LocalMap.java&#10;loc&#9;FILE&#9;file://D:/githubs/evilbonefun/egameserver/src/main/java/com/hsj/egameserver/server/LocalMap.java&#10;map&#9;FILE&#9;file://D:/githubs/evilbonefun/egameserver/src/main/java/com/hsj/egameserver/server/Map.java&#10;li&#9;FILE&#9;file://D:/githubs/evilbonefun/egameserver/src/main/java/com/hsj/egameserver/game/LivingObject.java&#10;liv&#9;FILE&#9;file://D:/githubs/evilbonefun/egameserver/src/main/java/com/hsj/egameserver/game/LivingObject.java&#10;ser&#9;FILE&#9;file://D:/githubs/evilbonefun/egameserver/src/main/java/com/hsj/egameserver/server/Server.java&#10;server&#9;FILE&#9;file://D:/githubs/evilbonefun/egameserver/src/main/java/com/hsj/egameserver/server/Server.java&#10;cli&#9;FILE&#9;file://D:/githubs/evilbonefun/egameserver/src/main/java/com/hsj/egameserver/server/Client.java&#10;net&#9;FILE&#9;file://D:/githubs/evilbonefun/egameserver/src/main/java/com/hsj/egameserver/server/Network.java&#10;Serv&#9;FILE&#9;file://D:/githubs/evilbonefun/egameserver/src/main/java/com/hsj/egameserver/server/Server.java&#10;Par&#9;FILE&#9;file://D:/githubs/evilbonefun/ecommon/src/main/java/com/hsj/ecommon/Parser.java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/egameserver/src/main/resources" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\githubs\evilbonefun\egameserver\src\main\resources" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\githubs\evilbonefun\egameserver\src\main\resources" />
       <recent name="D:\githubs\evilbonefun\egameserver\src" />
       <recent name="D:\githubs\evilbonefun\egameserver\src\main\resources\spring" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\githubs\evilbonefun\egameserver\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -348,9 +489,9 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.hsj.egameserver.server.Server" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/egameserver" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -465,11 +606,12 @@
       <workItem from="1506774130410" duration="6356000" />
       <workItem from="1506823375772" duration="1702000" />
       <workItem from="1506901949710" duration="27649000" />
+      <workItem from="1506987662567" duration="27547000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35707000" />
+    <option name="totallyTimeSpent" value="63254000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
@@ -480,15 +622,17 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928804" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2038835" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28640777" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -497,9 +641,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -513,20 +655,741 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="4" />
+      <option name="time" value="14" />
     </breakpoint-manager>
-    <watches-manager />
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="itemReference" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/events/Event.java">
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/Network.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        <state relative-caret-position="95">
+          <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.10.RELEASE/spring-core-4.3.10.RELEASE.jar!/org/springframework/core/io/DefaultResourceLoader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/protocol/Protocol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="66" column="51" lean-forward="false" selection-start-line="66" selection-start-column="51" selection-end-line="66" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="55" column="17" lean-forward="true" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/PacketParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/Session.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="53" column="14" lean-forward="false" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#536#549#0" expanded="false" />
+            <element signature="e#1373#1374#0" expanded="false" />
+            <element signature="e#1401#1402#0" expanded="false" />
+            <element signature="e#2719#2732#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/game/Enums.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/game/Entity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="29" lean-forward="false" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/game/Position.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="97" column="35" lean-forward="true" selection-start-line="97" selection-start-column="35" selection-end-line="97" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+            <element signature="e#631#632#0" expanded="true" />
+            <element signature="e#655#656#0" expanded="true" />
+            <element signature="e#686#687#0" expanded="true" />
+            <element signature="e#712#713#0" expanded="true" />
+            <element signature="e#737#738#0" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
+            <element signature="e#792#793#0" expanded="true" />
+            <element signature="e#818#819#0" expanded="true" />
+            <element signature="e#843#844#0" expanded="true" />
+            <element signature="e#867#868#0" expanded="true" />
+            <element signature="e#898#899#0" expanded="true" />
+            <element signature="e#924#925#0" expanded="true" />
+            <element signature="e#961#962#0" expanded="true" />
+            <element signature="e#998#999#0" expanded="true" />
+            <element signature="e#1025#1026#0" expanded="true" />
+            <element signature="e#1051#1052#0" expanded="true" />
+            <element signature="e#1086#1087#0" expanded="true" />
+            <element signature="e#1116#1117#0" expanded="true" />
+            <element signature="e#1151#1152#0" expanded="true" />
+            <element signature="e#1182#1183#0" expanded="true" />
+            <element signature="e#1230#1231#0" expanded="true" />
+            <element signature="e#1270#1271#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/Tools.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="e#577#578#0" expanded="false" />
+            <element signature="e#637#638#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/PacketFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2676">
+          <caret line="143" column="22" lean-forward="true" selection-start-line="143" selection-start-column="22" selection-end-line="143" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#347#348#0" expanded="false" />
+            <element signature="e#370#371#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events/session/SessionEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#343#344#0" expanded="false" />
+            <element signature="e#381#382#0" expanded="false" />
+            <element signature="e#416#417#0" expanded="false" />
+            <element signature="e#446#447#0" expanded="false" />
+            <element signature="e#587#588#0" expanded="false" />
+            <element signature="e#633#634#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events/session/NewSessionEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="e#185#186#0" expanded="false" />
+            <element signature="e#215#216#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events/session/SendPacketSessionEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#324#325#0" expanded="false" />
+            <element signature="e#351#352#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/game/LivingObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="605">
+          <caret line="95" column="29" lean-forward="true" selection-start-line="95" selection-start-column="29" selection-end-line="95" selection-end-column="29" />
+          <folding>
+            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#571#572#0" expanded="true" />
+            <element signature="e#621#622#0" expanded="true" />
+            <element signature="e#657#658#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+            <element signature="e#755#756#0" expanded="true" />
+            <element signature="e#787#788#0" expanded="true" />
+            <element signature="e#814#815#0" expanded="true" />
+            <element signature="e#839#840#0" expanded="true" />
+            <element signature="e#873#874#0" expanded="true" />
+            <element signature="e#901#902#0" expanded="true" />
+            <element signature="e#931#932#0" expanded="true" />
+            <element signature="e#959#960#0" expanded="true" />
+            <element signature="e#999#1000#0" expanded="true" />
+            <element signature="e#1033#1034#0" expanded="true" />
+            <element signature="e#1062#1063#0" expanded="true" />
+            <element signature="e#1090#1091#0" expanded="true" />
+            <element signature="e#1129#1130#0" expanded="true" />
+            <element signature="e#1163#1164#0" expanded="true" />
+            <element signature="e#1194#1195#0" expanded="true" />
+            <element signature="e#1224#1225#0" expanded="true" />
+            <element signature="e#1267#1268#0" expanded="true" />
+            <element signature="e#1305#1306#0" expanded="true" />
+            <element signature="e#1339#1340#0" expanded="true" />
+            <element signature="e#1369#1370#0" expanded="true" />
+            <element signature="e#1416#1417#0" expanded="true" />
+            <element signature="e#1454#1455#0" expanded="true" />
+            <element signature="e#1497#1498#0" expanded="true" />
+            <element signature="e#1534#1535#0" expanded="true" />
+            <element signature="e#1596#1597#0" expanded="true" />
+            <element signature="e#1648#1649#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/Reference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="83" column="27" lean-forward="false" selection-start-line="83" selection-start-column="15" selection-end-line="83" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2133#2134#0" expanded="true" />
+            <element signature="e#2168#2169#0" expanded="true" />
+            <element signature="e#2213#2214#0" expanded="true" />
+            <element signature="e#2254#2255#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/Area.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="15" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events/map/MapEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#227#228#0" expanded="false" />
+            <element signature="e#257#258#0" expanded="false" />
+            <element signature="e#289#290#0" expanded="false" />
+            <element signature="e#315#316#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events/map/PlayerLogoutEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events/map/ItemDropEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#479#480#0" expanded="false" />
+            <element signature="e#513#514#0" expanded="false" />
+            <element signature="e#546#547#0" expanded="false" />
+            <element signature="e#580#581#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events/map/PlayerLoginEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/game/RoamingItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/game/PlayerSpawn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/game/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events/map/ItemPickupEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#473#474#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events/map/SpawnEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/LocalMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="76" column="0" lean-forward="true" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#821#838#0" expanded="true" />
+            <element signature="e#1215#1216#0" expanded="true" />
+            <element signature="e#1243#1244#0" expanded="true" />
+            <element signature="e#1879#1880#0" expanded="true" />
+            <element signature="e#1917#1918#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/PlayerManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/NpcManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/PetManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/REHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/ItemManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/ServerSetings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="62" column="20" lean-forward="false" selection-start-line="62" selection-start-column="20" selection-end-line="62" selection-end-column="20" />
+          <folding>
+            <element signature="e#1824#1825#0" expanded="true" />
+            <element signature="e#1859#1860#0" expanded="true" />
+            <element signature="e#1888#1889#0" expanded="true" />
+            <element signature="e#1915#1916#0" expanded="true" />
+            <element signature="e#1942#1943#0" expanded="true" />
+            <element signature="e#1967#1968#0" expanded="true" />
+            <element signature="e#10004#10005#0" expanded="true" />
+            <element signature="e#10036#10037#0" expanded="true" />
+            <element signature="e#10084#10085#0" expanded="true" />
+            <element signature="e#10127#10128#0" expanded="true" />
+            <element signature="e#10161#10162#0" expanded="true" />
+            <element signature="e#10189#10190#0" expanded="true" />
+            <element signature="e#10223#10224#0" expanded="true" />
+            <element signature="e#10255#10256#0" expanded="true" />
+            <element signature="e#10303#10304#0" expanded="true" />
+            <element signature="e#10345#10346#0" expanded="true" />
+            <element signature="e#10382#10383#0" expanded="true" />
+            <element signature="e#10417#10418#0" expanded="true" />
+            <element signature="e#10471#10472#0" expanded="true" />
+            <element signature="e#10519#10520#0" expanded="true" />
+            <element signature="e#10558#10559#0" expanded="true" />
+            <element signature="e#10595#10596#0" expanded="true" />
+            <element signature="e#10653#10654#0" expanded="true" />
+            <element signature="e#10705#10706#0" expanded="true" />
+            <element signature="e#10743#10744#0" expanded="true" />
+            <element signature="e#10779#10780#0" expanded="true" />
+            <element signature="e#10817#10818#0" expanded="true" />
+            <element signature="e#10854#10855#0" expanded="true" />
+            <element signature="e#10910#10911#0" expanded="true" />
+            <element signature="e#10960#10961#0" expanded="true" />
+            <element signature="e#11000#11001#0" expanded="true" />
+            <element signature="e#11038#11039#0" expanded="true" />
+            <element signature="e#11098#11099#0" expanded="true" />
+            <element signature="e#11152#11153#0" expanded="true" />
+            <element signature="e#11193#11194#0" expanded="true" />
+            <element signature="e#11230#11231#0" expanded="true" />
+            <element signature="e#11290#11291#0" expanded="true" />
+            <element signature="e#11342#11343#0" expanded="true" />
+            <element signature="e#11380#11381#0" expanded="true" />
+            <element signature="e#11416#11417#0" expanded="true" />
+            <element signature="e#11472#11473#0" expanded="true" />
+            <element signature="e#11522#11523#0" expanded="true" />
+            <element signature="e#11558#11559#0" expanded="true" />
+            <element signature="e#11592#11593#0" expanded="true" />
+            <element signature="e#11644#11645#0" expanded="true" />
+            <element signature="e#11690#11691#0" expanded="true" />
+            <element signature="e#11734#11735#0" expanded="true" />
+            <element signature="e#11775#11776#0" expanded="true" />
+            <element signature="e#11842#11843#0" expanded="true" />
+            <element signature="e#11902#11903#0" expanded="true" />
+            <element signature="e#11942#11943#0" expanded="true" />
+            <element signature="e#11979#11980#0" expanded="true" />
+            <element signature="e#12038#12039#0" expanded="true" />
+            <element signature="e#12090#12091#0" expanded="true" />
+            <element signature="e#12140#12141#0" expanded="true" />
+            <element signature="e#12187#12188#0" expanded="true" />
+            <element signature="e#12384#12385#0" expanded="true" />
+            <element signature="e#12430#12431#0" expanded="true" />
+            <element signature="e#12494#12495#0" expanded="true" />
+            <element signature="e#12554#12555#0" expanded="true" />
+            <element signature="e#12590#12591#0" expanded="true" />
+            <element signature="e#12625#12626#0" expanded="true" />
+            <element signature="e#12678#12679#0" expanded="true" />
+            <element signature="e#12726#12727#0" expanded="true" />
+            <element signature="e#12765#12766#0" expanded="true" />
+            <element signature="e#12801#12802#0" expanded="true" />
+            <element signature="e#12858#12859#0" expanded="true" />
+            <element signature="e#12908#12909#0" expanded="true" />
+            <element signature="e#12947#12948#0" expanded="true" />
+            <element signature="e#12983#12984#0" expanded="true" />
+            <element signature="e#13040#13041#0" expanded="true" />
+            <element signature="e#13090#13091#0" expanded="true" />
+            <element signature="e#13131#13132#0" expanded="true" />
+            <element signature="e#13169#13170#0" expanded="true" />
+            <element signature="e#13230#13231#0" expanded="true" />
+            <element signature="e#13284#13285#0" expanded="true" />
+            <element signature="e#13322#13323#0" expanded="true" />
+            <element signature="e#13358#13359#0" expanded="true" />
+            <element signature="e#13414#13415#0" expanded="true" />
+            <element signature="e#13464#13465#0" expanded="true" />
+            <element signature="e#13507#13508#0" expanded="true" />
+            <element signature="e#13547#13548#0" expanded="true" />
+            <element signature="e#13612#13613#0" expanded="true" />
+            <element signature="e#13670#13671#0" expanded="true" />
+            <element signature="e#13706#13707#0" expanded="true" />
+            <element signature="e#13741#13742#0" expanded="true" />
+            <element signature="e#13794#13795#0" expanded="true" />
+            <element signature="e#13842#13843#0" expanded="true" />
+            <element signature="e#13878#13879#0" expanded="true" />
+            <element signature="e#13913#13914#0" expanded="true" />
+            <element signature="e#13966#13967#0" expanded="true" />
+            <element signature="e#14014#14015#0" expanded="true" />
+            <element signature="e#14055#14056#0" expanded="true" />
+            <element signature="e#14095#14096#0" expanded="true" />
+            <element signature="e#14158#14159#0" expanded="true" />
+            <element signature="e#14216#14217#0" expanded="true" />
+            <element signature="e#14257#14258#0" expanded="true" />
+            <element signature="e#14297#14298#0" expanded="true" />
+            <element signature="e#14360#14361#0" expanded="true" />
+            <element signature="e#14418#14419#0" expanded="true" />
+            <element signature="e#14462#14463#0" expanded="true" />
+            <element signature="e#14503#14504#0" expanded="true" />
+            <element signature="e#14570#14571#0" expanded="true" />
+            <element signature="e#14630#14631#0" expanded="true" />
+            <element signature="e#14673#14674#0" expanded="true" />
+            <element signature="e#14714#14715#0" expanded="true" />
+            <element signature="e#14780#14781#0" expanded="true" />
+            <element signature="e#14840#14841#0" expanded="true" />
+            <element signature="e#14883#14884#0" expanded="true" />
+            <element signature="e#14924#14925#0" expanded="true" />
+            <element signature="e#14990#14991#0" expanded="true" />
+            <element signature="e#15050#15051#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/JDBCTools.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="217" column="8" lean-forward="false" selection-start-line="217" selection-start-column="8" selection-end-line="217" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/FileRecv/newmyserver/org/reunionemu/jreunion/server/Command.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="32" column="24" lean-forward="true" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+          <folding>
+            <element signature="e#1290#1291#0" expanded="true" />
+            <element signature="e#1325#1326#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/FileRecv/newmyserver/org/reunionemu/jreunion/server/Database.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="267" column="33" lean-forward="true" selection-start-line="267" selection-start-column="33" selection-end-line="267" selection-end-column="33" />
+          <folding>
+            <marker date="1369838312000" expanded="true" signature="3824:3913" ph="SELECT id FR... accounts" />
+            <marker date="1369838312000" expanded="true" signature="5012:5196" ph="SELECT `x`, characters" />
+            <marker date="1369838312000" expanded="true" signature="6615:6792" ph="UPDATE `char... " />
+            <marker date="1369838312000" expanded="true" signature="7613:7790" ph="UPDATE `char... " />
+            <marker date="1369838312000" expanded="true" signature="8711:8853" ph="SELECT * FRO... characters" />
+            <marker date="1369838312000" expanded="true" signature="13006:13043" ph="SELECT * FRO... equipment" />
+            <marker date="1369838312000" expanded="true" signature="14545:14584" ph="SELECT * FRO... evequipment" />
+            <marker date="1369838312000" expanded="true" signature="16296:16335" ph="SELECT * FRO... petequipment" />
+            <marker date="1369838312000" expanded="true" signature="17975:18086" ph="SELECT C.*,A... characters" />
+            <marker date="1369838312000" expanded="true" signature="19698:19760" ph="SELECT name guilds" />
+            <marker date="1369838312000" expanded="true" signature="21176:21208" ph="DELETE FROM " />
+            <marker date="1369838312000" expanded="true" signature="21329:22191" ph="INSERT INTO characters... " />
+            <marker date="1369838312000" expanded="true" signature="23829:23846" ph="SELECT * FRO... pet" />
+            <marker date="1369838312000" expanded="true" signature="24944:24971" ph="SELECT * FRO... pet" />
+            <marker date="1369838312000" expanded="true" signature="27290:27315" ph="DELETE FROM " />
+            <marker date="1369838312000" expanded="true" signature="27388:28067" ph="INSERT INTO pet... " />
+            <marker date="1369838312000" expanded="true" signature="29250:29291" ph="SELECT * FRO... petequipment" />
+            <marker date="1369838312000" expanded="true" signature="29522:29561" ph="DELETE FROM " />
+            <marker date="1369838312000" expanded="true" signature="29650:29679" ph="SELECT * FRO... pet" />
+            <marker date="1369838312000" expanded="true" signature="29904:29931" ph="DELETE FROM " />
+            <marker date="1369838312000" expanded="true" signature="30010:30054" ph="UPDATE chara... " />
+            <marker date="1369838312000" expanded="true" signature="32095:32189" ph="UPDATE chara... " />
+            <marker date="1369838312000" expanded="true" signature="32928:32983" ph="SELECT id FR... characters" />
+            <marker date="1369838312000" expanded="true" signature="35283:35393" ph="INSERT INTO slots... " />
+            <marker date="1369838312000" expanded="true" signature="39091:39176" ph="(SELECT char... " />
+            <marker date="1369838312000" expanded="true" signature="39092:39163" ph="SELECT chari... slots" />
+            <marker date="1369838312000" expanded="true" signature="40374:40411" ph="SELECT * FRO... inventory" />
+            <marker date="1369838312000" expanded="true" signature="42306:42341" ph="DELETE FROM " />
+            <marker date="1369838312000" expanded="true" signature="42406:42462" ph="INSERT INTO inventory... " />
+            <marker date="1369838312000" expanded="true" signature="43088:43262" ph="(missingValu... " />
+            <marker date="1369838312000" expanded="true" signature="44532:44565" ph="SELECT id FR... characters" />
+            <marker date="1369838312000" expanded="true" signature="44714:44742" ph="SELECT id FR... items" />
+            <marker date="1369838312000" expanded="true" signature="45755:45805" ph="SELECT type items" />
+            <marker date="1369838312000" expanded="true" signature="46889:46926" ph="DELETE FROM " />
+            <marker date="1369838312000" expanded="true" signature="47702:47739" ph="DELETE FROM " />
+            <marker date="1369838312000" expanded="true" signature="48609:48649" ph="SELECT * FRO... roaming" />
+            <marker date="1369838312000" expanded="true" signature="50332:50609" ph="INSERT INTO `roaming`... " />
+            <marker date="1369838312000" expanded="true" signature="51333:51369" ph="DELETE FROM " />
+            <marker date="1369838312000" expanded="true" signature="51422:51475" ph="INSERT INTO `skills`... " />
+            <marker date="1369838312000" expanded="true" signature="51939:51993" ph="(missingValu... " />
+            <marker date="1369838312000" expanded="true" signature="52847:52888" ph="SELECT id,le... skills" />
+            <marker date="1369838312000" expanded="true" signature="54056:54091" ph="DELETE FROM " />
+            <marker date="1369838312000" expanded="true" signature="54218:54269" ph="INSERT INTO equipment... " />
+            <marker date="1369838312000" expanded="true" signature="54971:55035" ph="(missingValu... " />
+            <marker date="1369838312000" expanded="true" signature="56000:56037" ph="DELETE FROM " />
+            <marker date="1369838312000" expanded="true" signature="56168:56221" ph="INSERT INTO evequipment... " />
+            <marker date="1369838312000" expanded="true" signature="56806:56870" ph="(missingValu... " />
+            <marker date="1369838312000" expanded="true" signature="57885:57922" ph="DELETE FROM " />
+            <marker date="1369838312000" expanded="true" signature="58034:58087" ph="INSERT INTO petequipment... " />
+            <marker date="1369838312000" expanded="true" signature="58624:58685" ph="(missingValu... " />
+            <marker date="1369838312000" expanded="true" signature="59629:59669" ph="SELECT * FRO... warehouse" />
+            <marker date="1369838312000" expanded="true" signature="61090:61128" ph="DELETE FROM " />
+            <marker date="1369838312000" expanded="true" signature="61652:61824" ph="INSERT INTO warehouse... " />
+            <marker date="1369838312000" expanded="true" signature="62608:62644" ph="SELECT * FRO... exchange" />
+            <marker date="1369838312000" expanded="true" signature="64195:64229" ph="DELETE FROM " />
+            <marker date="1369838312000" expanded="true" signature="64749:64979" ph="INSERT INTO exchange... " />
+            <marker date="1369838312000" expanded="true" signature="65680:65720" ph="DELETE FROM " />
+            <marker date="1369838312000" expanded="true" signature="65755:65823" ph="Update chara... " />
+            <marker date="1369838312000" expanded="true" signature="66554:66591" ph="SELECT * FRO... quickslot" />
+            <marker date="1369838312000" expanded="true" signature="68138:68173" ph="DELETE FROM " />
+            <marker date="1369838312000" expanded="true" signature="68659:68817" ph="INSERT INTO quickslot... " />
+            <marker date="1369838312000" expanded="true" signature="69594:69633" ph="DELETE FROM " />
+            <marker date="1369838312000" expanded="true" signature="70519:70539" ph="SELECT * FRO... quests" />
+            <marker date="1369838312000" expanded="true" signature="72015:72062" ph="SELECT * FRO... quests" />
+            <marker date="1369838312000" expanded="true" signature="72324:72393" ph="SELECT * FRO... quests_type" />
+            <marker date="1369838312000" expanded="true" signature="74592:74660" ph="SELECT * FRO... quests_objective" />
+            <marker date="1369838312000" expanded="true" signature="74815:74905" ph="SELECT * FRO... quests_objective_type" />
+            <marker date="1369838312000" expanded="true" signature="77244:77309" ph="SELECT * FRO... quests_reward" />
+            <marker date="1369838312000" expanded="true" signature="77455:77536" ph="SELECT * FRO... quests_reward_type" />
+            <marker date="1369838312000" expanded="true" signature="79680:79718" ph="SELECT * FRO... queststate" />
+            <marker date="1369838312000" expanded="true" signature="81842:81961" ph="SELECT * FRO... questobjectivestate" />
+            <marker date="1369838312000" expanded="true" signature="83421:83468" ph="INSERT INTO queststate... " />
+            <marker date="1369838312000" expanded="true" signature="83507:83579" ph="('missingVal... " />
+            <marker date="1369838312000" expanded="true" signature="84935:85010" ph="INSERT INTO questobjectivestate... " />
+            <marker date="1369838312000" expanded="true" signature="85393:85463" ph="('missingVal... " />
+            <marker date="1369838312000" expanded="true" signature="86574:86642" ph="SELECT * FRO... queststate" />
+            <marker date="1369838312000" expanded="true" signature="86812:86844" ph="DELETE FROM " />
+            <marker date="1369838312000" expanded="true" signature="87703:87776" ph="DELETE FROM " />
+            <marker date="1369838312000" expanded="true" signature="88597:88636" ph="SELECT * FRO... equipment" />
+            <marker date="1369838312000" expanded="true" signature="89078:89115" ph="DELETE FROM " />
+            <marker date="1369838312000" expanded="true" signature="90200:90238" ph="SELECT * FRO... exchange" />
+            <marker date="1369838312000" expanded="true" signature="90680:90716" ph="DELETE FROM " />
+            <marker date="1369838312000" expanded="true" signature="91802:91841" ph="SELECT * FRO... inventory" />
+            <marker date="1369838312000" expanded="true" signature="92282:92319" ph="DELETE FROM " />
+            <marker date="1369838312000" expanded="true" signature="93356:93396" ph="SELECT * FRO... queststate" />
+            <marker date="1369838312000" expanded="true" signature="93621:93659" ph="DELETE FROM " />
+            <marker date="1369838312000" expanded="true" signature="94748:94787" ph="SELECT * FRO... quickslot" />
+            <marker date="1369838312000" expanded="true" signature="95224:95261" ph="DELETE FROM " />
+            <marker date="1369838312000" expanded="true" signature="96143:96177" ph="DELETE FROM " />
+            <marker date="1369838312000" expanded="true" signature="96859:96893" ph="DELETE FROM " />
+            <marker date="1369838312000" expanded="true" signature="97574:97607" ph="DELETE FROM " />
+            <marker date="1369838312000" expanded="true" signature="98415:98488" ph="SELECT chari... slots" />
+            <marker date="1369838312000" expanded="true" signature="99518:99554" ph="SELECT * FRO... characters" />
+            <marker date="1369838312000" expanded="true" signature="100567:100611" ph="INSERT INTO guilds... " />
+            <marker date="1369838312000" expanded="true" signature="100658:100707" ph="SELECT id FR... guilds" />
+            <marker date="1369838312000" expanded="true" signature="101739:101775" ph="SELECT * FRO... characters" />
+            <marker date="1369838312000" expanded="true" signature="102199:102363" ph="UPDATE chara... " />
+            <marker date="1369838312000" expanded="true" signature="102402:102442" ph="UPDATE skill... " />
+            <marker date="1369838312000" expanded="true" signature="103341:103433" ph="SELECT level... accounts" />
+            <marker date="1369838312000" expanded="true" signature="104437:104468" ph="DROP TABLE I... " />
+            <marker date="1369838312000" expanded="true" signature="104502:104528" ph="DROP TABLE I... " />
+            <marker date="1369838312000" expanded="true" signature="104562:104589" ph="DROP TABLE I... " />
+            <marker date="1369838312000" expanded="true" signature="104623:104652" ph="DROP TABLE I... " />
+            <marker date="1369838312000" expanded="true" signature="104686:104712" ph="DROP TABLE I... " />
+            <marker date="1369838312000" expanded="true" signature="105495:105543" ph="SELECT itemi... onlineshop" />
+            <marker date="1369838312000" expanded="true" signature="106624:106670" ph="SELECT lime onlineshop" />
+            <marker date="1369838312000" expanded="true" signature="107749:107797" ph="SELECT iteme... onlineshop" />
+            <marker date="1369838312000" expanded="true" signature="108831:108912" ph="UPDATE `acco... " />
+            <marker date="1369838312000" expanded="true" signature="109867:109908" ph="SELECT * FRO... evequipment" />
+            <marker date="1369838312000" expanded="true" signature="110345:110384" ph="DELETE FROM " />
+            <marker date="1369838312000" expanded="true" signature="111422:111462" ph="SELECT petid... characters" />
+            <marker date="1369838312000" expanded="true" signature="112546:112587" ph="SELECT * FRO... petequipment" />
+            <marker date="1369838312000" expanded="true" signature="112807:112846" ph="DELETE FROM " />
+            <marker date="1369838312000" expanded="true" signature="112929:112958" ph="SELECT * FRO... pet" />
+            <marker date="1369838312000" expanded="true" signature="113167:113194" ph="DELETE FROM " />
+            <marker date="1369838312000" expanded="true" signature="114322:114675" ph="UPDATE `item... " />
+            <marker date="1369838312000" expanded="true" signature="116243:116286" ph="DELETE FROM " />
+            <marker date="1369838312000" expanded="true" signature="117132:117177" ph="SELECT * FRO... items" />
+            <marker date="1369838312000" expanded="true" signature="119061:119112" ph="DELETE FROM " />
+            <marker date="1369838312000" expanded="true" signature="119151:119204" ph="DELETE FROM " />
+            <marker date="1369838312000" expanded="true" signature="119243:119293" ph="DELETE FROM " />
+            <marker date="1369838312000" expanded="true" signature="119332:119383" ph="DELETE FROM " />
+            <marker date="1369838312000" expanded="true" signature="119422:119473" ph="DELETE FROM " />
+            <marker date="1369838312000" expanded="true" signature="119512:119563" ph="DELETE FROM " />
+            <marker date="1369838312000" expanded="true" signature="120294:120353" ph="UPDATE `char... " />
+            <marker date="1369838312000" expanded="true" signature="121233:121269" ph="SELECT * FRO... jingling" />
+            <marker date="1369838312000" expanded="true" signature="124560:124681" ph="INSERT INTO jingling... " />
+            <marker date="1369838312000" expanded="true" signature="125338:125402" ph="DELETE FROM " />
+            <marker date="1369838312000" expanded="true" signature="126168:126228" ph="SELECT * FRO... characters" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/DatabaseUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3971">
+          <caret line="213" column="24" lean-forward="true" selection-start-line="213" selection-start-column="24" selection-end-line="213" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1507128385675" expanded="true" signature="2079:2134" ph="SELECT id FR... accounts" />
+            <marker date="1507128385675" expanded="true" signature="3067:3125" ph="SELECT level... accounts" />
+            <marker date="1507128385675" expanded="true" signature="4241:4383" ph="SELECT * FRO... characters" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/Database.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="32" column="5" lean-forward="false" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/SkillManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
@@ -534,512 +1397,190 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events/EventListener.java">
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/game/ItemType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="41" lean-forward="false" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events/Filter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="32" lean-forward="false" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events/InvalidEventException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="83" lean-forward="false" selection-start-line="6" selection-start-column="83" selection-end-line="6" selection-end-column="83" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/net/InetSocketAddress.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="51" column="13" lean-forward="false" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/network/NetworkThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="40" column="19" lean-forward="false" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+        <state relative-caret-position="510">
+          <caret line="198" column="45" lean-forward="true" selection-start-line="198" selection-start-column="45" selection-end-line="198" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1106#1107#0" expanded="true" />
-            <element signature="e#1137#1138#0" expanded="true" />
-            <element signature="e#1179#1180#0" expanded="true" />
-            <element signature="e#1236#1237#0" expanded="true" />
-            <element signature="e#1282#1283#0" expanded="true" />
-            <element signature="e#1339#1340#0" expanded="true" />
-            <element signature="e#2160#2161#0" expanded="true" />
-            <element signature="e#2217#2218#0" expanded="true" />
+            <element signature="e#799#800#0" expanded="true" />
+            <element signature="e#826#827#0" expanded="true" />
+            <element signature="e#855#856#0" expanded="true" />
+            <element signature="e#883#884#0" expanded="true" />
+            <element signature="e#912#913#0" expanded="true" />
+            <element signature="e#940#941#0" expanded="true" />
+            <element signature="e#969#970#0" expanded="true" />
+            <element signature="e#997#998#0" expanded="true" />
+            <element signature="e#1027#1028#0" expanded="true" />
+            <element signature="e#1054#1055#0" expanded="true" />
+            <element signature="e#1096#1097#0" expanded="true" />
+            <element signature="e#1130#1131#0" expanded="true" />
+            <element signature="e#1159#1160#0" expanded="true" />
+            <element signature="e#1187#1188#0" expanded="true" />
+            <element signature="e#1226#1227#0" expanded="true" />
+            <element signature="e#1260#1261#0" expanded="true" />
+            <element signature="e#1290#1291#0" expanded="true" />
+            <element signature="e#1319#1320#0" expanded="true" />
+            <element signature="e#1349#1350#0" expanded="true" />
+            <element signature="e#1378#1379#0" expanded="true" />
+            <element signature="e#1408#1409#0" expanded="true" />
+            <element signature="e#1437#1438#0" expanded="true" />
+            <element signature="e#1478#1479#0" expanded="true" />
+            <element signature="e#1514#1515#0" expanded="true" />
+            <element signature="e#1555#1556#0" expanded="true" />
+            <element signature="e#1591#1592#0" expanded="true" />
+            <element signature="e#1632#1633#0" expanded="true" />
+            <element signature="e#1668#1669#0" expanded="true" />
+            <element signature="e#4381#4382#0" expanded="true" />
+            <element signature="e#4417#4418#0" expanded="true" />
+            <element signature="e#4456#4457#0" expanded="true" />
+            <element signature="e#4490#4491#0" expanded="true" />
+            <element signature="e#4529#4530#0" expanded="true" />
+            <element signature="e#4563#4564#0" expanded="true" />
+            <element signature="e#4602#4603#0" expanded="true" />
+            <element signature="e#4636#4637#0" expanded="true" />
+            <element signature="e#4877#4878#0" expanded="true" />
+            <element signature="e#4913#4914#0" expanded="true" />
+            <element signature="e#4968#4969#0" expanded="true" />
+            <element signature="e#5018#5019#0" expanded="true" />
+            <element signature="e#5056#5057#0" expanded="true" />
+            <element signature="e#5092#5093#0" expanded="true" />
+            <element signature="e#5148#5149#0" expanded="true" />
+            <element signature="e#5198#5199#0" expanded="true" />
+            <element signature="e#5234#5235#0" expanded="true" />
+            <element signature="e#5269#5270#0" expanded="true" />
+            <element signature="e#5322#5323#0" expanded="true" />
+            <element signature="e#5370#5371#0" expanded="true" />
+            <element signature="e#5407#5408#0" expanded="true" />
+            <element signature="e#5442#5443#0" expanded="true" />
+            <element signature="e#5497#5498#0" expanded="true" />
+            <element signature="e#5545#5546#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/network/Connection.java">
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/game/ItemPosition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="91" column="32" lean-forward="false" selection-start-line="91" selection-start-column="32" selection-end-line="91" selection-end-column="32" />
+        <state relative-caret-position="190">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#496#497#0" expanded="false" />
-            <element signature="e#523#524#0" expanded="false" />
-            <element signature="e#570#571#0" expanded="false" />
-            <element signature="e#606#607#0" expanded="false" />
-            <element signature="e#1614#1615#0" expanded="false" />
-            <element signature="e#1650#1651#0" expanded="false" />
-            <element signature="e#2812#2813#0" expanded="false" />
-            <element signature="e#2869#2870#0" expanded="false" />
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/io/Serializable.java">
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/game/Item.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="686">
-          <caret line="168" column="17" lean-forward="false" selection-start-line="168" selection-start-column="17" selection-end-line="168" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/network/PacketConnection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="50" column="1" lean-forward="false" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+        <state relative-caret-position="589">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#699#700#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
+            <element signature="e#784#785#0" expanded="true" />
+            <element signature="e#824#825#0" expanded="true" />
+            <element signature="e#855#856#0" expanded="true" />
+            <element signature="e#888#889#0" expanded="true" />
+            <element signature="e#914#915#0" expanded="true" />
+            <element signature="e#941#942#0" expanded="true" />
+            <element signature="e#976#977#0" expanded="true" />
+            <element signature="e#1008#1009#0" expanded="true" />
+            <element signature="e#1038#1039#0" expanded="true" />
+            <element signature="e#1067#1068#0" expanded="true" />
+            <element signature="e#1108#1109#0" expanded="true" />
+            <element signature="e#1144#1145#0" expanded="true" />
+            <element signature="e#1178#1179#0" expanded="true" />
+            <element signature="e#1210#1211#0" expanded="true" />
+            <element signature="e#1258#1259#0" expanded="true" />
+            <element signature="e#1300#1301#0" expanded="true" />
+            <element signature="e#1335#1336#0" expanded="true" />
+            <element signature="e#1368#1369#0" expanded="true" />
+            <element signature="e#1418#1419#0" expanded="true" />
+            <element signature="e#1462#1463#0" expanded="true" />
+            <element signature="e#1496#1497#0" expanded="true" />
+            <element signature="e#1529#1530#0" expanded="true" />
+            <element signature="e#1578#1579#0" expanded="true" />
+            <element signature="e#1622#1623#0" expanded="true" />
+            <element signature="e#1654#1655#0" expanded="true" />
+            <element signature="e#1685#1686#0" expanded="true" />
+            <element signature="e#1730#1731#0" expanded="true" />
+            <element signature="e#1770#1771#0" expanded="true" />
+            <element signature="e#1802#1803#0" expanded="true" />
+            <element signature="e#1833#1834#0" expanded="true" />
+            <element signature="e#1878#1879#0" expanded="true" />
+            <element signature="e#1918#1919#0" expanded="true" />
+            <element signature="e#1950#1951#0" expanded="true" />
+            <element signature="e#1981#1982#0" expanded="true" />
+            <element signature="e#2026#2027#0" expanded="true" />
+            <element signature="e#2066#2067#0" expanded="true" />
+            <element signature="e#2112#2113#0" expanded="true" />
+            <element signature="e#2136#2137#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/network/PacketServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/ClassFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="28" lean-forward="false" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/Map.java">
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/TeleportManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/PacketFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="29" lean-forward="false" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
-          <folding>
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#338#339#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
-            <element signature="e#488#489#0" expanded="true" />
-            <element signature="e#522#523#0" expanded="true" />
-            <element signature="e#583#584#0" expanded="true" />
-            <element signature="e#626#627#0" expanded="true" />
-            <element signature="e#664#665#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/network/protocol/DefaultProtocol.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="605">
-          <caret line="35" column="51" lean-forward="false" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/network/protocol/Protocol.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="48" column="36" lean-forward="false" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#580#590#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egameserver/src/main/resources/log4g.properties">
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/RemoteMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/network/protocol/DebugProtocol.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="44" lean-forward="false" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#269#270#0" expanded="false" />
-            <element signature="e#292#293#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/protocol/DefaultProtocol.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="18" column="49" lean-forward="false" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/protocol/ProtocolTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="181" column="1" lean-forward="false" selection-start-line="181" selection-start-column="1" selection-end-line="181" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/DatabaseUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="28" column="9" lean-forward="false" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-          <folding>
-            <element signature="e#950#951#0" expanded="false" />
-            <element signature="e#988#989#0" expanded="false" />
-            <element signature="e#1220#1221#0" expanded="false" />
-            <element signature="e#1274#1275#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/Crypt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="40" column="1" lean-forward="false" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/Reference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/protocol/OtherProtocol.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="44" lean-forward="true" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
-          <folding>
-            <element signature="e#2064#2065#0" expanded="true" />
-            <element signature="e#2094#2095#0" expanded="true" />
-            <element signature="e#2293#2294#0" expanded="true" />
-            <element signature="e#2320#2321#0" expanded="true" />
-            <element signature="e#2357#2358#0" expanded="true" />
-            <element signature="e#2389#2390#0" expanded="true" />
-            <element signature="e#2420#2421#0" expanded="true" />
-            <element signature="e#2450#2451#0" expanded="true" />
-            <element signature="e#2493#2494#0" expanded="true" />
-            <element signature="e#2531#2532#0" expanded="true" />
-            <element signature="e#2560#2561#0" expanded="true" />
-            <element signature="e#2588#2589#0" expanded="true" />
-            <element signature="e#2627#2628#0" expanded="true" />
-            <element signature="e#2661#2662#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/MessageParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/PacketParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events/Event.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events/server/ServerEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#219#220#0" expanded="false" />
-            <element signature="e#248#249#0" expanded="false" />
-            <element signature="e#289#290#0" expanded="false" />
-            <element signature="e#325#326#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events/server/ServerStartEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-          <folding>
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events/server/ServerStopEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-          <folding>
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/events/EventDispatcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="106" column="31" lean-forward="false" selection-start-line="106" selection-start-column="31" selection-end-line="106" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/Network.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="887">
-          <caret line="502" column="5" lean-forward="true" selection-start-line="500" selection-start-column="57" selection-end-line="502" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/World.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="3322">
+          <caret line="256" column="0" lean-forward="true" selection-start-line="256" selection-start-column="0" selection-end-line="256" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1476#1490#0" expanded="true" />
+            <element signature="e#1563#1586#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/game/Spawn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1503">
+          <caret line="102" column="2" lean-forward="true" selection-start-line="102" selection-start-column="2" selection-end-line="102" selection-end-column="2" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/egameserver/src/main/resources/spring/applicationContext.xml">
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/game/WorldObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egameserver/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1520">
-          <caret line="80" column="21" lean-forward="false" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE.jar!/org/springframework/context/support/ClassPathXmlApplicationContext.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="23" column="11" lean-forward="false" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/context/support/ClassPathXmlApplicationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="136" column="19" lean-forward="false" selection-start-line="136" selection-start-column="19" selection-end-line="136" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/context/support/AbstractRefreshableConfigApplicationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-215">
-          <caret line="74" column="54" lean-forward="false" selection-start-line="74" selection-start-column="45" selection-end-line="74" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/context/support/ApplicationContextAwareProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1068">
-          <caret line="99" column="0" lean-forward="false" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.10.RELEASE/spring-beans-4.3.10.RELEASE.jar!/org/springframework/beans/factory/annotation/InitDestroyAnnotationBeanPostProcessor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="196" column="32" lean-forward="true" selection-start-line="196" selection-start-column="32" selection-end-line="196" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.10.RELEASE/spring-beans-4.3.10.RELEASE.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="241" column="123" lean-forward="false" selection-start-line="241" selection-start-column="123" selection-end-line="241" selection-end-column="123" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/Database.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        <state relative-caret-position="266">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/Server.java">
+    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/server/SessionList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="129" column="19" lean-forward="false" selection-start-line="129" selection-start-column="19" selection-end-line="129" selection-end-column="19" />
+        <state relative-caret-position="206">
+          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1781#1782#0" expanded="true" />
-            <element signature="e#1816#1817#0" expanded="true" />
-            <element signature="e#2004#2005#0" expanded="true" />
-            <element signature="e#2032#2033#0" expanded="true" />
-            <element signature="e#2104#2105#0" expanded="true" />
-            <element signature="e#2136#2137#0" expanded="true" />
-            <element signature="e#2173#2174#0" expanded="true" />
-            <element signature="e#2204#2205#0" expanded="true" />
-            <element signature="e#2266#2267#0" expanded="true" />
-            <element signature="e#2307#2308#0" expanded="true" />
-            <element signature="e#2342#2343#0" expanded="true" />
-            <element signature="e#2372#2373#0" expanded="true" />
-            <element signature="e#2557#2558#0" expanded="true" />
-            <element signature="e#2584#2585#0" expanded="true" />
-            <element signature="e#2658#2659#0" expanded="true" />
-            <element signature="e#2686#2687#0" expanded="true" />
-            <element signature="e#2727#2728#0" expanded="true" />
-            <element signature="e#2761#2762#0" expanded="true" />
-            <element signature="e#3181#3182#0" expanded="true" />
-            <element signature="e#3211#3212#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egameserver/src/main/java/com/hsj/egameserver/protocol/Protocol.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="65" column="29" lean-forward="false" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ecommon/src/main/java/com/hsj/ecommon/Parser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="101" column="41" lean-forward="false" selection-start-line="101" selection-start-column="41" selection-end-line="101" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logs/2017-10-02-23.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logs/2017-10-03-00.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1049,10 +1590,12 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>evilbonefun:jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.14983352" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>

@@ -1,0 +1,332 @@
+[Spawn 5101]
+ID = 5101
+X = 6000
+Y = 5600
+Z = 200
+Radius = 700
+RespawnTime = 600 #ºï
+Type = 315
+
+[Spawn 5102]
+ID = 5102
+X = 6000
+Y = 5600
+Z = 200
+Radius = 700
+RespawnTime = 600 #ºï
+Type = 315
+
+[Spawn 5103]
+ID = 5103
+X = 6000
+Y = 5600
+Z = 200
+Radius = 700
+RespawnTime = 600 #ºï
+Type = 315
+
+[Spawn 5104]
+ID = 5104
+X = 6000
+Y = 5600
+Z = 200
+Radius = 700
+RespawnTime = 600 #ºï
+Type = 315
+
+[Spawn 5105]
+ID = 5105
+X = 6000
+Y = 5600
+Z = 200
+Radius = 700
+RespawnTime = 600 #ºï
+Type = 315
+
+[Spawn 5106]
+ID = 5106
+X = 6000
+Y = 5600
+Z = 200
+Radius = 700
+RespawnTime = 600 #ºï
+Type = 315
+
+[Spawn 5107]
+ID = 5107
+X = 6000
+Y = 5600
+Z = 200
+Radius = 700
+RespawnTime = 600 #ºï
+Type = 315
+
+[Spawn 5108]
+ID = 5108
+X = 6000
+Y = 5600
+Z = 200
+Radius = 700
+RespawnTime = 600 #ºï
+Type = 315
+
+[Spawn 5109]
+ID = 5109
+X = 6000
+Y = 5600
+Z = 200
+Radius = 700
+RespawnTime = 600 #ºï
+Type = 315
+
+[Spawn 5110]
+ID = 5110
+X = 6000
+Y = 5600
+Z = 200
+Radius = 700
+RespawnTime = 600 #ºï
+Type = 315
+
+[Spawn 5111]
+ID = 5111
+X = 6000
+Y = 5600
+Z = 200
+Radius = 700
+RespawnTime = 600 #ºï
+Type = 315
+
+[Spawn 5112]
+ID = 5112
+X = 6000
+Y = 5600
+Z = 200
+Radius = 700
+RespawnTime = 600 #ºï
+Type = 315
+
+[Spawn 5113]
+ID = 5113
+X = 6000
+Y = 5600
+Z = 200
+Radius = 700
+RespawnTime = 600 #ºï
+Type = 315
+
+[Spawn 5114]
+ID = 5114
+X = 6000
+Y = 5600
+Z = 200
+Radius = 700
+RespawnTime = 600 #ºï
+Type = 315
+
+[Spawn 5115]
+ID = 5115
+X = 6000
+Y = 5600
+Z = 200
+Radius = 700
+RespawnTime = 600 #ºï
+Type = 315
+
+[Spawn 5116]
+ID = 5116
+X = 6000
+Y = 5600
+Z = 200
+Radius = 700
+RespawnTime = 600 #ºï
+Type = 315
+
+[Spawn 5117]
+ID = 5117
+X = 6000
+Y = 5600
+Z = 200
+Radius = 700
+RespawnTime = 600 #ºï
+Type = 315
+
+[Spawn 5118]
+ID = 5118
+X = 6000
+Y = 5600
+Z = 200
+Radius = 700
+RespawnTime = 600 #ºï
+Type = 315
+
+[Spawn 5119]
+ID = 5119
+X = 6000
+Y = 5600
+Z = 200
+Radius = 700
+RespawnTime = 600 #ºï
+Type = 315
+
+[Spawn 5120]
+ID = 5120
+X = 6000
+Y = 5600
+Z = 200
+Radius = 700
+RespawnTime = 600 #ºï
+Type = 315
+
+[Spawn 5121]
+ID = 5121
+X = 6000
+Y = 5600
+Z = 200
+Radius = 700
+RespawnTime = 600 #ºï
+Type = 315
+
+[Spawn 5122]
+ID = 5122
+X = 6000
+Y = 5600
+Z = 200
+Radius = 700
+RespawnTime = 600 #ºï
+Type = 315
+
+[Spawn 5123]
+ID = 5123
+X = 6000
+Y = 5600
+Z = 200
+Radius = 700
+RespawnTime = 600 #ºï
+Type = 315
+
+[Spawn 5124]
+ID = 5124
+X = 6000
+Y = 5600
+Z = 200
+Radius = 700
+RespawnTime = 600 #ºï
+Type = 315
+
+[Spawn 5125]
+ID = 5125
+X = 6000
+Y = 5600
+Z = 200
+Radius = 700
+RespawnTime = 600 #ºï
+Type = 315
+
+[Spawn 5126]
+ID = 5126
+X = 6000
+Y = 5600
+Z = 200
+Radius = 700
+RespawnTime = 600 #ºï
+Type = 315
+
+[Spawn 5127]
+ID = 5127
+X = 6000
+Y = 5600
+Z = 200
+Radius = 700
+RespawnTime = 600 #ºï
+Type = 315
+
+[Spawn 5128]
+ID = 5128
+X = 6000
+Y = 5600
+Z = 200
+Radius = 700
+RespawnTime = 600 #ºï
+Type = 315
+
+[Spawn 5129]
+ID = 5129
+X = 6000
+Y = 5600
+Z = 200
+Radius = 700
+RespawnTime = 600 #ºï
+Type = 315
+
+[Spawn 5130]
+ID = 5130
+X = 6000
+Y = 5600
+Z = 200
+Radius = 700
+RespawnTime = 600 #ºï
+Type = 315
+
+[Spawn 5131]
+ID = 5131
+X = 6000
+Y = 5600
+Z = 200
+Radius = 700
+RespawnTime = 600 #ºï
+Type = 315
+
+[Spawn 5132]
+ID = 5132
+X = 6000
+Y = 5600
+Z = 200
+Radius = 700
+RespawnTime = 600 #ºï
+Type = 315
+
+[Spawn 5133]
+ID = 5133
+X = 6000
+Y = 5600
+Z = 200
+Radius = 700
+RespawnTime = 600 #ºï
+Type = 315
+
+[Spawn 5134]
+ID = 5134
+X = 6000
+Y = 5600
+Z = 200
+Radius = 700
+RespawnTime = 600 #ºï
+Type = 315
+
+[Spawn 5135]
+ID = 5135
+X = 6000
+Y = 5600
+Z = 200
+Radius = 700
+RespawnTime = 600 #ºï
+Type = 315
+
+[Spawn 5136]
+ID = 5136
+X = 6000
+Y = 5600
+Z = 200
+Radius = 700
+RespawnTime = 600 #ºï
+Type = 315
+
+[Spawn 5137]
+ID = 5137
+X = 6000
+Y = 5600
+Z = 200
+Radius = 700
+RespawnTime = 600 #ºï
+Type = 315

@@ -1,0 +1,63 @@
+[考古学者别路里安1]  
+ID = 1
+X = 1520
+Y = 1150
+Z = 122
+Rotation = 3.1415
+Type = 607 
+
+[仓库3] 
+ID = 3
+X = 1520
+Y = 1200
+Z = 122
+Rotation = 3.1415
+Type = 139
+
+[A Gorgeous Girl-4] #摩登女郎药店
+ID = 4
+X = 940
+Y = 1425
+Z = 122
+Rotation = 0.0
+Type = 320
+BuyRate = 120	# Value in %
+SellRate = 30	# Value in %
+Shop = areas/dimitron/shop/npc3.dta
+
+[Robe Shopkeeper-5] #凯利顿装备商人条子
+ID = 5
+X = 940
+Y = 1375
+Z = 122
+Rotation = 0.0
+Type = 73
+BuyRate = 120	# Value in %
+SellRate = 30	# Value in %
+Shop = areas/dimitron/shop/npc2.dta
+
+[A Gorgeous Girl-6] #摩登女郎药店
+ID = 6
+X = 1290
+Y = 1020
+Z = 122
+Rotation = 1.5707
+Type = 320
+BuyRate = 120	# Value in %
+SellRate = 30	# Value in %
+Shop = areas/dimitron/shop/npc3.dta
+
+[Robe Shopkeeper-7] #凯利顿装备商人条子
+ID = 7
+X = 1240
+Y = 1020
+Z = 122
+Rotation = 1.5707
+Type = 73
+BuyRate = 120	# Value in %
+SellRate = 30	# Value in %
+Shop = areas/dimitron/shop/npc2.dta
+
+
+
+

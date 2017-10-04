@@ -1,0 +1,217 @@
+# SQL Manager 2005 Lite for MySQL 3.6.0.3
+# ---------------------------------------
+# Host     : localhost
+# Port     : 3306
+# Database : reunion
+
+
+SET FOREIGN_KEY_CHECKS=0;
+
+DROP DATABASE IF EXISTS `reunion`;
+
+CREATE DATABASE `reunion`
+    CHARACTER SET 'utf8'
+    COLLATE 'utf8_unicode_ci';
+
+USE `reunion`;
+
+DROP TABLE IF EXISTS `accounts`;
+
+CREATE TABLE `accounts` (
+  `id` bigint(20) NOT NULL AUTO_INCREMENT,
+  `username` varchar(28) NOT NULL,
+  `password` varchar(28) NOT NULL,
+  `email` varchar(256) NOT NULL,
+  `level` int(11) NOT NULL default '0',
+  `realname` varchar(256) NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
+
+DROP TABLE IF EXISTS `characters`;
+
+CREATE TABLE `characters` (
+  `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
+  `accountid` int(11) DEFAULT NULL,
+  `name` varchar(32) DEFAULT NULL,
+  `level` int(11) DEFAULT NULL,
+  `strength` int(11) DEFAULT NULL,
+  `wisdom` int(11) DEFAULT NULL,
+  `dexterity` int(11) DEFAULT NULL,
+  `constitution` int(11) DEFAULT NULL,
+  `leadership` int(11) DEFAULT NULL,
+  `race` int(11) DEFAULT NULL,
+  `sex` int(11) DEFAULT NULL,
+  `hair` int(11) DEFAULT NULL,
+  `totalExp` bigint(20) DEFAULT NULL,
+  `levelUpExp` bigint(20) DEFAULT NULL,
+  `lime` bigint(20) DEFAULT NULL,
+  `statusPoints` int(11) DEFAULT NULL,
+  `penaltyPoints` int(11) DEFAULT NULL,
+  `guildid` int(11) DEFAULT NULL,
+  `guildlvl` int(11) DEFAULT NULL,
+  `x` int(11) DEFAULT NULL,
+  `y` int(11) DEFAULT NULL,
+  `z` int(11) DEFAULT NULL,
+  `mapId` int(11) DEFAULT NULL,
+  `petid` int(11) NOT NULL DEFAULT '-1',
+  PRIMARY KEY (`id`),
+  UNIQUE KEY `name_UNIQUE` (`name`)
+) ENGINE=MyISAM  DEFAULT CHARSET=utf8;
+
+DROP TABLE IF EXISTS `equipment`;
+
+CREATE TABLE `equipment` (
+  `charid` int(11) NOT NULL,
+  `slot` int(11) NOT NULL,
+  `itemid` bigint(20) NOT NULL,
+  PRIMARY KEY  (`charid`,`slot`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
+
+DROP TABLE IF EXISTS `evequipment`;
+
+CREATE TABLE `evequipment` (
+  `charid` int(11) NOT NULL,
+  `slot` int(11) NOT NULL,
+  `itemid` bigint(20) NOT NULL,
+  PRIMARY KEY  (`charid`,`slot`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
+
+DROP TABLE IF EXISTS `exchange`;
+
+CREATE TABLE `exchange` (
+  `charid` int(11) NOT NULL default '0',
+  `itemid` bigint(20) NOT NULL,
+  `x` int(11) NOT NULL default '0',
+  `y` int(11) NOT NULL default '0',
+  PRIMARY KEY  (`itemid`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
+
+DROP TABLE IF EXISTS `guilds`;
+
+CREATE TABLE `guilds` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `Name` varchar(50) NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
+
+DROP TABLE IF EXISTS `inventory`;
+
+CREATE TABLE `inventory` (
+  `charid` bigint(20) NOT NULL,
+  `itemid` bigint(20) NOT NULL,
+  `tab` int(11) NOT NULL,
+  `x` int(11) NOT NULL,
+  `y` int(11) NOT NULL,
+  PRIMARY KEY  (`itemid`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
+
+DROP TABLE IF EXISTS `items`;
+
+CREATE TABLE `items` (
+  `id` bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+  `type` int(11) DEFAULT NULL,
+  `gemnumber` bigint(20) NOT NULL DEFAULT '0',
+  `extrastats` bigint(20) NOT NULL DEFAULT '0',
+  `durability` double NOT NULL DEFAULT '0',
+  `unknown1` int(11) NOT NULL DEFAULT '0',
+  `unknown2` int(11) NOT NULL DEFAULT '0',
+  `unknown3` int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
+
+DROP TABLE IF EXISTS `questobjectivestate`;
+
+CREATE TABLE IF NOT EXISTS `questobjectivestate` (
+  `queststateid` int(11) NOT NULL,
+  `objectiveid` int(11) NOT NULL,
+  `ammount` int(11) NOT NULL,
+  PRIMARY KEY (`queststateid`,`objectiveid`)
+)  ENGINE=MyISAM DEFAULT CHARSET=utf8;
+
+DROP TABLE IF EXISTS `pet`;
+
+CREATE TABLE `pet` (
+  `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
+  `hp` int(11) NOT NULL DEFAULT '96',
+  `closeDefence` int(11) NOT NULL DEFAULT '12',
+  `distantDefence` int(11) NOT NULL DEFAULT '7',
+  `closeAttack` int(11) NOT NULL DEFAULT '24',
+  `distantAttack` int(11) NOT NULL DEFAULT '16',
+  `exp` bigint(20) NOT NULL DEFAULT '0',
+  `loyalty` int(11) NOT NULL DEFAULT '0',
+  `amulet` int(11) NOT NULL DEFAULT '-1',
+  `name` varchar(32) NOT NULL DEFAULT 'Labiyong',
+  `level` int(11) NOT NULL DEFAULT '1',
+  `basket` bigint(20) NOT NULL DEFAULT '-1',
+  `state` int(11) NOT NULL DEFAULT '1',
+  `breedtime` int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM  DEFAULT CHARSET=utf8;
+
+DROP TABLE IF EXISTS `petequipment`;
+
+CREATE TABLE `petequipment` (
+  `petid` int(11) NOT NULL,
+  `slot` int(11) NOT NULL,
+  `itemid` bigint(20) NOT NULL,
+  PRIMARY KEY  (`petid`,`slot`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
+
+DROP TABLE IF EXISTS `queststate`;
+
+CREATE TABLE IF NOT EXISTS `queststate` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `charid` int(11) NOT NULL,
+  `questid` int(11) NOT NULL,
+  PRIMARY KEY (`id`)
+)  ENGINE=MyISAM DEFAULT CHARSET=utf8;
+
+DROP TABLE IF EXISTS `quickslot`;
+
+CREATE TABLE `quickslot` (
+  `charid` int(11) NOT NULL,
+  `itemid` bigint(20) NOT NULL,
+  `slot` int(11) NOT NULL,
+  PRIMARY KEY  (`charid`,`itemid`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
+
+DROP TABLE IF EXISTS `roaming`;
+
+CREATE TABLE `roaming` (
+  `itemid` bigint(20) NOT NULL,
+  `mapid` int(11) NOT NULL,
+  `x` int(11) NOT NULL,
+  `y` int(11) NOT NULL,
+  `z` int(11) NOT NULL,
+  `rotation` double NOT NULL,
+  PRIMARY KEY (`itemid`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
+
+DROP TABLE IF EXISTS `skills`;
+
+CREATE TABLE `skills` (
+  `charid` int(11) NOT NULL,
+  `id` int(11) NOT NULL,
+  `level` int(11) NOT NULL,
+  PRIMARY KEY  (`charid`,`id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
+
+DROP TABLE IF EXISTS `slots`;
+
+CREATE TABLE `slots` (
+  `accountid` int(11) NOT NULL,
+  `charid` int(11) NOT NULL,
+  `slot` int(11) NOT NULL,
+  PRIMARY KEY  (`accountid`,`slot`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
+
+DROP TABLE IF EXISTS `warehouse`;
+
+CREATE TABLE `warehouse` (
+  `accountid` int(11) NOT NULL default '0',
+  `pos` int(11) NOT NULL default '0',
+  `itemid` bigint(20) NOT NULL default '0',
+  PRIMARY KEY  (`itemid`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
+
+COMMIT;

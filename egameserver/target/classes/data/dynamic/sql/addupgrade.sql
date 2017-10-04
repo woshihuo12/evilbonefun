@@ -1,0 +1,1 @@
+ALTER TABLE `pet` ADD `upgrade` int(11) default '0' AFTER `state` ;

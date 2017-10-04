@@ -1,0 +1,44 @@
+[Spawn 620]   
+ID = 620
+X = 2000
+Y = 6300
+Z = 0
+Radius = 150
+RespawnTime = 120
+Type = 125
+
+[Spawn 621]   
+ID = 621
+X = 2000
+Y = 6300
+Z = 0
+Radius = 150
+RespawnTime = 120
+Type = 124
+
+[Spawn 622]   
+ID = 622
+X = 2000
+Y = 6300
+Z = 0
+Radius = 150
+RespawnTime = 120
+Type = 126
+
+[Spawn 623]   
+ID = 623
+X = 2000
+Y = 6300
+Z = 0
+Radius = 150
+RespawnTime = 120
+Type = 127
+
+[Spawn 624]   
+ID = 624
+X = 2000
+Y = 6300
+Z = 0
+Radius = 150
+RespawnTime = 120
+Type = 128

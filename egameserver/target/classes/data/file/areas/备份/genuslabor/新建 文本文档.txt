@@ -1,0 +1,74 @@
+[Spawn 76]
+ID = 76
+X = 5530
+Y = 1000
+Z = 103
+Radius = 30
+RespawnTime = 100
+Type = 363
+
+[Spawn 77]
+ID = 77
+X = 5530
+Y = 1050
+Z = 103
+Radius = 30
+RespawnTime = 100
+Type = 362
+
+[Spawn 78]
+ID = 78
+X = 5530
+Y = 1100
+Z = 103
+Radius = 30
+RespawnTime = 100
+Type = 302
+
+[Spawn 79]
+ID = 79
+X = 5580
+Y = 1000
+Z = 103
+Radius = 30
+RespawnTime = 100
+Type = 296
+
+[Spawn 80]
+ID = 80
+X = 5580
+Y = 1050
+Z = 103
+Radius = 30
+RespawnTime = 100
+Type = 300
+
+[Spawn 81]
+ID = 81
+X = 5630
+Y = 1130
+Z = 103
+Radius = 30
+RespawnTime = 100
+Type = 362
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

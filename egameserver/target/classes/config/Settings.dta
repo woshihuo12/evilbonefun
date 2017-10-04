@@ -1,0 +1,49 @@
+#Server configuration object
+[Server]
+DataPath=classpath:/data/file
+xp = 10       	#经验倍数  1=1x, 2=2x, 3=3x...
+lime = 10			#金钱倍数  1=1x, 2=2x, 3=3x...
+DefaultMap = 4      #默认地图
+StartLime = 20160  #开始金钱
+Version = 770       #版本
+WelcomeMsg = 猴年大吉大利，财源滚滚  
+SessionRadius = 300         #视线范围
+MobRadiusArea = 50         #怪活动半径区域
+DropExclusivity = 5        #掉落物品他人可以拾取的时间
+DropTimeOut = 60           #掉落物品超时
+SpawnAttempts = 3           #
+CriticalMultiplier = 0		# 人物暴率系数 1 = 100% 两倍
+CriticalChance = 0.0		# 人物暴击控制，值越大暴击机率越大，设为1 100%暴击 1 = 100%
+PetEquipmentCompensation = 0.3	#宝宝装备补偿   0.3 = 30%
+PetBreedTime = 7200       #宝宝出生时间，单位秒，72000秒=20小时
+ItemPlusByOne = 0.15		#掉落一件物品的机率    0.05 = 5%
+ItemPlusByTwo = 0.13		#掉落二件物品的机率    0.01 = 1%
+MobMutantChance = 0.02	#突变体怪的机率   0.1 = 10%
+MobMutantModifier = 0.5	#如果是突变体，怪的攻击乘突变的系数    1.5 = 150%
+MobsMovement = 1		    #怪是否主动攻击     0=Disabled 1=Enabled
+CloseAttackRadius = 30      #停止攻击的半径
+RangeAttackRadius = 120     #攻击范围半径
+DemolitionModifier = 0.5	#0.5 = 50%
+PlayerMaxLevel = 400		#人物的最大等级,为0为不限制
+InventoryLimeLimit = 2100000000		#lime
+WarehouseLimeLimit = 2100000000		#lime
+
+#Enhanced Exp Config
+ExpPlayerMobDifference = 150 #人物与怪等级相差100级没有经验
+ExpLowerStep = 1             #
+
+#新手补偿
+NewCharLevel = 299 #249级前为新人补偿阶段
+Newcharxp = 4         #补偿经验倍数
+
+#经验双倍活动时间段
+StartTime = 8     #开始时间，为0没有活动
+EndTime = 11
+startxp = 2
+
+#服务器最大登录人数
+maxPlayer = 3000
+
+#广域网IP
+#wanIp = 121.23.176.99                                                                        
+wanIp = 192.168.1.101                                                                        

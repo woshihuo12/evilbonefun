@@ -1,0 +1,501 @@
+###### SKILLS LIST ######
+
+[Basic Attacks]
+ID = 0
+Class = BasicAttack
+
+[Sword Master]
+ID = 1
+Class = bulkan.SwordMastery
+
+[Axe Master]
+ID = 2
+Class = bulkan.AxeMastery
+
+[Fireball]
+ID = 3
+Class = kailipton.FireBall
+
+[Lightning Ball]
+ID = 4
+Class = kailipton.LightningBall
+
+[Lightning]
+ID = 5
+Class = kailipton.Lightning
+
+[Recovery] #恢复术
+ID = 6
+Class = aidia.Recovery
+
+[Mana Shield]
+ID = 7
+Class = kailipton.ManaShield
+
+[Fire Mastery]
+ID = 8
+Class = kailipton.FireMastery
+
+[Glow of Peace]
+ID = 9
+Class = SkillPlaceHolder
+
+[Fire Pillar]
+ID = 10
+Class = kailipton.FirePillar
+
+[Stone Mastery]
+ID = 11
+Class = kailipton.StoneMastery
+
+[Pebble Shot]
+ID = 12
+Class = kailipton.PebbleShot
+
+[Hail]
+ID = 13
+Class = kailipton.Hail
+
+[Lightning Mastery]
+ID = 14
+Class = kailipton.LightningMastery
+
+[Return to Village]
+ID = 15
+Class = kailipton.ReturnToVillage
+
+[Power-up Stamina]
+ID = 16
+Class = SkillPlaceHolder
+
+[Iron Skin] #铁肤术
+ID = 17
+Class = bulkan.IronSkin
+
+[OverHead Blow]
+ID = 18
+Class = bulkan.OverHeadBlow
+
+[Recovery Boost]
+ID = 19
+Class = bulkan.RecoveryBoost
+
+[Marksmanship]
+ID = 20
+Class = human.Marksmanship
+
+[Gem Cutting Skill]
+ID = 21
+Class = human.GemCutting
+
+[Teleport] #瞬移术
+ID = 22
+Class = aidia.Teleport
+
+[Party Summon Skill]
+ID = 23
+Class = SkillPlaceHolder
+
+[Bug Summon Skill] #昆虫召唤术
+ID = 24
+Class = aidia.BugSummonSkill
+
+[Healing]
+ID = 25
+Class = SkillPlaceHolder
+
+[Star Flare]
+ID = 26
+Class = kailipton.StarFlare
+
+[Shock Sphere]
+ID = 27
+Class = kailipton.ShockSphere
+
+[Stone Lance]
+ID = 28
+Class = kailipton.StoneLance
+
+[Semi-automatic skill] #连射
+ID = 29
+Class = human.SemiAutomatic
+
+[Electric Shield]
+ID = 30
+Class = human.ElectricShield
+
+[Whirlwind Slash]
+ID = 31
+Class = bulkan.WhirlwindSlash
+
+[Safety Shield] #魔法刺盾
+ID = 32
+Class = aidia.SafetyShield
+
+[Beast Summon Skill] #动物召唤术
+ID = 33
+Class = aidia.BeastSummonSkill
+
+[Phenomenon] #变异术
+ID = 34
+Class = aidia.Phenomenon
+
+[Sniper Skill] #狙击术
+ID = 35
+Class = human.Sniper
+
+[Stealth Skill]
+ID = 36
+Class = SkillPlaceHolder
+
+[Body of Steel] #钢筋铁骨
+ID = 37
+Class = bulkan.BodyofSteel
+
+[Exploding Rage]#怒气炸烈
+ID = 38
+Class = bulkan.ExplodingRage
+
+[Eye of Insight]
+ID = 39
+Class = SkillPlaceHolder
+
+[Second Attack]
+ID = 40
+Class = bulkan.SecondAttack
+
+[Concentrated Attack]
+ID = 41
+Class = SkillPlaceHolder
+
+[Marksmanship Skill] #瞄准力
+ID = 42
+Class = human.Marksmanshipskill
+
+[Pierce] #贯穿力
+ID = 43
+Class = human.Pierce
+
+[Machine Operation Skill] #操作术
+ID = 44
+Class = human.MachineOperation
+
+[Assembly Skill]
+ID = 45
+Class = SkillPlaceHolder
+
+[Absorb Magic]
+ID = 46
+Class = SkillPlaceHolder
+
+[Concentration]
+ID = 47
+Class = SkillPlaceHolder
+
+[Hurricane of Psychokinetic Energy]
+ID = 48
+Class = SkillPlaceHolder
+
+[Translate Ancient Languages]#古文解读
+ID = 49
+Class = kailipton.TranslateAncientLanguages
+
+[Transfer Magical Power]
+ID = 50
+Class = kailipton.TransferMagicalPower
+
+[Confusion]
+ID = 51
+Class = SkillPlaceHolder
+
+[Regain]
+ID = 52
+Class = SkillPlaceHolder
+
+[Blessing from the Earth] #大地的祝福
+ID = 53
+Class = aidia.BlessingfromtheEarth
+
+[Share Vitality] #治愈术
+ID = 54
+Class = aidia.ShareVitality
+
+[Wind of Enchantment] #魅惑之风
+ID = 55
+Class = aidia.WindofEnchantment
+
+[Obedience]
+ID = 56
+Class = SkillPlaceHolder
+
+[Glow of Life]
+ID = 57
+Class = SkillPlaceHolder
+
+[Tranquility] #平静术
+ID = 58
+Class = aidia.Tranquility
+
+[Sub Attack]
+ID = 59
+Class = SkillPlaceHolder
+
+[Force attack]
+ID = 60
+Class = SkillPlaceHolder
+
+[Force control]
+ID = 61
+Class = SkillPlaceHolder
+
+[Bloody Mana]
+ID = 62
+Class = SkillPlaceHolder
+
+[Vampire's touch]
+ID = 63
+Class = SkillPlaceHolder
+
+[Hell's touch]
+ID = 64
+Class = SkillPlaceHolder
+
+[Deep attack]
+ID = 65
+Class = SkillPlaceHolder
+
+[Chain attack]
+ID = 66
+Class = SkillPlaceHolder
+
+[Scales of protection]
+ID = 67
+Class = SkillPlaceHolder
+
+[Scales of guardian]
+ID = 68
+Class = SkillPlaceHolder
+
+[Passion of Music]
+ID = 69
+Class = SkillPlaceHolder
+
+[Scales of Fighting Spirit]
+ID = 70
+Class = SkillPlaceHolder
+
+[Hell Cry]
+ID = 71
+Class = SkillPlaceHolder
+
+[Tornado Ruin]
+ID = 72
+Class = SkillPlaceHolder
+
+[Summon Fission]
+ID = 73
+Class = SkillPlaceHolder
+
+[Air Raid]
+ID = 74
+Class = SkillPlaceHolder
+
+[Hell Cry control]
+ID = 75
+Class = SkillPlaceHolder
+
+[Tornado Operation]
+ID = 76
+Class = SkillPlaceHolder
+
+[Air Raid Concent]
+ID = 77
+Class = SkillPlaceHolder
+
+[Fission Control]
+ID = 78
+Class = SkillPlaceHolder
+
+[Dual Sword Mastery] #精通双刀
+ID = 79
+Class = hybrider.DualSwordMastery
+
+[Recovery power increase] #提高恢复力
+ID = 80
+Class = hybrider.Recoverypowerincrease
+
+[Haste] #迅雷
+ID = 81
+Class = hybrider.Haste
+
+[Double Slash]#连击
+ID = 82
+Class = hybrider.DoubleSlash
+
+[Evasion] #闪避
+ID = 83
+Class = hybrider.Evasion
+
+[Bleed] #沸血术
+ID = 84
+Class = hybrider.Bleed
+
+[Dash] #空间异移
+ID = 85
+Class = hybrider.Dash
+
+[Assault] #突击
+ID = 86
+Class = hybrider.Assault
+
+[Dual Assault] #双重突击
+ID = 87
+Class = hybrider.DualAssault
+
+[Hide] #暗隐术
+ID = 88
+Class = hybrider.Hide
+
+[Hammer Mastery] #精通重锤 
+ID = 89
+Class = SkillPlaceHolder
+
+[Vital Expansion]
+ID = 90
+Class = SkillPlaceHolder
+
+[Heavy Mastery]
+ID = 91
+Class = SkillPlaceHolder
+
+[Bash]
+ID = 92
+Class = SkillPlaceHolder
+
+[Iron Skin Double?]
+ID = 93
+Class = SkillPlaceHolder
+
+[Divine Stone]
+ID = 94
+Class = SkillPlaceHolder
+
+[Stone Increase]
+ID = 95
+Class = SkillPlaceHolder
+
+[Time Charge]
+ID = 96
+Class = SkillPlaceHolder
+
+[Stone Brust]
+ID = 97
+Class = SkillPlaceHolder
+
+[Reflection]
+ID = 98
+Class = SkillPlaceHolder
+
+[Stamina-Up]
+ID = 99
+Class = SkillPlaceHolder
+
+[Burning Crash]
+ID = 100
+Class = bulkan.BurningCrash
+
+[Hell-Mastery]
+ID = 101
+Class = SkillPlaceHolder
+
+[Helldown]
+ID = 102
+Class = SkillPlaceHolder
+
+[Process Skill]
+ID = 103
+Class = SkillPlaceHolder
+
+[Auto Mine]
+ID = 104
+Class = SkillPlaceHolder
+
+[Summon Squad]
+ID = 105
+Class = SkillPlaceHolder
+
+[Life Expansion]
+ID = 106
+Class = SkillPlaceHolder
+
+[Flying Crash]
+ID = 107
+Class = SkillPlaceHolder
+
+[Poison]
+ID = 108
+Class = SkillPlaceHolder
+
+[Electric Shot]
+ID = 109
+Class = SkillPlaceHolder
+
+[Summon Flower]
+ID = 110
+Class = SkillPlaceHolder
+
+[Shadow Slash] #影刺术
+ID = 111
+Class = hybrider.ShadowSlash
+
+[Adrenalin]
+ID = 112
+Class = SkillPlaceHolder
+
+[Wild Smash]
+ID = 113
+Class = SkillPlaceHolder
+
+[Flame Spear]
+ID = 114
+Class = SkillPlaceHolder
+
+[Fire Blindly]
+ID = 115
+Class = SkillPlaceHolder
+
+[Summon Fire]
+ID = 116
+Class = SkillPlaceHolder
+
+[Space Slash] #空间撕裂
+ID = 117
+Class = hybrider.SpaceSlash
+
+[Electronic Hammer]
+ID = 118
+Class = SkillPlaceHolder
+
+[Protection Shield]
+ID = 119
+Class = SkillPlaceHolder
+
+[Ice Bolt]
+ID = 120
+Class = SkillPlaceHolder
+
+[Frozen Shot]
+ID = 121
+Class = SkillPlaceHolder
+
+[Ressrrection]
+ID = 122
+Class = SkillPlaceHolder
+
+[Merciless Smash] #次元斩
+ID = 123
+Class = hybrider.MercilessSmash
+
+[Tornado Hammer]
+ID = 124
+Class = SkillPlaceHolder

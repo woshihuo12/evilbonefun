@@ -1,0 +1,159 @@
+[拉米广场]
+ID = 4
+PlayerSpawn = areas/laglamia/PlayerSpawns.dta
+MobSpawn = areas/laglamia/MobSpawns.dta
+NpcSpawn = areas/laglamia/NpcSpawns.dta
+PlayerArea = areas/laglamia/PlayerArea.bmp
+MobArea = areas/laglamia/MobArea.bmp
+PvpArea = areas/laglamia/PvpArea.bmp
+DefaultSpawnId = 1
+
+[失落城堡]
+ID = 0
+PlayerSpawn = areas/lostrealmcastle/PlayerSpawns.dta
+MobSpawn = areas/lostrealmcastle/MobSpawns.dta
+NpcSpawn = areas/lostrealmcastle/NpcSpawns.dta
+PlayerArea = areas/lostrealmcastle/PlayerArea.bmp
+MobArea = areas/lostrealmcastle/MobArea.bmp
+PvpArea = areas/lostrealmcastle/PvpArea.bmp
+DefaultSpawnId = 1
+
+[夏龙平原]
+ID = 3
+PlayerSpawn = areas/shilon/PlayerSpawns.dta
+MobSpawn = areas/shilon/MobSpawns.dta
+NpcSpawn = areas/shilon/NpcSpawns.dta
+PlayerArea = areas/shilon/PlayerArea.bmp
+MobArea = areas/shilon/MobArea.bmp
+PvpArea = areas/shilon/PvpArea.bmp
+DefaultSpawnId = 1
+
+[希罗斯特地城]
+ID = 5
+PlayerSpawn = areas/searost/PlayerSpawns.dta
+MobSpawn = areas/searost/MobSpawns.dta
+NpcSpawn = areas/searost/NpcSpawns.dta
+PlayerArea = areas/searost/PlayerArea.bmp
+MobArea = areas/searost/MobArea.bmp
+PvpArea = areas/searost/PvpArea.bmp
+DefaultSpawnId = 1
+
+[天空之城]
+ID = 6
+PlayerSpawn = areas/paros/PlayerSpawns.dta
+MobSpawn = areas/paros/MobSpawns.dta
+NpcSpawn = areas/paros/NpcSpawns.dta
+PlayerArea = areas/paros/PlayerArea.bmp
+MobArea = areas/paros/MobArea.bmp
+PvpArea = areas/paros/PvpArea.bmp
+DefaultSpawnId = 1
+
+[戴卡顿地城]
+ID = 2
+PlayerSpawn = areas/deckadun/PlayerSpawns.dta
+MobSpawn = areas/deckadun/MobSpawns.dta
+NpcSpawn = areas/deckadun/NpcSpawns.dta
+PlayerArea = areas/deckadun/PlayerArea.bmp
+MobArea = areas/deckadun/MobArea.bmp
+PvpArea = areas/deckadun/PvpArea.bmp
+DefaultSpawnId = 1
+
+[戴卡伦地城]
+ID = 1
+PlayerSpawn = areas/deckaran/PlayerSpawns.dta
+MobSpawn = areas/deckaran/MobSpawns.dta
+NpcSpawn = areas/deckaran/NpcSpawns.dta
+PlayerArea = areas/deckaran/PlayerArea.bmp
+MobArea = areas/deckaran/MobArea.bmp
+PvpArea = areas/deckaran/PvpArea.bmp
+DefaultSpawnId = 1
+
+[冰雪极地]
+ID = 7
+PlayerSpawn = areas/greatewhitehorn/PlayerSpawns.dta
+MobSpawn = areas/greatewhitehorn/MobSpawns.dta
+NpcSpawn = areas/greatewhitehorn/NpcSpawns.dta
+PlayerArea = areas/greatewhitehorn/PlayerArea.bmp
+MobArea = areas/greatewhitehorn/MobArea.bmp
+PvpArea = areas/greatewhitehorn/PvpArea.bmp
+DefaultSpawnId = 1
+
+[冰晶洞窟]
+ID = 8
+PlayerSpawn = areas/genuslabor/PlayerSpawns.dta
+MobSpawn = areas/genuslabor/MobSpawns.dta
+NpcSpawn = areas/genuslabor/NpcSpawns.dta
+PlayerArea = areas/genuslabor/PlayerArea.bmp
+MobArea = areas/genuslabor/MobArea.bmp
+PvpArea = areas/genuslabor/PvpArea.bmp
+DefaultSpawnId = 1
+
+[米特伦]
+ID = 9
+PlayerSpawn = areas/dimitron/PlayerSpawns.dta
+MobSpawn = areas/dimitron/MobSpawns.dta
+NpcSpawn = areas/dimitron/NpcSpawns.dta
+PlayerArea = areas/dimitron/PlayerArea.bmp
+MobArea = areas/dimitron/MobArea.bmp
+PvpArea = areas/dimitron/PvpArea.bmp
+DefaultSpawnId = 1
+
+[伊兰城]
+ID = 13
+PlayerSpawn = areas/turan/PlayerSpawns.dta
+MobSpawn = areas/turan/MobSpawns.dta
+NpcSpawn = areas/turan/NpcSpawns.dta
+PlayerArea = areas/turan/PlayerArea.bmp
+MobArea = areas/turan/MobArea.bmp
+PvpArea = areas/turan/PvpArea.bmp
+DefaultSpawnId = 1
+
+[Balkariya]
+ID = 14
+PlayerSpawn = areas/balkariya/PlayerSpawns.dta
+MobSpawn = areas/balkariya/MobSpawns.dta
+NpcSpawn = areas/balkariya/NpcSpawns.dta
+PlayerArea = areas/balkariya/PlayerArea.bmp
+MobArea = areas/balkariya/MobArea.bmp
+PvpArea = areas/balkariya/PvpArea.bmp
+DefaultSpawnId = 1
+
+[Barsha]
+ID = 15
+PlayerSpawn = areas/barsha/PlayerSpawns.dta
+MobSpawn = areas/barsha/MobSpawns.dta
+NpcSpawn = areas/barsha/NpcSpawns.dta
+PlayerArea = areas/barsha/PlayerArea.bmp
+MobArea = areas/barsha/MobArea.bmp
+PvpArea = areas/barsha/PvpArea.bmp
+DefaultSpawnId = 1
+
+[库伊城]
+ID = 16
+PlayerSpawn = areas/queiz/PlayerSpawns.dta
+MobSpawn = areas/queiz/MobSpawns.dta
+NpcSpawn = areas/queiz/NpcSpawns.dta
+PlayerArea = areas/queiz/PlayerArea.bmp
+MobArea = areas/queiz/MobArea.bmp
+PvpArea = areas/queiz/PvpArea.bmp
+DefaultSpawnId = 1
+
+[Beargrid]
+ID = 17
+PlayerSpawn = areas/beargrid/PlayerSpawns.dta
+MobSpawn = areas/beargrid/MobSpawns.dta
+NpcSpawn = areas/beargrid/NpcSpawns.dta
+PlayerArea = areas/beargrid/PlayerArea.bmp
+MobArea = areas/beargrid/MobArea.bmp
+PvpArea = areas/beargrid/PvpArea.bmp
+DefaultSpawnId = 1
+
+[Marboten]
+ID = 18
+PlayerSpawn = areas/marboten/PlayerSpawns.dta
+MobSpawn = areas/marboten/MobSpawns.dta
+NpcSpawn = areas/marboten/NpcSpawns.dta
+PlayerArea = areas/marboten/PlayerArea.bmp
+MobArea = areas/marboten/MobArea.bmp
+PvpArea = areas/marboten/PvpArea.bmp
+DefaultSpawnId = 1

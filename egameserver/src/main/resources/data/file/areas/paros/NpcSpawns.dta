@@ -1,0 +1,159 @@
+[Veterinary-1]
+ID = 1
+X = 11750
+Y = 11450
+Z = 332
+Rotation = 1.5707
+Type = 189  #兽医师
+
+[Aisian Bandor-10]                   #仓库
+ID = 10
+X = 11650
+Y = 11450
+Z = 332
+Rotation = 1.5707
+Type = 139
+
+[Paros Grocer-2]
+ID = 2
+X = 11700
+Y = 11450
+Z = 332
+Rotation = 1.5707 #面上
+Type = 238  #派罗斯杂货商人
+BuyRate = 130	# Value in %
+SellRate = 20	# Value in %
+Shop = areas/paros/shop/npc2.dta
+
+[Paros Grocer-3]
+ID = 3
+X = 11725
+Y = 11450
+Z = 332
+Rotation = 1.5707 #面上
+Type = 238  #派罗斯杂货商人
+BuyRate = 130	# Value in %
+SellRate = 20	# Value in %
+Shop = areas/paros/shop/npc3.dta
+
+[Paros Ammo-4]
+ID = 4
+X = 11600
+Y = 11450
+Z = 332
+Rotation = 1.5707
+Type = 240        #派罗斯弹丸商人
+BuyRate = 130	# Value in %
+SellRate = 20	# Value in %
+Shop = areas/paros/shop/npc4.dta
+
+[Paros Grocer-5]
+ID = 5
+X = 6562
+Y = 7348
+Z = 332
+Rotation = 1.5707 #面上
+Type = 238  #派罗斯杂货商人
+BuyRate = 130	# Value in %
+SellRate = 20	# Value in %
+Shop = areas/paros/shop/npc3.dta
+
+[Paros Grocer-6]
+ID = 6
+X = 3776
+Y = 6699
+Z = 332
+Rotation = 1.5707 #面上
+Type = 238  #派罗斯杂货商人
+BuyRate = 130	# Value in %
+SellRate = 20	# Value in %
+Shop = areas/paros/shop/npc3.dta
+
+[Paros Grocer-7]
+ID = 7
+X = 1300
+Y = 6500
+Z = 332
+Rotation = 1.5707 #面上
+Type = 238  #派罗斯杂货商人
+BuyRate = 130	# Value in %
+SellRate = 20	# Value in %
+Shop = areas/paros/shop/npc3.dta
+
+[Paros Grocer-8]
+ID = 8
+X = 3391
+Y = 3927
+Z = 332
+Rotation = 1.5707 #面上
+Type = 238  #派罗斯杂货商人
+BuyRate = 130	# Value in %
+SellRate = 20	# Value in %
+Shop = areas/paros/shop/npc3.dta
+
+[Paros Grocer-9]
+ID = 9
+X = 3574
+Y = 2306
+Z = 332
+Rotation = 1.5707 #面上
+Type = 238  #派罗斯杂货商人
+BuyRate = 130	# Value in %
+SellRate = 20	# Value in %
+Shop = areas/paros/shop/npc3.dta
+
+[Paros Grocer-11]
+ID = 11
+X = 1450
+Y = 1450
+Z = 332
+Rotation = 1.5707 #面上
+Type = 238  #派罗斯杂货商人
+BuyRate = 130	# Value in %
+SellRate = 20	# Value in %
+Shop = areas/paros/shop/npc3.dta
+
+[Paros Grocer-12]
+ID = 12
+X = 5927
+Y = 1674
+Z = 332
+Rotation = 1.5707 #面上
+Type = 238  #派罗斯杂货商人
+BuyRate = 130	# Value in %
+SellRate = 20	# Value in %
+Shop = areas/paros/shop/npc3.dta
+
+[Paros Grocer-13]
+ID = 13
+X = 7450
+Y = 3750
+Z = 332
+Rotation = 1.5707 #面上
+Type = 238  #派罗斯杂货商人
+BuyRate = 130	# Value in %
+SellRate = 20	# Value in %
+Shop = areas/paros/shop/npc3.dta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -16,8 +16,6 @@ public class PacketParser extends EventDispatcher implements EventListener {
         messageParser = new MessageParser();
     }
 
-
-
     @Override
     public void handleEvent(Event event) {
 

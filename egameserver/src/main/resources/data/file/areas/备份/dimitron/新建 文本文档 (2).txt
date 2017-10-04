@@ -1,0 +1,44 @@
+[Spawn 65]
+ID = 65
+X = 3951
+Y = 11077
+Z = 368
+Radius = 200
+RespawnTime = 160
+Type = 408
+
+[Spawn 65]
+ID = 65
+X = 3951
+Y = 11077
+Z = 368
+Radius = 200
+RespawnTime = 160
+Type = 408
+
+[Spawn 65]
+ID = 65
+X = 3951
+Y = 11077
+Z = 368
+Radius = 200
+RespawnTime = 260
+Type = 415
+
+[Spawn 65]
+ID = 65
+X = 3951
+Y = 11077
+Z = 368
+Radius = 200
+RespawnTime = 260
+Type = 415
+
+[Spawn 65]
+ID = 65
+X = 3951
+Y = 11077
+Z = 368
+Radius = 200
+RespawnTime = 260
+Type = 415

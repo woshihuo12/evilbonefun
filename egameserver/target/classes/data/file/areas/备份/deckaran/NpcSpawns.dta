@@ -1,0 +1,57 @@
+[Merchant-1]
+ID = 1
+X = 8000
+Y = 1800
+Z = 0
+Rotation = 4.7123
+Type = 64        #¿∂Õ∑∂•‘⁄◊÷£®SHOP)…Ã»À
+BuyRate = 120	# Value in %
+SellRate = 20	# Value in %
+Shop = areas/deckaran/shop/npc1.dta
+
+[Merchant-4]
+ID = 4
+X = 566
+Y = 5600
+Z = 0
+Rotation = 0.0
+Type = 64
+BuyRate = 120	# Value in %
+SellRate = 20	# Value in %
+Shop = areas/deckaran/shop/npc2.dta
+
+[Aisian Bandor-5]                   #≤÷ø‚
+ID = 5
+X = 566
+Y = 5650
+Z = 0
+Rotation = 0.0
+Type = 139
+
+[Aisian Bandor-6]                   #≤÷ø‚
+ID = 6
+X = 8050
+Y = 1800
+Z = 0
+Rotation = 4.7123
+Type = 139
+
+[Merchant-7]
+ID = 7
+X = 566
+Y = 5625
+Z = 0
+Rotation = 0.0
+Type = 64
+BuyRate = 120	# Value in %
+SellRate = 20	# Value in %
+Shop = areas/deckaran/shop/npc1.dta
+
+
+
+
+
+
+
+
+
